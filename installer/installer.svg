@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="204.08774"
-     inkscape:cy="633.33987"
+     inkscape:cy="1953.3399"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -343,7 +343,9 @@
          id="flowPara20810" /><flowPara
          id="flowPara20812">- enough RAM</flowPara><flowPara
          id="flowPara20814">- compatible GPU</flowPara><flowPara
-         id="flowPara20816">- disk with a free partition</flowPara></flowRoot>    <rect
+         id="flowPara20816">- disk with a free partition</flowPara><flowPara
+         id="flowPara31458" /><flowPara
+         id="flowPara31460">FIXME: how to bail?</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
        id="rect63161"
        width="88.900002"
