@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="3000"
+   viewBox="0 0 317.49999 793.75002"
+   version="1.1"
+   id="svg19983"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="installer.svg"
+   inkscape:export-filename="/home/jimmac/SparkleShare/os-mockups/installer/installer.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs19977">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8915-0-8-2-7-4-4-8"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="204.08774"
+     inkscape:cy="633.33987"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-others="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="3440"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="61"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20618" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata19980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,496.75001)">
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26281026;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
+       d="M 21.559946,-456.93112 H 164.70344 c 1.3191,0 2.3811,1.18 2.3811,2.6458 v 9.7904 h -2.3811 -143.143494 -2.3811 v -9.7904 c 0,-1.4658 1.0619,-2.6458 2.3811,-2.6458 z"
+       id="path22455"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccccss" />
+    <rect
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect22457"
+       width="147.9081"
+       height="115.09386"
+       x="19.176273"
+       y="-444.4957" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect22459"
+       width="20.902082"
+       height="8.7312498"
+       x="144.32619"
+       y="-455.07898"
+       rx="0.79374993"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="154.77614"
+       y="-449.45444"
+       id="text22463"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:3.63802075px;line-height:1.25;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan22461"
+         x="154.77614"
+         y="-449.45444">Next</tspan></text>
+    <text
+       id="text22531"
+       y="-449.44614"
+       x="93.095589"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332"
+         y="-449.44614"
+         x="93.095589"
+         id="tspan22529"
+         sodipodi:role="line">OS Name 3.30</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20662"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.35466766px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-20.500008)"><flowRegion
+         id="flowRegion20664"><rect
+           id="rect20666"
+           width="241"
+           height="351"
+           x="935"
+           y="157" /></flowRegion><flowPara
+         id="flowPara20668">Windows</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20670"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-71.172917,-484.05001)"><flowRegion
+         id="flowRegion20672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
+           id="rect20674"
+           width="242"
+           height="398"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara20676">Window is not maximized on large sceens*</flowPara><flowPara
+         id="flowPara20866" /><flowPara
+         id="flowPara20868">Possibly friendly intro animation.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.6374197px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#404054;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.876846"
+       y="-429.39597"
+       id="text20680"><tspan
+         sodipodi:role="line"
+         id="tspan20678"
+         x="92.876846"
+         y="-429.39597"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#404054;stroke-width:0.26458332">Welcome!</tspan></text>
+    <path
+       sodipodi:nodetypes="sssccccss"
+       inkscape:connector-curvature="0"
+       id="path20682"
+       d="M 21.559946,-171.97487 H 164.70344 c 1.3191,0 2.3811,1.18 2.3811,2.6458 v 9.7904 h -2.3811 -143.143494 -2.3811 v -9.7904 c 0,-1.4658 1.0619,-2.6458 2.3811,-2.6458 z"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26281026;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect22465"
+       width="20.902082"
+       height="8.7312498"
+       x="21.030369"
+       y="-170.12273"
+       rx="0.79374963"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="31.561859"
+       y="-164.47723"
+       id="text22469"><tspan
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan22467"
+         x="31.561859"
+         y="-164.47723">Back</tspan></text>
+    <rect
+       y="-159.53949"
+       x="19.176273"
+       height="115.09386"
+       width="147.9081"
+       id="rect20684"
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79374993"
+       y="-170.12273"
+       x="144.32619"
+       height="8.7312498"
+       width="20.902082"
+       id="rect20686"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       id="text20690"
+       y="-164.49823"
+       x="154.77614"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="-164.49823"
+         x="154.77614"
+         id="tspan20688"
+         sodipodi:role="line"
+         style="font-size:3.63802075px;line-height:1.25;stroke-width:0.26458332">Next</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="93.095589"
+       y="-164.48991"
+       id="text20694"><tspan
+         sodipodi:role="line"
+         id="tspan20692"
+         x="93.095589"
+         y="-164.48991"
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332">Select Disk</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-71.172917,-199.09375)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20702"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion20698"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="398"
+           width="242"
+           id="rect20696" /></flowRegion><flowPara
+         id="flowPara20700">Primary expectation is to have a blank partition/disk to install to.</flowPara><flowPara
+         id="flowPara20708" /><flowPara
+         id="flowPara20710">Special case:</flowPara><flowPara
+         id="flowPara20712">Previous version of the same OS. Allow to replace. FIXME: upgrade.</flowPara><flowPara
+         id="flowPara20714" /><flowPara
+         id="flowPara20716">Multi boot, resizing =&gt; expert</flowPara><flowPara
+         id="flowPara20718">&gt; separate tool (Disks?). Abort the install process.</flowPara></flowRoot>    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26281026;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
+       d="M 21.559946,-317.76028 H 164.70344 c 1.3191,0 2.3811,1.18 2.3811,2.6458 v 9.7904 h -2.3811 -143.143494 -2.3811 v -9.7904 c 0,-1.4658 1.0619,-2.6458 2.3811,-2.6458 z"
+       id="path20739"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccccss" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79374963"
+       y="-315.90811"
+       x="21.030369"
+       height="8.7312498"
+       width="20.902082"
+       id="rect20741"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       id="text20745"
+       y="-310.2626"
+       x="31.561859"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="-310.2626"
+         x="31.561859"
+         id="tspan20743"
+         sodipodi:role="line"
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332">Back</tspan></text>
+    <rect
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect20747"
+       width="147.9081"
+       height="115.09386"
+       x="19.176273"
+       y="-305.32486" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect20749"
+       width="20.902082"
+       height="8.7312498"
+       x="144.32619"
+       y="-315.90811"
+       rx="0.79374993"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="154.77614"
+       y="-310.2836"
+       id="text20753"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:3.63802075px;line-height:1.25;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan20751"
+         x="154.77614"
+         y="-310.2836">Next</tspan></text>
+    <text
+       id="text20757"
+       y="-310.2753"
+       x="93.095589"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332"
+         y="-310.2753"
+         x="93.095589"
+         id="tspan20755"
+         sodipodi:role="line">Compatibility Check</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20777"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-71.172917,-344.87917)"><flowRegion
+         id="flowRegion20761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
+           id="rect20759"
+           width="242"
+           height="398"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara20775">Evaluate the OS is installable:</flowPara><flowPara
+         id="flowPara20810" /><flowPara
+         id="flowPara20812">- enough RAM</flowPara><flowPara
+         id="flowPara20814">- compatible GPU</flowPara><flowPara
+         id="flowPara20816">- disk with a free partition</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+       id="rect63161"
+       width="88.900002"
+       height="1.3229166"
+       x="49.477081"
+       y="-249.76146"
+       rx="0.52916664"
+       ry="0.52916664"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#2a79cb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+       id="rect63171"
+       width="32.014584"
+       height="1.3229166"
+       x="49.477081"
+       y="-249.76146"
+       rx="0.79374999"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-196.05625,-293.28542)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20850"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion20838"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="25.999996"
+           width="337"
+           id="rect20836" /></flowRegion><flowPara
+         id="flowPara20848">Examining system for compatible components…</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.97046471px;line-height:1.25;font-family:cantarell;-inkscape-font-specification:'cantarell Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.505026"
+       y="-464.86917"
+       id="text20872"><tspan
+         sodipodi:role="line"
+         id="tspan20870"
+         x="19.505026"
+         y="-464.86917"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:cantarell;-inkscape-font-specification:'cantarell Light';stroke-width:0.26458332">OS Installer</tspan></text>
+    <g
+       style="display:inline"
+       id="g8881"
+       transform="matrix(0.26458333,0,0,0.26458333,17.197916,-722.17501)">
+      <rect
+         y="1136.5"
+         x="120.50001"
+         height="150"
+         width="344"
+         id="rect8841"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 464.27311,1186.5 H 120.5"
+         id="path8843"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8845"
+         d="M 464.27311,1236.5 H 120.5"
+         style="display:inline;fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,17.197916,-682.48751)"
+       id="g20913"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect20907"
+         width="344"
+         height="150"
+         x="120.50001"
+         y="1136.5" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path20909"
+         d="M 464.27311,1186.5 H 120.5"
+         style="display:inline;fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 464.27311,1236.5 H 120.5"
+         id="path20911"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       ry="0.92604166"
+       rx="0.9198162"
+       y="-277.67499"
+       x="-30.686243"
+       height="24.402439"
+       width="1.8466712"
+       id="rect9661"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:#9b9d9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;marker:none;enable-background:new" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-191.02917,-454.24561)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20931"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion20923"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="398"
+           width="242"
+           id="rect20921" /></flowRegion><flowPara
+         id="flowPara20929">English (United States)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-191.02917,-427.25809)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20952"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion20948"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="31.999996"
+           width="242"
+           id="rect20946" /></flowRegion><flowPara
+         id="flowPara20950">English (United Kingdom)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20960"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-191.02917,-414.5581)"><flowRegion
+         id="flowRegion20956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
+           id="rect20954"
+           width="242"
+           height="27.999996"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara20958">Fraincais</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-191.02917,-400.79974)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20968"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion20964"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="398"
+           width="242"
+           id="rect20962" /></flowRegion><flowPara
+         id="flowPara20966">Deutsch</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6433"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+       transform="matrix(0.26458333,0,0,0.26458333,-47.883591,-451.53857)"><flowRegion
+         id="flowRegion6435"><rect
+           id="rect6437"
+           width="219"
+           height="74"
+           x="386"
+           y="160"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:400%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new" /></flowRegion><flowPara
+         id="flowPara6439"
+         style="font-size:14px;line-height:4">日本語を使う</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-200.54817,-296.7573)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+       id="flowRoot6441"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6443"><rect
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:400%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:new"
+           y="160"
+           x="386"
+           height="74"
+           width="219"
+           id="rect6445" /></flowRegion><flowPara
+         id="flowPara6447"
+         style="font-size:14px;line-height:4">使用中国</flowPara></flowRoot>    <g
+       inkscape:label="view-more"
+       id="g20586"
+       transform="matrix(0.26458333,0,0,0.26458333,88.10625,-423.9896)"
+       style="display:inline">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect20588"
+         width="16"
+         height="16"
+         x="20"
+         y="276" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect20592"
+         width="4"
+         height="4"
+         x="25.9998"
+         y="276"
+         rx="0.38461545"
+         ry="0.50229359" />
+      <rect
+         ry="0.50229359"
+         rx="0.38461545"
+         y="282"
+         x="25.9998"
+         height="4"
+         width="4"
+         id="rect16730"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect16732"
+         width="4"
+         height="4"
+         x="25.9998"
+         y="288"
+         rx="0.38461545"
+         ry="0.50229359" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,17.197916,-431.13316)"
+       id="g26960"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect26954"
+         width="344"
+         height="150"
+         x="120.50001"
+         y="1136.5" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path26956"
+         d="M 464.27311,1206.5 H 120.5"
+         style="display:inline;fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       id="text26964"
+       y="-138.35426"
+       x="92.876846"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.6374197px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#404054;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#404054;stroke-width:0.26458332"
+         y="-138.35426"
+         x="92.876846"
+         id="tspan26962"
+         sodipodi:role="line">Select Target Disk</tspan></text>
+    <g
+       style="display:inline;stroke-width:0.5"
+       inkscape:label="drive-harddisk"
+       id="use22935"
+       transform="matrix(0.52916667,0,0,0.52916667,27.781251,-335.354)">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.51464431;fill:none;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
+         id="rect12918"
+         width="16"
+         height="16"
+         x="48"
+         y="398" />
+      <path
+         sodipodi:nodetypes="sccscscssssscsssssss"
+         inkscape:connector-curvature="0"
+         id="rect8476"
+         d="m 50.999776,399.03456 c -1,0 -1,1 -1,1 v 12 c 0,0 0,1 1,1 h 10 c 0,0 1,0 1,-1 v -12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 h -4 v -4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.5" />
+    </g>
+    <g
+       transform="matrix(0.52916667,0,0,0.52916667,27.781251,-316.83317)"
+       id="g26980"
+       inkscape:label="drive-harddisk"
+       style="display:inline;stroke-width:0.5">
+      <rect
+         y="398"
+         x="48"
+         height="16"
+         width="16"
+         id="rect26976"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.51464431;fill:none;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.5"
+         d="m 50.999776,399.03456 c -1,0 -1,1 -1,1 v 12 c 0,0 0,1 1,1 h 10 c 0,0 1,0 1,-1 v -12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 h -4 v -4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
+         id="path26978"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccscscssssscsssssss" />
+    </g>
+    <g
+       style="display:inline"
+       id="g14485"
+       inkscape:label="object-select"
+       transform="matrix(0.26458333,0,0,0.26458333,113.77077,-331.64987)">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         inkscape:path-effect="#path-effect8915-0-8-2-7-4-4-8"
+         id="path8913-6-7-1-5"
+         d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         style="fill:none;stroke:#12121c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="787"
+         x="61.000198"
+         height="16"
+         width="16"
+         id="rect8856-7"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,115.35828,-625.33754)"
+       inkscape:label="object-select"
+       id="g27010"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#12121c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         id="path27006"
+         inkscape:path-effect="#path-effect8915-0-8-2-7-4-4-8"
+         inkscape:original-d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect27008"
+         width="16"
+         height="16"
+         x="61.000198"
+         y="787" />
+    </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-178.33233,-163.20373)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot20850-3"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowRegion20838-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+           y="141"
+           x="926"
+           height="25.999996"
+           width="337"
+           id="rect20836-7" /></flowRegion><flowPara
+         id="flowPara20848-5">500GB Wester Digital </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot27042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7a8599;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-178.33233,-157.38289)"><flowRegion
+         id="flowRegion27038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#7a8599"><rect
+           id="rect27036"
+           width="337"
+           height="25.999996"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#7a8599" /></flowRegion><flowPara
+         id="flowPara27040">/dev/sda</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot27050"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-178.33233,-144.68289)"><flowRegion
+         id="flowRegion27046"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"><rect
+           id="rect27044"
+           width="337"
+           height="25.999996"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'" /></flowRegion><flowPara
+         id="flowPara27048">120GB Samsung SSD</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-178.33233,-138.86206)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7a8599;fill-opacity:1;stroke:none"
+       id="flowRoot27058"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#7a8599"
+         id="flowRegion27054"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#7a8599"
+           y="141"
+           x="926"
+           height="25.999996"
+           width="337"
+           id="rect27052" /></flowRegion><flowPara
+         id="flowPara27056">/dev/sdb</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot27078"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-71.172917,-135.59376)"><flowRegion
+         id="flowRegion27062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
+           id="rect27060"
+           width="242"
+           height="114"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara27076">FIXME: Provide guideance to resize/delete partitions.</flowPara><flowPara
+         id="flowPara27107" /><flowPara
+         id="flowPara27109">Valid backup </flowPara></flowRoot>    <path
+       sodipodi:nodetypes="sssccccss"
+       inkscape:connector-curvature="0"
+       id="path27111"
+       d="M 21.559946,-25.924779 H 164.70344 c 1.3191,0 2.3811,1.18 2.3811,2.6458 v 9.790404 h -2.3811 -143.143494 -2.3811 v -9.790404 c 0,-1.4658 1.0619,-2.6458 2.3811,-2.6458 z"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26281026;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
+    <rect
+       y="-13.489366"
+       x="19.176273"
+       height="115.09386"
+       width="147.9081"
+       id="rect27119"
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="93.095589"
+       y="-18.439783"
+       id="text27129"><tspan
+         sodipodi:role="line"
+         id="tspan27127"
+         x="93.095589"
+         y="-18.439783"
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332">Installing OS Name 3.30</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.52916664"
+       rx="0.52916664"
+       y="42.074009"
+       x="49.477081"
+       height="1.3229166"
+       width="88.900002"
+       id="rect27131"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.66146088"
+       rx="0.79374999"
+       y="42.074009"
+       x="49.477081"
+       height="1.3229218"
+       width="66.410423"
+       id="rect27133"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#2a79cb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot27149"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-196.05625,11.249987)"><flowRegion
+         id="flowRegion27145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle"><rect
+           id="rect27143"
+           width="337"
+           height="25.999996"
+           x="926"
+           y="141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara27147">About a minute remaining…</flowPara></flowRoot>    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26281026;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
+       d="M 21.559946,116.95024 H 164.70344 c 1.3191,0 2.3811,1.18 2.3811,2.6458 v 9.79041 h -2.3811 -143.143494 -2.3811 v -9.79041 c 0,-1.4658 1.0619,-2.6458 2.3811,-2.6458 z"
+       id="path27151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccccss" />
+    <rect
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27153"
+       width="147.9081"
+       height="115.09386"
+       x="19.176273"
+       y="129.38564" />
+    <text
+       id="text27157"
+       y="124.4352"
+       x="93.095589"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.70416665px;line-height:1.25;stroke-width:0.26458332"
+         y="124.4352"
+         x="93.095589"
+         id="tspan27155"
+         sodipodi:role="line">Almost Done!</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-196.05625,154.12503)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+       id="flowRoot27169"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;"
+         id="flowRegion27165"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;"
+           y="141"
+           x="926"
+           height="86"
+           width="350"
+           id="rect27163" /></flowRegion><flowPara
+         id="flowPara27167">OS Name 3.30 has been installed. The computer will restart in a few moments to complete the setup.</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect27171"
+       width="25.4"
+       height="8.7312498"
+       x="139.82828"
+       y="118.82996"
+       rx="0.79374993"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="152.69049"
+       y="124.45446"
+       id="text27175"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:3.63802075px;line-height:1.25;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan27173"
+         x="152.69049"
+         y="124.45446">Restart (24s)</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#50dbb5;fill-opacity:1;stroke:#2dc0af;stroke-width:3.17499995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+       id="rect31431"
+       width="35.454166"
+       height="35.454166"
+       x="75.14167"
+       y="138.24998" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot31433"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.35466766px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2dc0af;fill-opacity:1;stroke:none;stroke-width:2.02438617"
+       transform="matrix(0.13069804,0,0,0.13069804,49.019094,-167.19294)"><flowRegion
+         id="flowRegion31435"
+         style="fill:#2dc0af;stroke-width:4.63239622"><rect
+           id="rect31437"
+           width="646"
+           height="198"
+           x="197"
+           y="2429"
+           style="fill:#2dc0af;stroke-width:2.02438617" /></flowRegion><flowPara
+         id="flowPara31439"
+         style="stroke-width:2.02438617">FIXME</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-71.172917,85.597906)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot31451"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowRegion31443"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="141"
+           x="926"
+           height="114"
+           width="242"
+           id="rect31441" /></flowRegion><flowPara
+         id="flowPara31449">FIXME: Fun graphic </flowPara></flowRoot>  </g>
+</svg>
