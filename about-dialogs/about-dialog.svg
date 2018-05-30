@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="418.88067"
-     inkscape:cy="2418.8859"
+     inkscape:zoom="1"
+     inkscape:cx="324.13631"
+     inkscape:cy="371.18517"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1220,7 +1220,12 @@
            y="2767.8435"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:129.99999523%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:129.99999523%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara5881">About dialogs</flowPara></flowRoot>  </g>
+         id="flowPara5881">About dialogs</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#a8a8a8;stroke-width:0.26458331;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374994, 0.79374993999999999;stroke-dashoffset:0"
+       d="M -4.7624694,201.08846 H 153.19378"
+       id="path5885"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
