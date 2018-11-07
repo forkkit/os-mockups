@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1620"
+   height="1640"
+   viewBox="0 0 428.62499 433.91668"
+   version="1.1"
+   id="svg4915"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="user-account.svg"
+   inkscape:export-filename="/home/aday/checkout/os-mockups/initial-setup/user-account.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4909" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="496.99764"
+     inkscape:cy="965.32246"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1073"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5725" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4912">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.24792,-192.20606)">
+    <rect
+       y="206.89049"
+       x="574.48553"
+       height="19.579166"
+       width="248.44374"
+       id="rect4545"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="2.3812501"
+       ry="2.3812499" />
+    <rect
+       y="219.32591"
+       x="574.48553"
+       height="160.60208"
+       width="248.44376"
+       id="rect4547"
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4551"
+       y="214.37544"
+       x="698.80719"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="214.37544"
+         x="698.80719"
+         id="tspan4549"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332">About You</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4553"
+       width="23.547916"
+       height="8.7312498"
+       x="797.5293"
+       y="208.74257"
+       rx="0.79374993"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="809.16229"
+       y="214.43538"
+       id="text4558"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4556"
+         x="809.16229"
+         y="214.43538"
+         style="font-weight:normal;font-size:3.88055563px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332">Next</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4560"
+       width="23.547916"
+       height="8.7312498"
+       x="576.33765"
+       y="208.74309"
+       rx="0.79375005"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="587.99493"
+       y="214.43538"
+       id="text4564"><tspan
+         sodipodi:role="line"
+         id="tspan4562"
+         x="587.99493"
+         y="214.43538"
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332">Previous</tspan></text>
+    <rect
+       ry="1.0064549"
+       rx="1.0064549"
+       y="294.99673"
+       x="661.79803"
+       height="8.2020826"
+       width="73.818748"
+       id="rect4566"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+    <text
+       id="text4570"
+       y="300.31064"
+       x="659.15558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1;stroke-width:0.26458332"
+         y="300.31064"
+         x="659.15558"
+         id="tspan4568"
+         sodipodi:role="line">Full Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="698.90692"
+       y="273.65839"
+       id="text4574"><tspan
+         sodipodi:role="line"
+         id="tspan4572"
+         x="698.90692"
+         y="273.65839"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332">About You</tspan></text>
+    <circle
+       r="12.567708"
+       cy="250.14793"
+       cx="698.70746"
+       id="circle4576"
+       style="display:inline;opacity:1;fill:#c0bfbc;fill-opacity:1;stroke:#c0bfbc;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+       id="rect4578"
+       width="73.818748"
+       height="8.2020826"
+       x="661.79803"
+       y="305.58008"
+       rx="1.0064549"
+       ry="1.0064549" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="659.15558"
+       y="310.89398"
+       id="text4582"><tspan
+         sodipodi:role="line"
+         id="tspan4580"
+         x="659.15558"
+         y="310.89398"
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1;stroke-width:0.26458332">Username</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="719.70642"
+       y="284.43564"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         id="tspan4584"
+         x="719.70642"
+         y="284.43564"
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">Please enter your details</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,525.65478,-399.01338)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:44.99999881%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#9a9996;fill-opacity:1;stroke:none"
+       id="flowRoot4594"
+       xml:space="preserve"><flowRegion
+         style="line-height:44.99999881%;fill:#9a9996"
+         id="flowRegion4590"><rect
+           style="line-height:44.99999881%;fill:#9a9996"
+           y="2698.9927"
+           x="514"
+           height="144.25127"
+           width="276.51471"
+           id="rect4588" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:44.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#9a9996"
+         id="flowPara4592">This is used to name your home folder and can't be changed.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="663.84576"
+       y="367.89423"
+       id="text4598"><tspan
+         sodipodi:role="line"
+         id="tspan4596"
+         x="663.84576"
+         y="367.89423"
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332">Account Type</tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.26458333,0,0,0.26458333,270.21474,1049.4561)"
+       id="g4614">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect4600"
+         width="119"
+         height="33"
+         x="1619.5"
+         y="-2597.498"
+         rx="3"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#deddda;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 1503.5,-2597.498 h 116 v 3 27 3 h -116 c -1.662,0 -3,-1.338 -3,-3 v -27 c 0,-1.662 1.338,-3 3,-3 z"
+         id="path4602"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccccssss" />
+      <text
+         id="text4606"
+         y="-2575.9819"
+         x="1589.9713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1"
+           y="-2575.9819"
+           x="1589.9713"
+           id="tspan4604"
+           sodipodi:role="line">Standard</tspan></text>
+      <path
+         sodipodi:nodetypes="sccccssss"
+         inkscape:connector-curvature="0"
+         id="path4608"
+         d="m 1735.5,-2597.498 h -116 v 3 27 3 h 116 c 1.662,0 3,-1.338 3,-3 v -27 c 0,-1.662 -1.338,-3 -3,-3 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
+         x="1712.5378"
+         y="-2575.9819"
+         id="text4612"><tspan
+           sodipodi:role="line"
+           id="tspan4610"
+           x="1712.5378"
+           y="-2575.9819"
+           style="font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Enterprise</tspan></text>
+    </g>
+    <rect
+       ry="2.3812499"
+       rx="2.3812501"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4616"
+       width="248.44374"
+       height="19.579166"
+       x="124.6939"
+       y="243.93216" />
+    <rect
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4618"
+       width="248.44376"
+       height="160.60208"
+       x="124.6939"
+       y="256.36758" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.01552"
+       y="251.4171"
+       id="text4622"><tspan
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4620"
+         x="249.01552"
+         y="251.4171">About You</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79374993"
+       y="245.78424"
+       x="347.73764"
+       height="8.7312498"
+       width="23.547916"
+       id="rect4624"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       id="text4628"
+       y="251.47705"
+       x="359.37067"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;font-size:3.88055563px;line-height:1.25;fill:#919191;stroke-width:0.26458332"
+         y="251.47705"
+         x="359.37067"
+         id="tspan4626"
+         sodipodi:role="line">Next</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79375005"
+       y="245.78476"
+       x="126.54598"
+       height="8.7312498"
+       width="23.547916"
+       id="rect4630"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       id="text4634"
+       y="251.47705"
+       x="138.20328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332"
+         y="251.47705"
+         x="138.20328"
+         id="tspan4632"
+         sodipodi:role="line">Previous</tspan></text>
+    <text
+       id="text4638"
+       y="311.22922"
+       x="249.11526"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="311.22922"
+         x="249.11526"
+         id="tspan4636"
+         sodipodi:role="line">About You</tspan></text>
+    <circle
+       style="display:inline;opacity:1;fill:#c0bfbc;fill-opacity:1;stroke:#c0bfbc;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4640"
+       cx="248.91579"
+       cy="287.18961"
+       r="12.567708" />
+    <text
+       id="text4644"
+       y="322.00647"
+       x="269.91476"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332"
+         y="322.00647"
+         x="269.91476"
+         id="tspan4642"
+         sodipodi:role="line">Please enter your details</tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.26458333,0,0,0.26458333,-937.73868,885.94362)"
+       id="g4666">
+      <rect
+         ry="3.8039243"
+         rx="3.8039243"
+         y="-2091.5"
+         x="4383.4966"
+         height="30.999998"
+         width="279"
+         id="rect4646"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+      <text
+         id="text4650"
+         y="-2071.416"
+         x="4373.5093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1"
+           y="-2071.416"
+           x="4373.5093"
+           id="tspan4648"
+           sodipodi:role="line">Full Name</tspan></text>
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+         id="rect4652"
+         width="279"
+         height="30.999998"
+         x="4383.4966"
+         y="-2051.5"
+         rx="3.8039243"
+         ry="3.8039243" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none"
+         x="4373.5093"
+         y="-2031.416"
+         id="text4656"><tspan
+           sodipodi:role="line"
+           id="tspan4654"
+           x="4373.5093"
+           y="-2031.416"
+           style="font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1">Username</tspan></text>
+      <flowRoot
+         transform="translate(3868.9393,-4714.5304)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:44.99999881%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9a9996;fill-opacity:1;stroke:none"
+         id="flowRoot4664"
+         xml:space="preserve"><flowRegion
+           style="line-height:44.99999881%;fill:#9a9996"
+           id="flowRegion4660"><rect
+             style="line-height:44.99999881%;fill:#9a9996"
+             y="2698.9927"
+             x="514"
+             height="144.25127"
+             width="276.51471"
+             id="rect4658" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:44.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#9a9996"
+           id="flowPara4662">This is used to name your home folder and can't be changed.</flowPara></flowRoot>    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4668"
+       width="45.243877"
+       height="8.7312498"
+       x="314.40106"
+       y="399.2431"
+       rx="0.79375005"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="349.20294"
+       y="404.93591"
+       id="text4672"><tspan
+         sodipodi:role="line"
+         id="tspan4670"
+         x="349.20294"
+         y="404.93591"
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332">Enterprise Login</tspan></text>
+    <g
+       id="g4686"
+       inkscape:label="go-next"
+       transform="matrix(-0.26458333,0,0,0.26458333,363.21681,245.91706)"
+       style="display:inline;enable-background:new">
+      <rect
+         width="16"
+         height="16"
+         x="-49"
+         y="588"
+         id="rect4674"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccc"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         d="m 44,591 -5,5 5,5"
+         id="path4676"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="601"
+         x="43.999996"
+         height="1"
+         width="1"
+         id="rect4678"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         y="590"
+         x="43.999996"
+         height="1"
+         width="1"
+         id="rect4680"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         ry="1.0000011"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4682"
+         width="2.0000021"
+         height="2.00001"
+         x="42.999996"
+         y="590"
+         rx="1.0000011" />
+      <rect
+         rx="1.0000011"
+         y="600"
+         x="42.999996"
+         height="2.00001"
+         width="2.0000021"
+         id="rect4684"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         ry="1.0000011" />
+    </g>
+    <rect
+       y="434.43216"
+       x="124.6939"
+       height="19.579166"
+       width="248.44374"
+       id="rect4688"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="2.3812501"
+       ry="2.3812499" />
+    <rect
+       y="446.86758"
+       x="124.6939"
+       height="160.60208"
+       width="248.44376"
+       id="rect4690"
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4694"
+       y="441.91711"
+       x="249.01552"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="441.91711"
+         x="249.01552"
+         id="tspan4692"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332">About You</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4696"
+       width="23.547916"
+       height="8.7312498"
+       x="347.73764"
+       y="436.28424"
+       rx="0.79374993"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="359.37067"
+       y="441.97705"
+       id="text4700"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4698"
+         x="359.37067"
+         y="441.97705"
+         style="font-weight:normal;font-size:3.88055563px;line-height:1.25;fill:#919191;stroke-width:0.26458332">Next</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4702"
+       width="23.547916"
+       height="8.7312498"
+       x="126.54598"
+       y="436.28476"
+       rx="0.79375005"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.20328"
+       y="441.97705"
+       id="text4706"><tspan
+         sodipodi:role="line"
+         id="tspan4704"
+         x="138.20328"
+         y="441.97705"
+         style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332">Previous</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.11526"
+       y="501.72922"
+       id="text4710"><tspan
+         sodipodi:role="line"
+         id="tspan4708"
+         x="249.11526"
+         y="501.72922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332">Enterprise Login</tspan></text>
+    <circle
+       r="12.567708"
+       cy="477.68961"
+       cx="248.91579"
+       id="circle4712"
+       style="display:inline;opacity:1;fill:#c0bfbc;fill-opacity:1;stroke:#c0bfbc;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,65.279785,-209.33936)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:44.99999881%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot4720"
+       xml:space="preserve"><flowRegion
+         style="line-height:44.99999881%;fill:#2e3436;fill-opacity:1"
+         id="flowRegion4716"><rect
+           style="line-height:44.99999881%;fill:#2e3436;fill-opacity:1"
+           y="2698.9927"
+           x="514"
+           height="171.25122"
+           width="357.51471"
+           id="rect4714" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:44.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+         id="flowPara4718">Enterprise login allows an existing centrally managed account to be used to login to this device. This allows simultaneous access to other resources.</flowPara></flowRoot>    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79375005"
+       y="589.7431"
+       x="-179.1991"
+       height="8.7312498"
+       width="45.243877"
+       id="rect4722"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       id="text4726"
+       y="595.43591"
+       x="158.51521"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332"
+         y="595.43591"
+         x="158.51521"
+         id="tspan4724"
+         sodipodi:role="line">Standard Login</tspan></text>
+    <g
+       style="display:inline;enable-background:new"
+       transform="matrix(0.26458333,0,0,0.26458333,129.85418,436.41706)"
+       inkscape:label="go-next"
+       id="g4740">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect4728"
+         y="588"
+         x="-49"
+         height="16"
+         width="16" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730"
+         d="m 44,591 -5,5 5,5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4732"
+         width="1"
+         height="1"
+         x="43.999996"
+         y="601" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4734"
+         width="1"
+         height="1"
+         x="43.999996"
+         y="590" />
+      <rect
+         rx="1.0000011"
+         y="590"
+         x="42.999996"
+         height="2.00001"
+         width="2.0000021"
+         id="rect4736"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         ry="1.0000011" />
+      <rect
+         ry="1.0000011"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4738"
+         width="2.0000021"
+         height="2.00001"
+         x="42.999996"
+         y="600"
+         rx="1.0000011" />
+    </g>
+    <rect
+       ry="1.0064549"
+       rx="1.0064549"
+       y="531.53424"
+       x="222.06148"
+       height="8.2020826"
+       width="73.818748"
+       id="rect4742"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+    <text
+       id="text4746"
+       y="536.84814"
+       x="219.41899"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1;stroke-width:0.26458332"
+         y="536.84814"
+         x="219.41899"
+         id="tspan4744"
+         sodipodi:role="line">Domain</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+       id="rect4748"
+       width="73.818748"
+       height="8.2020826"
+       x="222.06148"
+       y="545.82172"
+       rx="1.0064549"
+       ry="1.0064549" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="219.41899"
+       y="551.13562"
+       id="text4752"><tspan
+         sodipodi:role="line"
+         id="tspan4750"
+         x="219.41899"
+         y="551.13562"
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1;stroke-width:0.26458332">Username</tspan></text>
+    <rect
+       ry="1.0064549"
+       rx="1.0064549"
+       y="556.40509"
+       x="222.06148"
+       height="8.2020826"
+       width="73.818748"
+       id="rect4754"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+    <text
+       id="text4758"
+       y="561.71893"
+       x="219.41899"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#77767b;fill-opacity:1;stroke-width:0.26458332"
+         y="561.71893"
+         x="219.41899"
+         id="tspan4756"
+         sodipodi:role="line">Password</tspan></text>
+    <g
+       style="display:inline;enable-background:new"
+       inkscape:label="dialog-password"
+       id="g4768"
+       transform="matrix(0,-1.0583333,1.0583333,0,-31.542552,783.54786)">
+      <rect
+         y="257"
+         x="280.99994"
+         height="16"
+         width="16"
+         id="rect4760"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 289,258 c -2.20913,0 -4,1.79087 -4,4 0,1.4792 0.80621,2.74542 2,3.4375 l -6e-5,5.20901 4.00006,1.04105 v -6.25006 c 1.19379,-0.69208 2,-1.9583 2,-3.4375 0,-2.20913 -1.79087,-4 -4,-4 z"
+         id="path4762"
+         sodipodi:nodetypes="csccccsc"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         d="m 288.99994,271.498 v -5.49794 L 287,265.4375 l -6e-5,5.56256 z"
+         id="path4764"
+         inkscape:connector-curvature="0" />
+      <circle
+         transform="rotate(90,318.99994,235)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="circle4766"
+         cx="345"
+         cy="265"
+         r="1" />
+    </g>
+    <rect
+       y="377.45901"
+       x="396.33417"
+       height="39.598331"
+       width="114.47446"
+       id="rect4770"
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.08917958;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4774"
+       y="404.93591"
+       x="486.78625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.88055563px;line-height:1.25;text-align:end;text-anchor:end;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332"
+         y="404.93591"
+         x="486.78625"
+         id="tspan4772"
+         sodipodi:role="line">Go online to setup Enterprise Login</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.04984897;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4776"
+       width="18.47093"
+       height="76.679321"
+       x="391.02286"
+       y="343.04355" />
+    <rect
+       y="343.06952"
+       x="391.04883"
+       height="47.523201"
+       width="124.25237"
+       id="rect4778"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.10178363;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4780"
+       d="M 521.17292,390.24674 H 409.38646 v 37.30625"
+       style="display:inline;fill:none;stroke:#c0bfbc;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.28888893px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="124.57413"
+       y="223.41098"
+       id="text5723"><tspan
+         sodipodi:role="line"
+         id="tspan5721"
+         x="124.57413"
+         y="223.41098"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Initial setup: user account creation</tspan></text>
+    <text
+       id="text5729"
+       y="378.4566"
+       x="409.26559"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="378.4566"
+         x="409.26559"
+         id="tspan5727"
+         sodipodi:role="line">Placeholder replaces enterprise login button when offline</tspan></text>
+  </g>
+</svg>
