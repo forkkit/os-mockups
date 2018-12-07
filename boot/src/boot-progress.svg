@@ -27,14 +27,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1080.0704"
-     inkscape:cy="4277.5433"
+     inkscape:zoom="1"
+     inkscape:cx="725.20014"
+     inkscape:cy="16.719916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-nodes="false"
-     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="false"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
      inkscape:window-x="0"
@@ -137,7 +137,7 @@
        height="768"
        width="1366"
        id="rect974"
-       style="opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot982"
@@ -153,19 +153,19 @@
            style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara980"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Initial boot splash - vendor logo position specified by UEFI spec</flowPara></flowRoot>    <flowRoot
-       transform="translate(4359.9998,-2541.6377)"
-       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(3699.9998,-2541.6377)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot1006"
        xml:space="preserve"><flowRegion
-         style="font-size:18.66666603px;line-height:135.00000238%;fill:#ffffff"
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:end;text-anchor:end;fill:#ffffff"
          id="flowRegion1002"><rect
-           style="font-size:18.66666603px;line-height:135.00000238%;fill:#ffffff"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:end;text-anchor:end;fill:#ffffff"
            y="299.34033"
            x="100.40916"
            height="302.64169"
            width="950.3515"
            id="rect1000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#ffffff"
          id="flowPara1004">BIOS instructions typically go here</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1008"
@@ -214,18 +214,56 @@
        width="1366"
        id="rect4278"
        style="opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3971.9998,-757.6377 h 170.5 l 6.5001,16 6.5001,-16 H 4326 v 108 h -114.875 l -10.875,-24 -8.875,24 H 4074.5 l -11.5001,-28 -11.5,28 h -91.5001 z"
-       id="rect4280"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
-    <path
-       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 4047.9998,-324.96564 h 53.7501 v 8 H 4235.5 v 19.66396 19.66395 h -133.7501 v 8 h -53.7501 v -27.66395 z"
-       id="rect4290"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+    <g
+       transform="translate(0,1942)"
+       id="g977">
+      <rect
+         y="-2695.6377"
+         x="3972.9998"
+         height="100"
+         width="340"
+         id="rect967"
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(3567.6613,-2953.7924)"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         id="flowRoot975"
+         xml:space="preserve"><flowRegion
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowRegion971"><rect
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+             y="299.34033"
+             x="100.40916"
+             height="302.64169"
+             width="950.3515"
+             id="rect969" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowPara973">VENDOR LOGO</flowPara></flowRoot>    </g>
+    <g
+       id="g994"
+       transform="translate(0,979.99999)">
+      <rect
+         y="-1301.6377"
+         x="4051.9998"
+         height="50"
+         width="180"
+         id="rect979"
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(3566.6613,-1584.7924)"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         id="flowRoot987"
+         xml:space="preserve"><flowRegion
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowRegion983"><rect
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+             y="299.34033"
+             x="100.40916"
+             height="302.64169"
+             width="950.3515"
+             id="rect981" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowPara985">OS LOGO</flowPara></flowRoot>    </g>
     <g
        id="g4354"
        transform="translate(0,-980)">
@@ -284,24 +322,45 @@
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none" />
       </g>
     </g>
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4341"
-       d="m 4047.9998,-1304.9656 h 53.7501 v 8 H 4235.5 v 19.6639 19.664 h -133.7501 v 8 h -53.7501 v -27.664 z"
-       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4343"
-       d="m 3971.9998,-1737.6377 h 170.5 l 6.5001,16 6.5001,-16 H 4326 v 108 h -114.875 l -10.875,-24 -8.875,24 H 4074.5 l -11.5001,-28 -11.5,28 h -91.5001 z"
-       style="opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3971.9998,-2697.6377 h 170.5 l 6.5001,16 6.5001,-16 H 4326 v 108 h -114.875 l -10.875,-24 -8.875,24 H 4074.5 l -11.5001,-28 -11.5,28 h -91.5001 z"
-       id="path4345"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
+    <rect
+       y="-1301.6377"
+       x="4051.9998"
+       height="50"
+       width="180"
+       id="rect940"
+       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g965"
+       transform="translate(0,962)">
+      <rect
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect950"
+         width="340"
+         height="100"
+         x="3972.9998"
+         y="-2695.6377" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot958"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         transform="translate(3567.6613,-2953.7924)"><flowRegion
+           id="flowRegion954"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"><rect
+             id="rect952"
+             width="950.3515"
+             height="302.64169"
+             x="100.40916"
+             y="299.34033"
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc" /></flowRegion><flowPara
+           id="flowPara956"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc">VENDOR LOGO</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect922"
+       width="340"
+       height="100"
+       x="3972.9998"
+       y="-2695.6377" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4392"
@@ -343,12 +402,31 @@
          transform="translate(121.0002,177)"
          id="path4398" />
     </g>
-    <path
-       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 4047.9998,795.0344 h 53.7501 v 8 H 4235.5 v 19.6639 19.664 h -133.7501 v 8 h -53.7501 v -27.664 z"
-       id="path4402"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+    <g
+       transform="translate(0,2100)"
+       id="g1006">
+      <rect
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect996"
+         width="180"
+         height="50"
+         x="4051.9998"
+         y="-1301.6377" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1004"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         transform="translate(3566.6613,-1584.7924)"><flowRegion
+           id="flowRegion1000"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"><rect
+             id="rect998"
+             width="950.3515"
+             height="302.64169"
+             x="100.40916"
+             y="299.34033"
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc" /></flowRegion><flowPara
+           id="flowPara1002"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc">OS LOGO</flowPara></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4412"
@@ -398,12 +476,31 @@
        height="768"
        x="3459.9998"
        y="1084.3623" />
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4438"
-       d="m 4047.9998,1755.0344 h 53.7501 v 8 H 4235.5 v 19.6639 19.664 h -133.7501 v 8 h -53.7501 v -27.664 z"
-       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g1019"
+       transform="translate(0,3060)">
+      <rect
+         y="-1301.6377"
+         x="4051.9998"
+         height="50"
+         width="180"
+         id="rect1009"
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(3566.6613,-1584.7924)"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         id="flowRoot1017"
+         xml:space="preserve"><flowRegion
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowRegion1013"><rect
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+             y="299.34033"
+             x="100.40916"
+             height="302.64169"
+             width="950.3515"
+             id="rect1011" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowPara1015">OS LOGO</flowPara></flowRoot>    </g>
     <flowRoot
        transform="translate(3566.9891,1060.1049)"
        style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -515,12 +612,31 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path4536"
-       d="m 4047.9998,2735.0344 h 53.7501 v 8 H 4235.5 v 19.6639 19.664 h -133.7501 v 8 h -53.7501 v -27.664 z"
-       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="translate(0,4040)"
+       id="g1031">
+      <rect
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1021"
+         width="180"
+         height="50"
+         x="4051.9998"
+         y="-1301.6377" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1029"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         transform="translate(3566.6613,-1584.7924)"><flowRegion
+           id="flowRegion1025"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"><rect
+             id="rect1023"
+             width="950.3515"
+             height="302.64169"
+             x="100.40916"
+             y="299.34033"
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc" /></flowRegion><flowPara
+           id="flowPara1027"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc">OS LOGO</flowPara></flowRoot>    </g>
     <flowRoot
        transform="translate(3566.9891,2044.1049)"
        style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -549,5 +665,33 @@
            y="299.34033"
            style="font-size:18.66666603px;line-height:135.00000238%;fill:#ffffff" /></flowRegion><flowPara
          id="flowPara4550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff">Do not turn off your computer</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff">Do not turn off your computer</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot938"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none;"
+       transform="translate(3567.6613,-2953.7924)"><flowRegion
+         id="flowRegion934"
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc;"><rect
+           id="rect932"
+           width="950.3515"
+           height="302.64169"
+           x="100.40916"
+           y="299.34033"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc;" /></flowRegion><flowPara
+         id="flowPara936"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc;">VENDOR LOGO</flowPara></flowRoot>    <flowRoot
+       transform="translate(3566.6613,-1584.7924)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+       id="flowRoot948"
+       xml:space="preserve"><flowRegion
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+         id="flowRegion944"><rect
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           y="299.34033"
+           x="100.40916"
+           height="302.64169"
+           width="950.3515"
+           id="rect942" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
+         id="flowPara946">OS LOGO</flowPara></flowRoot>  </g>
 </svg>
