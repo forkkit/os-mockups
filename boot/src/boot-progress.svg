@@ -7,10 +7,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1566"
-   height="6200"
+   height="7260"
    id="svg5562"
    version="1.1"
    inkscape:version="0.92.2 2405546, 2018-03-11"
@@ -19,7 +20,40 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs5564" />
+     id="defs5564">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3875">
+      <stop
+         style="stop-color:#1d1d1d;stop-opacity:1"
+         offset="0"
+         id="stop3871" />
+      <stop
+         style="stop-color:#282828;stop-opacity:1"
+         offset="1"
+         id="stop3873" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3875"
+       id="linearGradient3877"
+       x1="4181"
+       y1="-599.3877"
+       x2="4181"
+       y2="-592.1377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1620,-1000)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3875"
+       id="linearGradient3936"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-1000)"
+       x1="4181"
+       y1="-599.3877"
+       x2="4181"
+       y2="-592.1377" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,8 +62,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1211.3268"
-     inkscape:cy="4539.0413"
+     inkscape:cx="1084.4461"
+     inkscape:cy="7170.3872"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,7 +125,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3359.9998,3267.6377)">
+     transform="translate(-3359.9998,4327.6377)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2666"
@@ -105,7 +139,7 @@
            y="-776" /></flowRegion><flowPara
          id="flowPara2672" /></flowRoot>    <text
        id="text11279"
-       y="-3088.5112"
+       y="-4168.5112"
        x="3460.408"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"
@@ -113,12 +147,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
-         y="-3088.5112"
+         y="-4168.5112"
          x="3460.408"
          sodipodi:role="line"
          id="tspan11277">Boot experience</tspan></text>
     <flowRoot
-       transform="translate(3359.9998,-2239.6377)"
+       transform="translate(3359.9998,-1299.6377)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot1363"
        xml:space="preserve"><flowRegion
@@ -136,7 +170,7 @@
          id="flowPara4262" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara4264">OS logo shown at the bottom</flowPara></flowRoot>    <rect
-       y="-2815.6379"
+       y="-3895.6379"
        x="3459.9998"
        height="768"
        width="1366"
@@ -146,7 +180,7 @@
        xml:space="preserve"
        id="flowRoot982"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(3359.9998,-3239.6377)"><flowRegion
+       transform="translate(3359.9998,-4319.6377)"><flowRegion
          id="flowRegion978"
          style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436"><rect
            id="rect976"
@@ -156,12 +190,12 @@
            y="299.34033"
            style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara980"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Initial boot splash</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Firmware boot splash</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara4258" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara4260">Vendor logo position is specified by the UEFI spec</flowPara></flowRoot>    <flowRoot
-       transform="translate(3699.9998,-2421.6377)"
+         id="flowPara4260">Vendor logo position is specified by the UEFI spec.</flowPara></flowRoot>    <flowRoot
+       transform="translate(3699.9998,-3501.6377)"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot1006"
        xml:space="preserve"><flowRegion
@@ -180,13 +214,13 @@
        width="1366"
        height="768"
        x="3459.9998"
-       y="-1815.6378" />
+       y="-875.63782" />
     <g
        mask="none"
        style="display:inline;stroke-width:0.5;enable-background:new"
        id="g4245"
        inkscape:label="process-working"
-       transform="matrix(2,0,0,2,3923.9998,-1829.6377)">
+       transform="matrix(2,0,0,2,3923.9998,-889.6377)">
       <rect
          width="16"
          height="16"
@@ -205,7 +239,7 @@
        xml:space="preserve"
        id="flowRoot4276"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(3359.9998,-1239.6377)"><flowRegion
+       transform="translate(3359.9998,-2299.6377)"><flowRegion
          id="flowRegion4272"
          style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436"><rect
            id="rect4270"
@@ -215,16 +249,20 @@
            y="299.34033"
            style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara4274"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Disk decrypt</flowPara></flowRoot>    <rect
-       y="-875.63782"
-       x="3459.9998"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Disk decrypt</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3881" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3879">Styling of password entry is intended to match the shell's visuals</flowPara></flowRoot>    <rect
+       y="-1875.6377"
+       x="1839.9998"
        height="768"
        width="1366"
        id="rect4278"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g994"
-       transform="translate(0,1100)">
+       transform="translate(-1620,100)">
       <rect
          y="-1301.6377"
          x="4051.9998"
@@ -247,66 +285,62 @@
              id="rect981" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
            id="flowPara985">OS LOGO</flowPara></flowRoot>    </g>
+    <rect
+       ry="3"
+       rx="3"
+       y="-1599.1377"
+       x="2392.4998"
+       height="31"
+       width="259"
+       id="rect4479"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient3877);fill-opacity:1;fill-rule:nonzero;stroke:#626561;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4481"
+       d="m 2422.9998,-1593.6379 v 20"
+       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g4354"
-       transform="translate(-0.49995586,-1044)">
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       transform="translate(2200,-2100.6379)"
+       style="display:inline;enable-background:new"
+       id="g4308"
+       inkscape:label="changes-prevent">
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#c0bfbc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect4479"
-         width="259"
-         height="31"
-         x="4012.9998"
-         y="444.8623"
-         rx="3"
-         ry="3" />
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 4044,450.3621 v 20"
-         id="path4481"
-         inkscape:connector-curvature="0" />
-      <g
-         inkscape:label="changes-prevent"
-         id="g4308"
-         style="display:inline;enable-background:new"
-         transform="translate(3820.5,-56.6379)"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <rect
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
-           id="rect4300"
-           width="16"
-           height="16"
-           x="201"
-           y="509" />
-        <rect
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
-           id="rect4302"
-           width="12"
-           height="5"
-           x="203"
-           y="516"
-           ry="1"
-           rx="1" />
-        <rect
-           y="519"
-           x="203"
-           height="4"
-           width="12"
-           id="rect4304"
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
-        <rect
-           rx="2"
-           ry="2"
-           y="511"
-           x="206"
-           height="10"
-           width="6"
-           id="rect4306"
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0bfbc;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none" />
-      </g>
+         y="509"
+         x="201"
+         height="16"
+         width="16"
+         id="rect4300"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+      <rect
+         rx="1"
+         ry="1"
+         y="516"
+         x="203"
+         height="5"
+         width="12"
+         id="rect4302"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
+         id="rect4304"
+         width="12"
+         height="4"
+         x="203"
+         y="519" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0bfbc;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
+         id="rect4306"
+         width="6"
+         height="10"
+         x="206"
+         y="511"
+         ry="2"
+         rx="2" />
     </g>
     <rect
-       y="-1141.6377"
+       y="-201.6377"
        x="4051.9998"
        height="50"
        width="180"
@@ -314,7 +348,7 @@
        style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g965"
-       transform="translate(0,1122)">
+       transform="translate(0,2062)">
       <rect
          style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect950"
@@ -343,7 +377,7 @@
        width="340"
        height="100"
        x="3972.9998"
-       y="-2575.6377" />
+       y="-3655.6377" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4392"
@@ -632,7 +666,7 @@
        xml:space="preserve"
        id="flowRoot938"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
-       transform="translate(3567.6613,-2833.7924)"><flowRegion
+       transform="translate(3567.6613,-3913.7924)"><flowRegion
          id="flowRegion934"
          style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"><rect
            id="rect932"
@@ -643,7 +677,7 @@
            style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc" /></flowRegion><flowPara
          id="flowPara936"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc">VENDOR LOGO</flowPara></flowRoot>    <flowRoot
-       transform="translate(3566.6613,-1424.7924)"
+       transform="translate(3566.6613,-484.7924)"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
        id="flowRoot948"
        xml:space="preserve"><flowRegion
@@ -657,7 +691,7 @@
            id="rect942" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
          id="flowPara946">OS LOGO</flowPara></flowRoot>    <flowRoot
-       transform="translate(3359.9998,-3339.6377)"
+       transform="translate(3359.9998,-4419.6377)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot4256"
        xml:space="preserve"><flowRegion
@@ -670,5 +704,204 @@
            width="950.3515"
            id="rect4250" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara4254">Plain black background is used by the firmware bootsplash. We continue to use this until the login/unlock screen becomes visible.</flowPara></flowRoot>  </g>
+         id="flowPara4254">Plain black background is used by the firmware bootsplash. We continue to use this until the login/unlock screen becomes visible.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect951"
+       width="1366"
+       height="768"
+       x="3459.9998"
+       y="-2875.6379" />
+    <flowRoot
+       transform="translate(3359.9998,-3299.6377)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot963"
+       xml:space="preserve"><flowRegion
+         style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436"
+         id="flowRegion955"><rect
+           style="font-size:18.66666603px;line-height:135.00000238%;fill:#2e3436"
+           y="299.34033"
+           x="100.40916"
+           height="302.64169"
+           width="950.3515"
+           id="rect953" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara957">Grub menu</flowPara><flowPara
+         id="flowPara959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436" /><flowPara
+         id="flowPara961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">This won't always be shown. The fact that the vendor logo disappears and then reappears is non-ideal.</flowPara></flowRoot>    <rect
+       y="-2547.6379"
+       x="3459.9998"
+       height="35.999996"
+       width="1366"
+       id="rect973"
+       style="opacity:1;fill:#e5e5e5;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot971"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(3901.9998,-2837.7926)"><flowRegion
+         id="flowRegion967"
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"><rect
+           id="rect965"
+           width="950.3515"
+           height="302.64169"
+           x="100.40916"
+           y="299.34033"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara969"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Operating system 1</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect997"
+       width="102.44093"
+       height="36"
+       x="3137.5591"
+       y="-2509.6379" />
+    <flowRoot
+       transform="translate(3901.9998,-2799.7926)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot1005"
+       xml:space="preserve"><flowRegion
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion1001"><rect
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#ffffff"
+           y="299.34033"
+           x="100.40916"
+           height="302.64169"
+           width="950.3515"
+           id="rect999" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara1003">Operating system 2</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1018"
+       width="102.44093"
+       height="35.999996"
+       x="3137.5591"
+       y="-2471.6379" />
+    <flowRoot
+       transform="translate(3901.9998,-2761.7926)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot1026"
+       xml:space="preserve"><flowRegion
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion1022"><rect
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:start;text-anchor:start;fill:#ffffff"
+           y="299.34033"
+           x="100.40916"
+           height="302.64169"
+           width="950.3515"
+           id="rect1020" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara1024">Operating system 3</flowPara></flowRoot>    <rect
+       y="-1875.6378"
+       x="3459.9998"
+       height="768"
+       width="1366"
+       id="rect3883"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3891"
+       width="180"
+       height="50"
+       x="4051.9998"
+       y="-1201.6377" />
+    <g
+       transform="translate(-2e-4,1062)"
+       id="g3903">
+      <rect
+         y="-2695.6377"
+         x="3972.9998"
+         height="100"
+         width="340"
+         id="rect3893"
+         style="opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#c0bfbc;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(3567.6613,-2953.7924)"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+         id="flowRoot3901"
+         xml:space="preserve"><flowRegion
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowRegion3897"><rect
+             style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"
+             y="299.34033"
+             x="100.40916"
+             height="302.64169"
+             width="950.3515"
+             id="rect3895" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc"
+           id="flowPara3899">VENDOR LOGO</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3911"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#c0bfbc;fill-opacity:1;stroke:none"
+       transform="translate(3566.6611,-1484.7924)"><flowRegion
+         id="flowRegion3907"
+         style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc"><rect
+           id="rect3905"
+           width="950.3515"
+           height="302.64169"
+           x="100.40916"
+           y="299.34033"
+           style="font-size:14.66666698px;line-height:135.00000238%;text-align:center;text-anchor:middle;fill:#c0bfbc" /></flowRegion><flowPara
+         id="flowPara3909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#c0bfbc">OS LOGO</flowPara></flowRoot>    <g
+       id="g3934"
+       transform="translate(1,160)">
+      <rect
+         ry="3"
+         rx="3"
+         y="-1599.1377"
+         x="4012.4998"
+         height="31"
+         width="259"
+         id="rect3913"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient3936);fill-opacity:1;fill-rule:nonzero;stroke:#626561;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3915"
+         d="m 4042.9998,-1593.6379 v 20"
+         style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="translate(3820,-2100.6379)"
+         style="display:inline;enable-background:new"
+         id="g3925"
+         inkscape:label="changes-prevent">
+        <rect
+           y="509"
+           x="201"
+           height="16"
+           width="16"
+           id="rect3917"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+        <rect
+           rx="1"
+           ry="1"
+           y="516"
+           x="203"
+           height="5"
+           width="12"
+           id="rect3919"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
+        <rect
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c0bfbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
+           id="rect3921"
+           width="12"
+           height="4"
+           x="203"
+           y="519" />
+        <rect
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0bfbc;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
+           id="rect3923"
+           width="6"
+           height="10"
+           x="206"
+           y="511"
+           ry="2"
+           rx="2" />
+      </g>
+    </g>
+  </g>
 </svg>
