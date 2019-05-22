@@ -93,10 +93,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="662.99942"
-     inkscape:cy="709.22872"
+     inkscape:cx="644"
+     inkscape:cy="776"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
@@ -152,13 +152,13 @@
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path1254"
-         d="m 166.55527,-84.269768 h 62.70627 c 0.87947,0 1.5875,0.70803 1.5875,1.5875 v 30.69166 c 0,0.87948 -0.70803,1.5875 -1.5875,1.5875 h -62.70627 c -0.87947,0 -1.5875,-0.70802 -1.5875,-1.5875 v -30.69166 c 0,-0.87947 0.70803,-1.5875 1.5875,-1.5875 z"
+         d="m 166.55527,-84.798935 h 62.70627 c 0.87947,0 1.5875,0.70803 1.5875,1.5875 v 39.158327 c 0,0.87948 -0.70803,1.5875 -1.5875,1.5875 h -62.70627 c -0.87947,0 -1.5875,-0.70802 -1.5875,-1.5875 v -39.158327 c 0,-0.87947 0.70803,-1.5875 1.5875,-1.5875 z"
          style="display:inline;opacity:1;fill:#5e5c64;fill-opacity:1;stroke:#383341;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:56;stroke-opacity:1" />
       <g
          style="display:inline"
          inkscape:label="battery-good"
          id="g1264"
-         transform="matrix(0,0.26458333,-0.26458333,0,234.9501,-87.316118)">
+         transform="matrix(0,0.26458333,-0.26458333,0,234.9501,-87.845285)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect1256"
@@ -192,7 +192,7 @@
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          x="175.14597"
-         y="-78.377975"
+         y="-78.907143"
          id="text1268"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          inkscape:export-xdpi="90"
@@ -200,19 +200,19 @@
            sodipodi:role="line"
            id="tspan1266"
            x="175.14597"
-           y="-78.377975"
+           y="-78.907143"
            style="font-size:3.63802075px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332px">2:03 Remaining (53%)</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          id="text1272"
-         y="-70.44046"
+         y="-70.969627"
          x="175.14597"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            style="font-size:3.63802075px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332px"
-           y="-70.44046"
+           y="-70.969627"
            x="175.14597"
            id="tspan1270"
            sodipodi:role="line">2 active print jobs</tspan></text>
@@ -220,7 +220,7 @@
          style="display:inline;enable-background:new"
          inkscape:label="printer-printing"
          id="g1282"
-         transform="matrix(0.26458333,0,0,0.26458333,155.57506,-178.85838)">
+         transform="matrix(0.26458333,0,0,0.26458333,155.57506,-179.38755)">
         <rect
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.51464431;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
            id="rect1274"
@@ -252,7 +252,7 @@
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          x="175.14597"
-         y="-61.973797"
+         y="-62.502964"
          id="text1286"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          inkscape:export-xdpi="90"
@@ -260,12 +260,12 @@
            sodipodi:role="line"
            id="tspan1284"
            x="175.14597"
-           y="-61.973797"
+           y="-62.502964"
            style="font-size:3.63802075px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332px">Software updates available...</tspan></text>
       <g
          inkscape:label="software-update-available"
          id="g1292"
-         transform="matrix(0.26458333,0,0,0.26458333,162.9834,-138.15386)"
+         transform="matrix(0.26458333,0,0,0.26458333,162.9834,-138.68303)"
          style="display:inline;enable-background:new">
         <rect
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
@@ -285,17 +285,17 @@
       <path
          inkscape:connector-curvature="0"
          id="path1294"
-         d="m 165.10007,-75.538534 h 65.61668"
+         d="m 165.10007,-76.067701 h 65.61668"
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#383341;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#383341;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 165.10007,-67.071877 h 65.61668"
+         d="m 165.10007,-67.601044 h 65.61668"
          id="path1296"
          inkscape:connector-curvature="0" />
       <g
          inkscape:label="pan-down"
          id="g1302"
-         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,119.85628)"
+         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,119.32711)"
          style="display:inline;enable-background:new">
         <path
            sodipodi:nodetypes="cccc"
@@ -314,7 +314,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,128.32298)"
+         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,127.79381)"
          id="g1308"
          inkscape:label="pan-down">
         <path
@@ -335,7 +335,7 @@
       <g
          inkscape:label="pan-down"
          id="g1314"
-         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,136.78964)"
+         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,136.26047)"
          style="display:inline;enable-background:new">
         <path
            sodipodi:nodetypes="cccc"
@@ -965,7 +965,7 @@
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
            sodipodi:role="line"
            x="64.400414"
-           y="-44.124298">Sharing</tspan></text>
+           y="-44.124298">Recording</tspan></text>
       <text
          id="text6056"
          y="-47.652077"
@@ -1008,7 +1008,7 @@
          style="display:inline;enable-background:new"
          id="g5375-3"
          inkscape:label="screen-shared"
-         transform="matrix(0.26458333,0,0,0.26458333,40.481201,-235.74384)">
+         transform="matrix(0.26458333,0,0,0.26458333,146.31446,-225.425)">
         <rect
            transform="scale(-1,1)"
            y="667"
@@ -1486,7 +1486,7 @@
            sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
       </g>
       <g
-         transform="matrix(0.26458333,0,0,0.26458333,125.94157,-185.47294)"
+         transform="matrix(0.26458333,0,0,0.26458333,125.94157,-186.00211)"
          inkscape:label="location-services-active"
          id="g4635-6"
          style="display:inline;enable-background:new">
@@ -1511,12 +1511,12 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          id="text10663"
-         y="-53.507133"
+         y="-54.036301"
          x="175.14609"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            style="font-size:3.63802075px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332px"
-           y="-53.507133"
+           y="-54.036301"
            x="175.14609"
            id="tspan10661"
            sodipodi:role="line">Location services active</tspan></text>
@@ -1526,7 +1526,7 @@
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          ry="7.276041"
          rx="7.2760406"
-         y="18.123951"
+         y="28.707283"
          x="157.29475"
          height="10.318749"
          width="10.318749"
@@ -1534,7 +1534,7 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#27394b;stroke-width:0.26458398;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
       <text
          id="text10693"
-         y="32.781265"
+         y="43.364601"
          x="162.2962"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"
@@ -1542,17 +1542,17 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            id="tspan10691"
-           y="32.781265"
+           y="43.364601"
            x="162.2962"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px">Alarm</tspan><tspan
-           y="36.309044"
+           y="46.89238"
            x="162.2962"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
            id="tspan10695">9:00 AM</tspan></text>
       <g
-         transform="matrix(0.26458333,0,0,0.26458333,149.75419,-161.13261)"
+         transform="matrix(0.26458333,0,0,0.26458333,149.75419,-150.54927)"
          inkscape:label="alarm"
          id="g59039"
          style="display:inline;enable-background:new">
@@ -1578,7 +1578,7 @@
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          ry="7.276041"
          rx="7.2760406"
-         y="18.123947"
+         y="28.707279"
          x="180.04893"
          height="10.318749"
          width="10.318749"
@@ -1586,14 +1586,14 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5e5c64;fill-opacity:1;fill-rule:nonzero;stroke:#383342;stroke-width:0.26458398;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
       <text
          id="text10731"
-         y="32.781269"
+         y="43.364605"
          x="185.05037"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
-           y="32.781269"
+           y="43.364605"
            x="185.05037"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
@@ -1601,7 +1601,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g5877"
-         transform="matrix(0.26458333,0,0,0.26458333,151.07714,-62.706261)"
+         transform="matrix(0.26458333,0,0,0.26458333,151.07714,-52.122927)"
          inkscape:label="input-touchpad">
         <rect
            width="16"
@@ -1642,7 +1642,7 @@
          width="10.318749"
          height="10.318749"
          x="203.33226"
-         y="18.123947"
+         y="28.707279"
          rx="7.2760406"
          ry="7.276041"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
@@ -1655,15 +1655,15 @@
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          x="208.33369"
-         y="32.781269"
+         y="43.364605"
          id="text10904"><tspan
            id="tspan10902"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
            sodipodi:role="line"
            x="208.33369"
-           y="32.781269">Microphone</tspan></text>
+           y="43.364605">Microphone</tspan></text>
       <g
-         transform="matrix(0.26458334,0,0,0.26458334,201.0833,-51.858337)"
+         transform="matrix(0.26458334,0,0,0.26458334,201.0833,-41.275003)"
          id="g3281-5"
          inkscape:label="audio-input-microphone"
          style="display:inline;enable-background:new">
@@ -1687,14 +1687,14 @@
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          ry="7.276041"
          rx="7.2760406"
-         y="18.123947"
+         y="28.707279"
          x="226.61566"
          height="10.318749"
          width="10.318749"
          id="rect10930"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5e5c64;fill-opacity:1;fill-rule:nonzero;stroke:#383342;stroke-width:0.26458398;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
       <g
-         transform="matrix(0.26458334,0,0,0.26458334,224.36663,-51.858337)"
+         transform="matrix(0.26458334,0,0,0.26458334,224.36663,-41.275003)"
          id="g11537"
          inkscape:label="camera-photo"
          style="display:inline;enable-background:new">
@@ -1713,14 +1713,14 @@
       </g>
       <text
          id="text10934"
-         y="32.781269"
+         y="43.364605"
          x="231.6171"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
-           y="32.781269"
+           y="43.364605"
            x="231.6171"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
@@ -1858,11 +1858,11 @@
       <path
          inkscape:connector-curvature="0"
          id="path1380"
-         d="m 165.10007,-59.134375 h 65.61668"
+         d="m 165.10007,-59.663542 h 65.61668"
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#383341;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          style="display:inline;enable-background:new"
-         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,145.25633)"
+         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,144.72716)"
          id="g1386"
          inkscape:label="pan-down">
         <path
@@ -1886,7 +1886,7 @@
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          ry="7.276041"
          rx="7.2760406"
-         y="68.923927"
+         y="79.507256"
          x="180.04893"
          height="10.318749"
          width="10.318749"
@@ -1896,7 +1896,7 @@
          style="display:inline;enable-background:new"
          id="g1400"
          inkscape:label="network-wireless-signal-good"
-         transform="matrix(0.26458333,0,0,0.26458333,164.57084,-57.661827)">
+         transform="matrix(0.26458333,0,0,0.26458333,164.57084,-47.078493)">
         <rect
            clip-path="none"
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
@@ -1941,7 +1941,7 @@
          inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
          ry="7.276041"
          rx="7.2760406"
-         y="68.394791"
+         y="78.978119"
          x="203.33226"
          height="10.318749"
          width="10.318749"
@@ -1950,7 +1950,7 @@
       <g
          style="display:inline"
          id="g1416"
-         transform="matrix(0.26458333,0,0,0.26458333,-1939.3943,681.74209)">
+         transform="matrix(0.26458333,0,0,0.26458333,-1939.3943,692.32543)">
         <g
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -1995,7 +1995,7 @@
       </g>
       <text
          id="text1420"
-         y="83.581261"
+         y="94.164589"
          x="182.93372"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"
@@ -2003,13 +2003,13 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            id="tspan1418"
-           y="83.581261"
+           y="94.164589"
            x="182.93372"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px">Wi-Fi</tspan></text>
       <text
          id="text1424"
-         y="83.052078"
+         y="93.635406"
          x="206.21704"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
          xml:space="preserve"
@@ -2017,13 +2017,13 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            id="tspan1422"
-           y="83.052078"
+           y="93.635406"
            x="206.21704"
            sodipodi:role="line"
            style="font-weight:bold;font-size:2.82222223px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px">VPN</tspan></text>
       <g
          style="display:inline;enable-background:new"
-         transform="matrix(0,-0.26458334,0.26458334,0,-10.317155,111.12508)"
+         transform="matrix(0,-0.26458334,0.26458334,0,-10.317155,121.70842)"
          id="g1430"
          inkscape:label="pan-down">
         <path
@@ -2044,7 +2044,7 @@
       <g
          inkscape:label="pan-down"
          id="g1436"
-         transform="matrix(0,-0.26458334,0.26458334,0,12.437021,110.5959)"
+         transform="matrix(0,-0.26458334,0.26458334,0,12.437021,121.17924)"
          style="display:inline;enable-background:new">
         <path
            sodipodi:nodetypes="cccc"
@@ -2061,6 +2061,50 @@
            height="16"
            width="16" />
       </g>
+      <path
+         style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#383341;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 165.10007,-50.932293 h 65.61668"
+         id="path1187"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
+         x="175.14609"
+         y="-45.834213"
+         id="text1198"
+         inkscape:export-filename="/home/aday/Dropbox/Public/shell/system-status-experiment-4.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1196"
+           x="175.14609"
+           y="-45.834213"
+           style="font-size:3.63802075px;line-height:1.25;fill:#ffffff;stroke-width:0.26458332px">Screen sharing active</tspan></text>
+      <g
+         inkscape:label="pan-down"
+         id="g1204"
+         transform="matrix(-0.26458334,0,0,-0.26458334,255.06006,153.19382)"
+         style="display:inline;enable-background:new">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1200"
+           d="m 110.00021,760 -5,-5 5,-5 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <rect
+           transform="scale(-1,1)"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+           id="rect1202"
+           y="747"
+           x="-116.0002"
+           height="16"
+           width="16" />
+      </g>
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 244 496 A 8.0000005 8.0000005 0 0 0 236 504 A 8.0000005 8.0000005 0 0 0 244 512 A 8.0000005 8.0000005 0 0 0 252 504 A 8.0000005 8.0000005 0 0 0 244 496 z M 244 497 A 7 7 0 0 1 251 504 A 7 7 0 0 1 244 511 A 7 7 0 0 1 237 504 A 7 7 0 0 1 244 497 z M 244 500 A 4.0000002 4.0000002 0 0 0 240 504 A 4.0000002 4.0000002 0 0 0 244 508 A 4.0000002 4.0000002 0 0 0 248 504 A 4.0000002 4.0000002 0 0 0 244 500 z "
+         transform="matrix(0.26458334,0,0,0.26458334,0,-190.5)"
+         id="path1206" />
     </g>
   </g>
   <g
@@ -2389,7 +2433,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
          id="flowPara10819" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         id="flowPara10821">Icons for these items also appear in the topbar when relevant. (e.g. battery is always active so it's always there, printing is more transient.)</flowPara><flowPara
+         id="flowPara10821"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+         id="flowPara1183"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+         id="flowPara1185">Icons for these items also appear in the topbar when relevant. (e.g. battery is always active so it's always there, printing is more transient.)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
          id="flowPara10456" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
@@ -2437,7 +2485,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
          id="flowPara10840" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         id="flowPara10856"></flowPara><flowPara
+         id="flowPara10856" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
          id="flowPara1450">Some special cases: the user bubble opens a user switcher + log out dialog and the shutdown bubble shows a shutdown dialog, in the case of updates, etc. The</flowPara></flowRoot>    <text
        xml:space="preserve"
