@@ -35,12 +35,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1449.8695"
-     inkscape:cy="957.55374"
+     inkscape:cx="1077.1648"
+     inkscape:cy="1240.8461"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer10"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1265,7 +1265,8 @@
      id="layer1"
      inkscape:label="bg"
      style="display:inline"
-     transform="translate(0,800)">
+     transform="translate(0,800)"
+     sodipodi:insensitive="true">
     <image
        y="-544"
        x="576"
@@ -1275,17 +1276,6 @@
        height="768"
        width="1366"
        style="display:inline;stroke-width:0.35487816" />
-    <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1402"
-       width="1366"
-       height="768"
-       x="-1942"
-       y="-544"
-       transform="scale(-1,1)"
-       inkscape:export-filename="search-concept-cropped.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1297,7 +1287,19 @@
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="obg"
-       style="display:inline" />
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1402"
+         width="1366"
+         height="768"
+         x="-1942"
+         y="-544"
+         transform="scale(-1,1)"
+         inkscape:export-filename="search-concept-cropped.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer16"
@@ -1713,15 +1715,6 @@
       <rect
          rx="8"
          ry="8"
-         y="-394"
-         x="1032"
-         height="160"
-         width="144"
-         id="rect1972"
-         style="opacity:0.2;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         rx="8"
-         ry="8"
          y="-402"
          x="968"
          height="112"
@@ -1760,15 +1753,6 @@
            x="1011.7244"
            id="tspan1978"
            sodipodi:role="line">Spotify</tspan></text>
-      <rect
-         style="opacity:0.2;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1982"
-         width="144"
-         height="160"
-         x="1192"
-         y="-394"
-         ry="8"
-         rx="8" />
       <g
          style="display:inline;fill:#000000;enable-background:new"
          transform="matrix(7.9911709,0,0,8.0036407,843.7347,-5270.0776)"
@@ -3509,7 +3493,8 @@
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="search"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          clip-path="none"
@@ -3592,7 +3577,8 @@
      id="layer6"
      inkscape:label="top-panel"
      style="display:inline"
-     transform="translate(0,848)">
+     transform="translate(0,848)"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
        d="m 576,-592 v 35.5 c 0,-0.10777 0,-7.5 8,-7.5 h 1350 c 8,0 8,8 8,8 v -36 z"
@@ -3749,7 +3735,7 @@
        transform="translate(576,-544)" />
     <path
        style="display:inline;opacity:0.2;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 854,165 h 818"
+       d="m 854,177 h 818"
        id="path2181"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
