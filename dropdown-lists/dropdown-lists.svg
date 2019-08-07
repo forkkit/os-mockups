@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1420"
@@ -56,10 +57,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="600.64892"
-     inkscape:cy="1249.5335"
+     inkscape:cx="642.90387"
+     inkscape:cy="587.86609"
      inkscape:document-units="px"
-     inkscape:current-layer="g5492"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -937,17 +938,6 @@
          x="79.37561"
          y="42.768818">20 minutes</tspan></text>
     <text
-       id="text1285"
-       y="11.018851"
-       x="79.37561"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         y="11.018851"
-         x="79.37561"
-         id="tspan1283"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">1 minute</tspan></text>
-    <text
        id="text1289"
        y="26.893848"
        x="79.37561"
@@ -1220,7 +1210,7 @@
            y="-828.99976"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2305"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">If there are more options than can be displayed, the list scrolsl. Should the selected option would be visible when the list is opened?</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">If there are more options than can be displayed, the list scrolls. Question: should the selected option would be visible when the list is opened?</flowPara></flowRoot>    <rect
        style="opacity:0.43399999;fill:#9a9996;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2329"
        width="49.212387"
@@ -1413,6 +1403,13 @@
        width="49.212387"
        id="rect2445"
        style="opacity:0.43399999;fill:#9a9996;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="177.66733"
+       x="74.083336"
+       height="7.9375033"
+       width="52.387501"
+       id="rect15373"
+       style="opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g2527"
        transform="translate(-221.7208,-21.166432)"
@@ -1670,6 +1667,34 @@
        width="49.212387"
        id="rect2479"
        style="opacity:0.43399999;fill:#9a9996;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       width="8.4666672"
+       height="8.4666672"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABAdJREFU
+WIXt1lFIm1cUwPF/7KLpmlHHGmM0miGbHbFuoGFMN8gqImz2qaDgxtrah+HSUXHgEBHWIHatIAMH
+2cP2MKhuPkzFifahrb4o04fSddgMS9FUR6Vg15Yt2iT35uwhxjqJtmrmGOzAebvf9/3u+e4998L/
+sS5E5MC/9vG8vLy94XB4qq6u7hDwHJCyqwC73W4WEbl79+602+1+fdcRmZmZ+0VEotGo3L59e9rl
+crl2FREHnD9/Xn6/f18HAoEbhYWFRYB5VxBxwLFjx6S8vFwePnyoZ2ZmfnE6na8B+/4JRMIXRqNR
+/H4/x48fT7FarQV9fX3f5ObmvgjsBQy7AlBKce3aNWpra1McDkfR0NDQVxaLJSfZiIQArfVqXr16
+FY/Hk5Kfn//WlStXfOnp6XbAlCxEQoCIoLVGKYXWmomJCRobGw1Op/PtS5cufQFkAWnJQGy4qCKR
+yCpCKcXo6ChNTU2GoqKid8bGxj4HbMlAbAgIBoOrFYjnyMgIra2thpKSkqrR0VEvYAVSd4LYdFvF
+AfEqKKW4ePEi7e3tuN3uDy5fvvwZkLkTxKaAUCiUEDE0NITP56OsrKx2cHDwUyBju4hNAeFw+G+L
+MZ5KKXp7e7lw4QKVlZWegYGBTwALYNwq4omdLY5YXwWlFN3d3fT09HDkyJH6np6ej4ADW0U886QB
+y8vLmEwmlFKYTCYOHz6M0WgkLS2N1NRUZmZmmJ2dNVRVVTUtLS09Onny5NfAPSDytIjViJ8F1dXV
+Aqym2WwWi8UiOTk5Mj4+LhuFUirS1dX1MZCetAoAnDhxgt7eXrTW+Hw+SktLOXr06Lf9/f0/A38A
+egW7BPxGrD9sPRJV4MyZMyIi0tDQIBkZGeJwOMTv9+vJyckbwLvAK4ADyAXsxHbEs0kBnD17VrTW
+cuvWrYU7d+7orKwsyc7OllOnTonWOlpTU1NHrC0bgT0rmcJ2G9NaQEdHh2ito+fOnRtwuVwtoVBI
+nT59WqxWq+Tl5UkgENDj4+NjwCGSdTjFAdevXxelVNTr9f4AvA+8MTU11T8/P69sNpvY7XZpbm6W
+cDisKioq3iO2/XZ+WYkDIpGIbmlp+R6oAZzA883NzaWRSER5PB6x2Wxy8OBBefDgge7u7v4OeInY
+b9g5QGsdbmtr+xKoIrbA9hH7t/tv3rw5EAgEVHZ2thQXF8vi4qLu6ur6EXiVZBzPdrvdPDw8/CHw
+JvAyj++BBsDo9XpLgsHg0uLiolJKRefm5u4VFBTUA/ls8yxY/4CRxzMOAiFi2zE+1lxfX+92u901
+09PT4c7Ozp8WFhb8wK/AfSC6U4CB2IzXdsK1sWcF+AKxu+GjlQ//CagE47cMeJpIWZPRlUyE/W/E
+X3/HQayZSejVAAAAAElFTkSuQmCC
+"
+       id="image15375"
+       x="105.83334"
+       y="180.05417" />
     <rect
        y="-125.67706"
        x="183.2292"
@@ -1781,7 +1806,7 @@
            width="563.47168"
            id="rect2563" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
-         id="flowPara2567">Search is an optional feature that can be used at the developer's discretion.</flowPara></flowRoot>    <g
+         id="flowPara2567">Search is an optional feature which can be enabled by developers.</flowPara></flowRoot>    <g
        style="display:inline;enable-background:new"
        id="g2575"
        inkscape:label="object-select"
@@ -1800,6 +1825,13 @@
          id="rect2573"
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
     </g>
+    <rect
+       style="opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect15377"
+       width="52.387501"
+       height="7.9375033"
+       x="248.70842"
+       y="185.6048" />
     <g
        clip-path="url(#clipPath6385)"
        transform="translate(-47.095747,-21.16641)"
@@ -2036,6 +2068,34 @@
            x="301.09641"
            y="315.28961">8 hours</tspan></text>
     </g>
+    <image
+       y="187.99164"
+       x="280.4584"
+       id="image15379"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABAdJREFU
+WIXt1lFIm1cUwPF/7KLpmlHHGmM0miGbHbFuoGFMN8gqImz2qaDgxtrah+HSUXHgEBHWIHatIAMH
+2cP2MKhuPkzFifahrb4o04fSddgMS9FUR6Vg15Yt2iT35uwhxjqJtmrmGOzAebvf9/3u+e4998L/
+sS5E5MC/9vG8vLy94XB4qq6u7hDwHJCyqwC73W4WEbl79+602+1+fdcRmZmZ+0VEotGo3L59e9rl
+crl2FREHnD9/Xn6/f18HAoEbhYWFRYB5VxBxwLFjx6S8vFwePnyoZ2ZmfnE6na8B+/4JRMIXRqNR
+/H4/x48fT7FarQV9fX3f5ObmvgjsBQy7AlBKce3aNWpra1McDkfR0NDQVxaLJSfZiIQArfVqXr16
+FY/Hk5Kfn//WlStXfOnp6XbAlCxEQoCIoLVGKYXWmomJCRobGw1Op/PtS5cufQFkAWnJQGy4qCKR
+yCpCKcXo6ChNTU2GoqKid8bGxj4HbMlAbAgIBoOrFYjnyMgIra2thpKSkqrR0VEvYAVSd4LYdFvF
+AfEqKKW4ePEi7e3tuN3uDy5fvvwZkLkTxKaAUCiUEDE0NITP56OsrKx2cHDwUyBju4hNAeFw+G+L
+MZ5KKXp7e7lw4QKVlZWegYGBTwALYNwq4omdLY5YXwWlFN3d3fT09HDkyJH6np6ej4ADW0U886QB
+y8vLmEwmlFKYTCYOHz6M0WgkLS2N1NRUZmZmmJ2dNVRVVTUtLS09Onny5NfAPSDytIjViJ8F1dXV
+Aqym2WwWi8UiOTk5Mj4+LhuFUirS1dX1MZCetAoAnDhxgt7eXrTW+Hw+SktLOXr06Lf9/f0/A38A
+egW7BPxGrD9sPRJV4MyZMyIi0tDQIBkZGeJwOMTv9+vJyckbwLvAK4ADyAXsxHbEs0kBnD17VrTW
+cuvWrYU7d+7orKwsyc7OllOnTonWOlpTU1NHrC0bgT0rmcJ2G9NaQEdHh2ito+fOnRtwuVwtoVBI
+nT59WqxWq+Tl5UkgENDj4+NjwCGSdTjFAdevXxelVNTr9f4AvA+8MTU11T8/P69sNpvY7XZpbm6W
+cDisKioq3iO2/XZ+WYkDIpGIbmlp+R6oAZzA883NzaWRSER5PB6x2Wxy8OBBefDgge7u7v4OeInY
+b9g5QGsdbmtr+xKoIrbA9hH7t/tv3rw5EAgEVHZ2thQXF8vi4qLu6ur6EXiVZBzPdrvdPDw8/CHw
+JvAyj++BBsDo9XpLgsHg0uLiolJKRefm5u4VFBTUA/ls8yxY/4CRxzMOAiFi2zE+1lxfX+92u901
+09PT4c7Ozp8WFhb8wK/AfSC6U4CB2IzXdsK1sWcF+AKxu+GjlQ//CagE47cMeJpIWZPRlUyE/W/E
+X3/HQayZSejVAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="8.4666672"
+       width="8.4666672" />
     <rect
        ry="0.66145837"
        rx="0.66145837"
@@ -2148,370 +2208,373 @@
        id="rect6588"
        style="opacity:0.43399999;fill:#9a9996;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="scale(-1)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="1.0583334"
+       rx="1.0583334"
+       y="3.9739447"
+       x="240.10939"
+       height="38.364582"
+       width="80.697922"
+       id="rect6433"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#deddda;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="1.0583334"
+       rx="1.0583334"
+       y="-6.3469949"
+       x="240.10921"
+       height="8.7312498"
+       width="52.652069"
+       id="rect6435"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="250.82571"
+       y="-0.63677382"
+       id="text6439"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan6437"
+         x="250.82571"
+         y="-0.63677382">Digital Output</tspan></text>
+    <text
+       id="text6443"
+       y="-0.63677382"
+       x="237.94496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="-0.63677382"
+         x="237.94496"
+         id="tspan6441"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#919191;fill-opacity:1;stroke-width:0.26458332">Output</tspan></text>
     <g
-       id="g5492"
-       transform="translate(-3.1750001)">
+       inkscape:label="pan-down"
+       id="g6449"
+       transform="matrix(0,-0.26458334,0.26458326,0,88.370533,26.594085)"
+       style="display:inline;enable-background:new">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6445"
+         d="m 110.00021,760 -5,-5 5,-5 z"
+         style="fill:#2e3436;fill-opacity:1;stroke:none" />
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#deddda;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect6433"
-         width="80.697922"
-         height="38.364582"
-         x="243.28439"
-         y="3.9739447"
-         rx="1.0583334"
-         ry="1.0583334"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect6447"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+    </g>
+    <rect
+       y="5.6881719"
+       x="240.24171"
+       height="11.641666"
+       width="80.433334"
+       id="rect15369"
+       style="opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251.35489"
+       y="11.018881"
+       id="text6461"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan6459"
+         x="251.35489"
+         y="11.018881">Headphones</tspan></text>
+    <g
+       style="display:inline;enable-background:new"
+       id="g6477"
+       inkscape:label="object-select"
+       transform="matrix(0.26458326,0,0,0.26458334,296.86257,-187.18373)">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6473"
+         d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.26458326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect6435"
-         width="52.652069"
-         height="8.7312498"
-         x="243.28421"
-         y="-6.3469949"
-         rx="1.0583334"
-         ry="1.0583334"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         id="text6439"
-         y="-0.63677382"
-         x="254.00072"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="-0.63677382"
-           x="254.00072"
-           id="tspan6437"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">Digital Output</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="241.11996"
-         y="-0.63677382"
-         id="text6443"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#919191;fill-opacity:1;stroke-width:0.26458332"
-           sodipodi:role="line"
-           id="tspan6441"
-           x="241.11996"
-           y="-0.63677382">Output</tspan></text>
-      <g
-         style="display:inline;enable-background:new"
-         transform="matrix(0,-0.26458334,0.26458326,0,91.545533,26.594085)"
-         id="g6449"
-         inkscape:label="pan-down">
-        <path
-           style="fill:#2e3436;fill-opacity:1;stroke:none"
-           d="m 110.00021,760 -5,-5 5,-5 z"
-           id="path6445"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <rect
-           width="16"
-           height="16"
-           x="-116.0002"
-           y="747"
-           id="rect6447"
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
-           transform="scale(-1,1)" />
-      </g>
-      <text
-         id="text6461"
-         y="11.018881"
-         x="254.52989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="11.018881"
-           x="254.52989"
-           id="tspan6459"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">Headphones</tspan></text>
-      <g
-         transform="matrix(0.26458326,0,0,0.26458334,300.03757,-187.18373)"
-         inkscape:label="object-select"
-         id="g6477"
-         style="display:inline;enable-background:new">
-        <path
-           style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
-           id="path6473"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
-        <rect
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
-           id="rect6475"
-           width="16"
-           height="16"
-           x="61.000198"
-           y="787" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="254.52989"
+         y="787"
+         x="61.000198"
+         height="16"
+         width="16"
+         id="rect6475"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+    </g>
+    <text
+       id="text6481"
+       y="15.252234"
+       x="251.35489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
          y="15.252234"
-         id="text6481"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332"
-           sodipodi:role="line"
-           id="tspan6479"
-           x="254.52989"
-           y="15.252234">Built-in audio</tspan></text>
-      <g
-         style="display:inline;enable-background:new"
-         transform="matrix(0.26458334,0,0,0.26458334,225.68851,-114.16249)"
-         id="g6497"
-         inkscape:label="audio-headphones">
-        <rect
-           y="467"
-           x="81.000198"
-           height="16"
-           width="16.000002"
-           id="rect6489"
-           style="fill:none;stroke:none" />
-        <rect
-           rx="1.862784"
-           transform="matrix(0.95982607,-0.28059566,0.29019891,0.95696635,0,0)"
-           ry="1.862784"
-           y="480.85031"
-           x="-58.621819"
-           height="6.0516844"
-           width="3.5680485"
-           id="rect6491"
-           style="fill:#2e3436;fill-opacity:1;stroke:none" />
-        <path
-           sodipodi:nodetypes="cscccscccssc"
-           inkscape:connector-curvature="0"
-           id="path6493"
-           d="m 88.968786,468 c -3.305456,0 -6.023914,3.00835 -5.968586,5.71875 0.04825,2.36557 0.808593,4.69547 1,5.28125 1.583096,0 0,0 1.525504,0 -1.16149,-2.29152 -1.049064,-5.1562 -1.049064,-5.1562 0,-2.37255 2.006651,-4.31249 4.492146,-4.3125 2.485496,0 4.499787,1.82687 4.492147,4.28125 -0.02342,1.67413 -0.171684,2.65858 -1.005236,5.1875 h 1.570681 c 0.224499,-0.64458 0.973822,-3.19046 0.973822,-5.28125 0,-2.8298 -2.725958,-5.71875 -6.031414,-5.71875 z"
-           style="fill:#2e3436;fill-opacity:1;stroke:none" />
-        <rect
-           rx="1.862784"
-           style="fill:#2e3436;fill-opacity:1;stroke:none"
-           id="rect6495"
-           width="3.5680485"
-           height="6.0516844"
-           x="-228.98027"
-           y="430.93314"
-           ry="1.862784"
-           transform="matrix(-0.95982607,-0.28059566,-0.29019891,0.95696635,0,0)" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="254.52989"
+         x="251.35489"
+         id="tspan6479"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332">Built-in audio</tspan></text>
+    <g
+       inkscape:label="audio-headphones"
+       id="g6497"
+       transform="matrix(0.26458334,0,0,0.26458334,222.51351,-114.16249)"
+       style="display:inline;enable-background:new">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6489"
+         width="16.000002"
+         height="16"
+         x="81.000198"
+         y="467" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;stroke:none"
+         id="rect6491"
+         width="3.5680485"
+         height="6.0516844"
+         x="-58.621819"
+         y="480.85031"
+         ry="1.862784"
+         transform="matrix(0.95982607,-0.28059566,0.29019891,0.95696635,0,0)"
+         rx="1.862784" />
+      <path
+         style="fill:#2e3436;fill-opacity:1;stroke:none"
+         d="m 88.968786,468 c -3.305456,0 -6.023914,3.00835 -5.968586,5.71875 0.04825,2.36557 0.808593,4.69547 1,5.28125 1.583096,0 0,0 1.525504,0 -1.16149,-2.29152 -1.049064,-5.1562 -1.049064,-5.1562 0,-2.37255 2.006651,-4.31249 4.492146,-4.3125 2.485496,0 4.499787,1.82687 4.492147,4.28125 -0.02342,1.67413 -0.171684,2.65858 -1.005236,5.1875 h 1.570681 c 0.224499,-0.64458 0.973822,-3.19046 0.973822,-5.28125 0,-2.8298 -2.725958,-5.71875 -6.031414,-5.71875 z"
+         id="path6493"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccscccssc" />
+      <rect
+         transform="matrix(-0.95982607,-0.28059566,-0.29019891,0.95696635,0,0)"
+         ry="1.862784"
+         y="430.93314"
+         x="-228.98027"
+         height="6.0516844"
+         width="3.5680485"
+         id="rect6495"
+         style="fill:#2e3436;fill-opacity:1;stroke:none"
+         rx="1.862784" />
+    </g>
+    <text
+       id="text6528"
+       y="22.660542"
+       x="251.35489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
          y="22.660542"
-         id="text6528"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332"
-           sodipodi:role="line"
-           id="tspan6526"
-           x="254.52989"
-           y="22.660542">Digital Output</tspan></text>
-      <text
-         id="text6532"
-         y="26.893892"
-         x="254.52989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="26.893892"
-           x="254.52989"
-           id="tspan6530"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332">Thinkpad Thunderbolt 3 Dock USB Audio</tspan></text>
-      <text
-         id="text6548"
-         y="34.302204"
-         x="254.52989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="34.302204"
-           x="254.52989"
-           id="tspan6546"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">Analog Output</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="254.52989"
+         x="251.35489"
+         id="tspan6526"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">Digital Output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251.35489"
+       y="26.893892"
+       id="text6532"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan6530"
+         x="251.35489"
+         y="26.893892">Thinkpad Thunderbolt 3 Dock USB Audio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251.35489"
+       y="34.302204"
+       id="text6548"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan6546"
+         x="251.35489"
+         y="34.302204">Analog Output</tspan></text>
+    <text
+       id="text6552"
+       y="38.535549"
+       x="251.35489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
          y="38.535549"
-         id="text6552"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332"
-           sodipodi:role="line"
-           id="tspan6550"
-           x="254.52989"
-           y="38.535549">Thinkpad Thunderbolt 3 Dock USB Audio</tspan></text>
-      <g
-         style="display:inline;enable-background:new"
-         id="g6614"
-         transform="matrix(0.26458334,0,0,0.26458334,162.18851,-92.202086)"
-         inkscape:label="audio-card">
-        <path
-           inkscape:connector-curvature="0"
-           id="path6600"
-           d="m 336.0002,430 h -2 v 13"
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           sodipodi:nodetypes="ccc" />
-        <rect
-           ry="0"
-           rx="0"
-           y="434.5"
-           x="334.50021"
-           height="2"
-           width="2"
-           id="rect6602"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
-        <rect
-           ry="0"
-           rx="0"
-           y="438.5"
-           x="334.50021"
-           height="2"
-           width="2"
-           id="rect6604"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path6606"
-           d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <rect
-           style="fill:none;stroke:none"
-           id="rect6608"
-           width="16"
-           height="16"
-           x="321.00021"
-           y="428" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path6610"
-           d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none" />
-        <ellipse
-           transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)"
-           id="ellipse6612"
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-           cx="3.5625"
-           cy="223.6875"
-           rx="6.0625"
-           ry="5.9375" />
-      </g>
-      <g
-         inkscape:label="audio-card"
-         transform="matrix(0.26458334,0,0,0.26458334,162.18851,-80.560412)"
-         id="g6666"
-         style="display:inline;enable-background:new">
-        <path
-           sodipodi:nodetypes="ccc"
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 336.0002,430 h -2 v 13"
-           id="path6652"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-           id="rect6654"
-           width="2"
-           height="2"
-           x="334.50021"
-           y="434.5"
-           rx="0"
-           ry="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-           id="rect6656"
-           width="2"
-           height="2"
-           x="334.50021"
-           y="438.5"
-           rx="0"
-           ry="0" />
-        <path
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
-           id="path6658"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-        <rect
-           y="428"
-           x="321.00021"
-           height="16"
-           width="16"
-           id="rect6660"
-           style="fill:none;stroke:none" />
-        <path
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-           d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
-           id="path6662"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-        <ellipse
-           ry="5.9375"
-           rx="6.0625"
-           cy="223.6875"
-           cx="3.5625"
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-           id="ellipse6664"
-           transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)" />
-      </g>
-      <g
-         inkscape:label="audio-card"
-         transform="matrix(0.26458334,0,0,0.26458334,162.18851,-117.34158)"
-         id="g6682"
-         style="display:inline;enable-background:new">
-        <path
-           sodipodi:nodetypes="ccc"
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 336.0002,430 h -2 v 13"
-           id="path6668"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-           id="rect6670"
-           width="2"
-           height="2"
-           x="334.50021"
-           y="434.5"
-           rx="0"
-           ry="0" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-           id="rect6672"
-           width="2"
-           height="2"
-           x="334.50021"
-           y="438.5"
-           rx="0"
-           ry="0" />
-        <path
-           style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
-           id="path6674"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-        <rect
-           y="428"
-           x="321.00021"
-           height="16"
-           width="16"
-           id="rect6676"
-           style="fill:none;stroke:none" />
-        <path
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-           d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
-           id="path6678"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-        <ellipse
-           ry="5.9375"
-           rx="6.0625"
-           cy="223.6875"
-           cx="3.5625"
-           style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-           id="ellipse6680"
-           transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)" />
-      </g>
+         x="251.35489"
+         id="tspan6550"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:0.26458332">Thinkpad Thunderbolt 3 Dock USB Audio</tspan></text>
+    <g
+       inkscape:label="audio-card"
+       transform="matrix(0.26458334,0,0,0.26458334,159.01351,-92.202086)"
+       id="g6614"
+       style="display:inline;enable-background:new">
+      <path
+         sodipodi:nodetypes="ccc"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 336.0002,430 h -2 v 13"
+         id="path6600"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+         id="rect6602"
+         width="2"
+         height="2"
+         x="334.50021"
+         y="434.5"
+         rx="0"
+         ry="0" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+         id="rect6604"
+         width="2"
+         height="2"
+         x="334.50021"
+         y="438.5"
+         rx="0"
+         ry="0" />
+      <path
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
+         id="path6606"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         y="428"
+         x="321.00021"
+         height="16"
+         width="16"
+         id="rect6608"
+         style="fill:none;stroke:none" />
+      <path
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
+         id="path6610"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <ellipse
+         ry="5.9375"
+         rx="6.0625"
+         cy="223.6875"
+         cx="3.5625"
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         id="ellipse6612"
+         transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)" />
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g6666"
+       transform="matrix(0.26458334,0,0,0.26458334,159.01351,-80.560412)"
+       inkscape:label="audio-card">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6652"
+         d="m 336.0002,430 h -2 v 13"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         ry="0"
+         rx="0"
+         y="434.5"
+         x="334.50021"
+         height="2"
+         width="2"
+         id="rect6654"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+      <rect
+         ry="0"
+         rx="0"
+         y="438.5"
+         x="334.50021"
+         height="2"
+         width="2"
+         id="rect6656"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6658"
+         d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6660"
+         width="16"
+         height="16"
+         x="321.00021"
+         y="428" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6662"
+         d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none" />
+      <ellipse
+         transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)"
+         id="ellipse6664"
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         cx="3.5625"
+         cy="223.6875"
+         rx="6.0625"
+         ry="5.9375" />
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g6682"
+       transform="matrix(0.26458334,0,0,0.26458334,159.01351,-117.34158)"
+       inkscape:label="audio-card">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6668"
+         d="m 336.0002,430 h -2 v 13"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         ry="0"
+         rx="0"
+         y="434.5"
+         x="334.50021"
+         height="2"
+         width="2"
+         id="rect6670"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+      <rect
+         ry="0"
+         rx="0"
+         y="438.5"
+         x="334.50021"
+         height="2"
+         width="2"
+         id="rect6672"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6674"
+         d="m 331.0002,441 h -1 v 2 h -8 v -10 h 3"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6676"
+         width="16"
+         height="16"
+         x="321.00021"
+         y="428" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6678"
+         d="m 327,429 5.0002,4 H 329 v 4.53124 h -2 z"
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none" />
+      <ellipse
+         transform="matrix(0.41157264,0,0,0.4202381,325.03397,343.50283)"
+         id="ellipse6680"
+         style="display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         cx="3.5625"
+         cy="223.6875"
+         rx="6.0625"
+         ry="5.9375" />
     </g>
     <flowRoot
        transform="matrix(0.26458325,0,0,0.26458333,-231.38952,164.17704)"
@@ -2569,7 +2632,7 @@
            y="-828.99976"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
-         id="flowPara5502">Examples of where options with icons and descriptions would get used:</flowPara></flowRoot>    <flowRoot
+         id="flowPara5502">Where options with icons and descriptions could be used:</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458325,0,0,0.26458333,-230.33118,288.53115)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot5512"
@@ -2587,7 +2650,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          id="flowPara5514">• Sound settings: input and output device</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
-         id="flowPara5516">• Power settings: power button options (to describe what each one does)</flowPara><flowPara
+         id="flowPara5516">• Power settings: power button options (to describe what each option does)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          id="flowPara5518">• Software: app source dropdown</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458325,0,0,0.26458333,-410.37999,107.55572)"
@@ -2635,7 +2698,95 @@
            y="-828.99976"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara5548"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">Some of these things could be added at a later date, but it's probably worth waiting until  compelling use cases emerge.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">Some of these things could be added at a later date, but it's probably worth waiting until  compelling use cases emerge.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458325,0,0,0.26458333,-406.01463,171.05604)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot15292"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+         id="flowRegion15288"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+           y="-828.99976"
+           x="1631"
+           height="287.68982"
+           width="563.47168"
+           id="rect15286" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+         id="flowPara15290">When the button is pressed, the list appears below it. The list stays open until the user clicks a row, the button, or outside the list.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:#9a9996;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect15349"
+       width="52.387501"
+       height="7.9375033"
+       x="74.083336"
+       y="5.6881719" />
+    <text
+       id="text1285"
+       y="11.018851"
+       x="79.37561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3d3846;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="11.018851"
+         x="79.37561"
+         id="tspan1283"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3d3846;fill-opacity:1;stroke-width:0.26458332">1 minute</tspan></text>
+    <image
+       y="8.0749931"
+       x="105.83334"
+       id="image15366"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABAdJREFU
+WIXt1lFIm1cUwPF/7KLpmlHHGmM0miGbHbFuoGFMN8gqImz2qaDgxtrah+HSUXHgEBHWIHatIAMH
+2cP2MKhuPkzFifahrb4o04fSddgMS9FUR6Vg15Yt2iT35uwhxjqJtmrmGOzAebvf9/3u+e4998L/
+sS5E5MC/9vG8vLy94XB4qq6u7hDwHJCyqwC73W4WEbl79+602+1+fdcRmZmZ+0VEotGo3L59e9rl
+crl2FREHnD9/Xn6/f18HAoEbhYWFRYB5VxBxwLFjx6S8vFwePnyoZ2ZmfnE6na8B+/4JRMIXRqNR
+/H4/x48fT7FarQV9fX3f5ObmvgjsBQy7AlBKce3aNWpra1McDkfR0NDQVxaLJSfZiIQArfVqXr16
+FY/Hk5Kfn//WlStXfOnp6XbAlCxEQoCIoLVGKYXWmomJCRobGw1Op/PtS5cufQFkAWnJQGy4qCKR
+yCpCKcXo6ChNTU2GoqKid8bGxj4HbMlAbAgIBoOrFYjnyMgIra2thpKSkqrR0VEvYAVSd4LYdFvF
+AfEqKKW4ePEi7e3tuN3uDy5fvvwZkLkTxKaAUCiUEDE0NITP56OsrKx2cHDwUyBju4hNAeFw+G+L
+MZ5KKXp7e7lw4QKVlZWegYGBTwALYNwq4omdLY5YXwWlFN3d3fT09HDkyJH6np6ej4ADW0U886QB
+y8vLmEwmlFKYTCYOHz6M0WgkLS2N1NRUZmZmmJ2dNVRVVTUtLS09Onny5NfAPSDytIjViJ8F1dXV
+Aqym2WwWi8UiOTk5Mj4+LhuFUirS1dX1MZCetAoAnDhxgt7eXrTW+Hw+SktLOXr06Lf9/f0/A38A
+egW7BPxGrD9sPRJV4MyZMyIi0tDQIBkZGeJwOMTv9+vJyckbwLvAK4ADyAXsxHbEs0kBnD17VrTW
+cuvWrYU7d+7orKwsyc7OllOnTonWOlpTU1NHrC0bgT0rmcJ2G9NaQEdHh2ito+fOnRtwuVwtoVBI
+nT59WqxWq+Tl5UkgENDj4+NjwCGSdTjFAdevXxelVNTr9f4AvA+8MTU11T8/P69sNpvY7XZpbm6W
+cDisKioq3iO2/XZ+WYkDIpGIbmlp+R6oAZzA883NzaWRSER5PB6x2Wxy8OBBefDgge7u7v4OeInY
+b9g5QGsdbmtr+xKoIrbA9hH7t/tv3rw5EAgEVHZ2thQXF8vi4qLu6ur6EXiVZBzPdrvdPDw8/CHw
+JvAyj++BBsDo9XpLgsHg0uLiolJKRefm5u4VFBTUA/ls8yxY/4CRxzMOAiFi2zE+1lxfX+92u901
+09PT4c7Ozp8WFhb8wK/AfSC6U4CB2IzXdsK1sWcF+AKxu+GjlQ//CagE47cMeJpIWZPRlUyE/W/E
+X3/HQayZSejVAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="8.4666672"
+       width="8.4666672" />
+    <image
+       width="8.4666672"
+       height="8.4666672"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABAdJREFU
+WIXt1lFIm1cUwPF/7KLpmlHHGmM0miGbHbFuoGFMN8gqImz2qaDgxtrah+HSUXHgEBHWIHatIAMH
+2cP2MKhuPkzFifahrb4o04fSddgMS9FUR6Vg15Yt2iT35uwhxjqJtmrmGOzAebvf9/3u+e4998L/
+sS5E5MC/9vG8vLy94XB4qq6u7hDwHJCyqwC73W4WEbl79+602+1+fdcRmZmZ+0VEotGo3L59e9rl
+crl2FREHnD9/Xn6/f18HAoEbhYWFRYB5VxBxwLFjx6S8vFwePnyoZ2ZmfnE6na8B+/4JRMIXRqNR
+/H4/x48fT7FarQV9fX3f5ObmvgjsBQy7AlBKce3aNWpra1McDkfR0NDQVxaLJSfZiIQArfVqXr16
+FY/Hk5Kfn//WlStXfOnp6XbAlCxEQoCIoLVGKYXWmomJCRobGw1Op/PtS5cufQFkAWnJQGy4qCKR
+yCpCKcXo6ChNTU2GoqKid8bGxj4HbMlAbAgIBoOrFYjnyMgIra2thpKSkqrR0VEvYAVSd4LYdFvF
+AfEqKKW4ePEi7e3tuN3uDy5fvvwZkLkTxKaAUCiUEDE0NITP56OsrKx2cHDwUyBju4hNAeFw+G+L
+MZ5KKXp7e7lw4QKVlZWegYGBTwALYNwq4omdLY5YXwWlFN3d3fT09HDkyJH6np6ej4ADW0U886QB
+y8vLmEwmlFKYTCYOHz6M0WgkLS2N1NRUZmZmmJ2dNVRVVTUtLS09Onny5NfAPSDytIjViJ8F1dXV
+Aqym2WwWi8UiOTk5Mj4+LhuFUirS1dX1MZCetAoAnDhxgt7eXrTW+Hw+SktLOXr06Lf9/f0/A38A
+egW7BPxGrD9sPRJV4MyZMyIi0tDQIBkZGeJwOMTv9+vJyckbwLvAK4ADyAXsxHbEs0kBnD17VrTW
+cuvWrYU7d+7orKwsyc7OllOnTonWOlpTU1NHrC0bgT0rmcJ2G9NaQEdHh2ito+fOnRtwuVwtoVBI
+nT59WqxWq+Tl5UkgENDj4+NjwCGSdTjFAdevXxelVNTr9f4AvA+8MTU11T8/P69sNpvY7XZpbm6W
+cDisKioq3iO2/XZ+WYkDIpGIbmlp+R6oAZzA883NzaWRSER5PB6x2Wxy8OBBefDgge7u7v4OeInY
+b9g5QGsdbmtr+xKoIrbA9hH7t/tv3rw5EAgEVHZ2thQXF8vi4qLu6ur6EXiVZBzPdrvdPDw8/CHw
+JvAyj++BBsDo9XpLgsHg0uLiolJKRefm5u4VFBTUA/ls8yxY/4CRxzMOAiFi2zE+1lxfX+92u901
+09PT4c7Ozp8WFhb8wK/AfSC6U4CB2IzXdsK1sWcF+AKxu+GjlQ//CagE47cMeJpIWZPRlUyE/W/E
+X3/HQayZSejVAAAAAElFTkSuQmCC
+"
+       id="image15371"
+       x="271.99179"
+       y="8.0749931" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
