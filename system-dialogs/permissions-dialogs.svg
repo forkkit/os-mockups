@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="440"
-   viewBox="0 0 529.16663 116.41668"
+   width="1600"
+   height="1280"
+   viewBox="0 0 423.3333 338.66671"
    version="1.1"
    id="svg1678"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -74,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="741.58186"
-     inkscape:cy="201.91288"
+     inkscape:zoom="0.5"
+     inkscape:cx="697.83059"
+     inkscape:cy="519.06579"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:guide-bbox="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid2253"
@@ -125,7 +125,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-180.58331)"
+     transform="translate(0,41.666711)"
      style="display:inline">
     <path
        style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
@@ -178,8 +178,8 @@
        height="18.785416"
        x="28.183844"
        y="228.87534"
-       rx="0.79374999"
-       ry="0.79375005" />
+       rx="0.5291667"
+       ry="0.5291667" />
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,5.2248006,140.48972)"
        xml:space="preserve"
@@ -250,13 +250,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="37.560551"
-       y="234.23744"
+       y="234.7666"
        id="text1532"><tspan
          style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332"
          sodipodi:role="line"
          id="tspan1530"
          x="37.560551"
-         y="234.23744">Record video</tspan></text>
+         y="234.7666">Record video</tspan></text>
     <g
        transform="matrix(0.26458333,0,0,0.26458333,25.13547,167.88332)"
        id="g11537"
@@ -277,11 +277,11 @@
     </g>
     <text
        id="text1690"
-       y="244.82079"
+       y="244.29163"
        x="37.560551"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="244.82079"
+         y="244.29163"
          x="37.560551"
          id="tspan1688"
          sodipodi:role="line"
@@ -337,8 +337,8 @@
          sodipodi:role="line"
          style="font-size:3.88055563px;stroke-width:0.26458332">Cancel</tspan></text>
     <rect
-       ry="0.79375005"
-       rx="0.79374999"
+       ry="0.5291667"
+       rx="0.5291667"
        y="228.87534"
        x="155.18387"
        height="18.785416"
@@ -504,8 +504,8 @@
        height="9.260416"
        x="282.18393"
        y="229.93362"
-       rx="0.79374999"
-       ry="0.79375005" />
+       rx="0.5291667"
+       ry="0.5291667" />
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,259.22491,141.54806)"
        xml:space="preserve"
@@ -552,12 +552,6 @@
          id="tspan1898"
          sodipodi:role="line"
          style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332">Record audio</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1902"
-       d="M 360.09806,229.92812 H 282.31054"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
     <g
        transform="matrix(0.26458333,0,0,0.26458333,279.39999,159.41665)"
        id="g3281-5"
@@ -577,21 +571,746 @@
          d="m -176.5,235 c -0.27614,0 -0.5,0.22386 -0.5,0.5 v 2.96875 c 0,1.96838 1.25801,3.62455 3,4.25 V 244 h -2 c -0.56475,0 -1,0.49007 -1,1 v 1 h 0.84375 2.15625 5 0.0937 0.90625 v -1 c -6e-5,-0.58435 -0.47642,-0.99995 -1,-1 h -2 v -1.28125 c 1.74199,-0.62545 3,-2.28162 3,-4.25 V 235.5 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 -0.27614,0 -0.5,0.22386 -0.5,0.5 0,0.069 0.006,0.12768 0.0312,0.1875 v 2.78125 c 0,1.96415 -1.57895,3.53125 -3.53125,3.53125 -1.9523,0 -3.5,-1.5671 -3.5,-3.53125 V 235.5 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 z m 3.9998,-4.01288 c 1.385,0 2.5,1.115 2.5,2.5 V 238.5 c 0,1.385 -1.115,2.5 -2.5,2.5 -1.385,0 -2.5,-1.115 -2.5,-2.5 v -5.01288 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path1959"
+       d="m 19.446888,91.550876 h 94.985382 c 1.31921,0 2.38125,1.06204 2.38125,2.38125 v 77.787514 c 0,1.31922 -1.06204,2.38125 -2.38125,2.38125 H 19.446888 c -1.31922,0 -2.38125,-1.06203 -2.38125,-2.38125 V 93.932126 c 0,-1.31921 1.06203,-2.38125 2.38125,-2.38125 z"
+       style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.162804"
+       y="104.06306"
+       id="text1963"><tspan
+         id="tspan1961"
+         sodipodi:role="line"
+         x="67.162804"
+         y="104.06306"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.26458332">Grant File System Access?</tspan></text>
+    <text
+       id="text1967"
+       y="169.67923"
+       x="91.945305"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="169.67923"
+         x="91.945305"
+         id="tspan1965"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Grant</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 67.071881,162.59164 v 11.64167"
+       id="path1969"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1973"
+       y="169.67923"
+       x="41.927769"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="169.67923"
+         x="41.927769"
+         id="tspan1971"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Cancel</tspan></text>
+    <rect
+       ry="0.5291667"
+       rx="0.5291667"
+       y="123.04198"
+       x="28.183867"
+       height="18.785416"
+       width="78.052078"
+       id="rect1975"
+       style="display:inline;fill:#444444;fill-opacity:1;stroke:#2e3333;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <flowRoot
+       style="font-style:normal;font-weight:bold;font-size:14.66666698px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2003"
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.2248142,34.656379)"><flowRegion
+         id="flowRegion1979"
+         style="font-size:14.66666698px;line-height:120.00000477%"><rect
+           style="font-size:14.66666698px;line-height:120.00000477%;text-align:center;text-anchor:middle;fill:#e5e5e5"
+           y="281.53528"
+           x="82.413269"
+           height="189.75629"
+           width="302.3299"
+           id="rect1977" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara1985"><flowSpan
+   id="flowSpan1981"
+   style="font-weight:bold">Application</flowSpan> wants to access the file system. Granting access will allow <flowSpan
+   id="flowSpan1983"
+   style="font-weight:bold">Application</flowSpan> to:</flowPara><flowPara
+         id="flowPara1987"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara1989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara1991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara1993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara1995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara1997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5">Access to the file system can be changed at any time from the <flowSpan
+   id="flowSpan1999"
+   style="font-weight:bold">Privacy</flowSpan> settings.</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.933348,162.72404 H 116.68124"
+       id="path2005"
+       inkscape:connector-curvature="0" />
+    <g
+       style="enable-background:new"
+       id="g3943"
+       inkscape:label="drive-harddisk"
+       transform="matrix(0.26458334,0,0,0.26458334,-9.7896862,28.183313)">
+      <path
+         sodipodi:nodetypes="ssscsssssss"
+         inkscape:connector-curvature="0"
+         id="rect8476"
+         d="m 159.99998,371 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.81306,4.31242 -4,4 H 156 l -2e-5,-4 c -1e-5,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         ry="1.2011019"
+         rx="1.1962026"
+         y="369"
+         x="154.0002"
+         height="14"
+         width="12.0002"
+         id="rect3884"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <rect
+         y="368"
+         x="152.0004"
+         height="16"
+         width="16"
+         id="rect3929"
+         style="opacity:0.02000002;fill:none;stroke:none" />
+    </g>
+    <text
+       id="text2017"
+       y="128.93326"
+       x="37.560558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="128.93326"
+         x="37.560558"
+         id="tspan2015"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332">Access internal and external drives</tspan></text>
+    <g
+       style="display:inline;enable-background:new"
+       id="g10444"
+       inkscape:label="document-edit"
+       transform="matrix(0.26458334,0,0,0.26458334,-17.19792,-35.845856)">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect10447"
+         width="16"
+         height="16"
+         x="180"
+         y="646" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 182.01035,657.01428 6.51761,-6.57234 2.99982,2.99981 -6.51743,6.57253 h -3 z"
+         id="path13107"
+         sodipodi:nodetypes="cccccc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 191.63729,647.67638 c -0.20052,0 -0.40103,0.0768 -0.55468,0.23047 l -1.76953,1.76758 3.05273,3.05273 1.76953,-1.76953 c 0.3073,-0.3073 0.3073,-0.80208 0,-1.10938 l -1.94336,-1.9414 c -0.15365,-0.15365 -0.35417,-0.23047 -0.55469,-0.23047 z"
+         id="rect9831" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.560558"
+       y="138.45828"
+       id="text2027"><tspan
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2025"
+         x="37.560558"
+         y="138.45828">Create and edit files</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.09789,132.56144 H 28.310432"
+       id="path2029"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path2195"
+       d="m 146.44691,96.842493 h 94.98545 c 1.31921,0 2.38125,1.06204 2.38125,2.38125 v 69.320847 c 0,1.31922 -1.06204,2.38125 -2.38125,2.38125 h -94.98545 c -1.31922,0 -2.38125,-1.06203 -2.38125,-2.38125 V 99.223743 c 0,-1.31921 1.06203,-2.38125 2.38125,-2.38125 z"
+       style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="194.16263"
+       y="109.35468"
+       id="text2199"><tspan
+         id="tspan2197"
+         sodipodi:role="line"
+         x="194.16263"
+         y="109.35468"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.26458332">Grant File System Access?</tspan></text>
+    <text
+       id="text2203"
+       y="166.5042"
+       x="218.94525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="166.5042"
+         x="218.94525"
+         id="tspan2201"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Grant</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.07193,159.41659 v 11.64167"
+       id="path2205"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text2209"
+       y="166.5042"
+       x="168.92766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="166.5042"
+         x="168.92766"
+         id="tspan2207"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Cancel</tspan></text>
+    <rect
+       ry="0.5291667"
+       rx="0.5291667"
+       y="129.38643"
+       x="155.18382"
+       height="9.260416"
+       width="78.052078"
+       id="rect2211"
+       style="display:inline;fill:#444444;fill-opacity:1;stroke:#2e3333;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <flowRoot
+       style="font-style:normal;font-weight:bold;font-size:14.66666698px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2235"
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,132.22483,41.006366)"><flowRegion
+         id="flowRegion2215"
+         style="font-size:14.66666698px;line-height:120.00000477%"><rect
+           style="font-size:14.66666698px;line-height:120.00000477%;text-align:center;text-anchor:middle;fill:#e5e5e5"
+           y="281.53528"
+           x="82.413269"
+           height="189.75629"
+           width="302.3299"
+           id="rect2213" /></flowRegion><flowPara
+         id="flowPara2221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"><flowSpan
+   id="flowSpan2217"
+   style="font-weight:bold">Application</flowSpan> wants to access the file system. Granting access will allow <flowSpan
+   id="flowSpan2219"
+   style="font-weight:bold">Application</flowSpan> to:</flowPara><flowPara
+         id="flowPara2223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2233"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5">Access to the file system. can be changed at any time from the <flowSpan
+   id="flowSpan2231"
+   style="font-weight:bold">Privacy</flowSpan> settings.</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.93337,159.54899 h 99.74796"
+       id="path2237"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0.26458334,0,0,0.26458334,109.80208,-39.020855)"
+       inkscape:label="document-edit"
+       id="g2257"
+       style="display:inline;enable-background:new">
+      <rect
+         y="646"
+         x="180"
+         height="16"
+         width="16"
+         id="rect2251"
+         style="fill:none;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         sodipodi:nodetypes="cccccc"
+         id="path2253"
+         d="m 182.01035,657.01428 6.51761,-6.57234 2.99982,2.99981 -6.51743,6.57253 h -3 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path2255"
+         d="m 191.63729,647.67638 c -0.20052,0 -0.40103,0.0768 -0.55468,0.23047 l -1.76953,1.76758 3.05273,3.05273 1.76953,-1.76953 c 0.3073,-0.3073 0.3073,-0.80208 0,-1.10938 l -1.94336,-1.9414 c -0.15365,-0.15365 -0.35417,-0.23047 -0.55469,-0.23047 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text2261"
+       y="135.28325"
+       x="164.56049"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="135.28325"
+         x="164.56049"
+         id="tspan2259"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332">Create and edit files</tspan></text>
+    <path
+       style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 273.44698,96.842493 h 94.98545 c 1.31921,0 2.38125,1.06204 2.38125,2.38125 v 69.320847 c 0,1.31922 -1.06204,2.38125 -2.38125,2.38125 h -94.98545 c -1.31922,0 -2.38125,-1.06203 -2.38125,-2.38125 V 99.223743 c 0,-1.31921 1.06203,-2.38125 2.38125,-2.38125 z"
+       id="path2454"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <text
+       id="text2458"
+       y="109.35468"
+       x="321.16254"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="109.35468"
+         x="321.16254"
+         sodipodi:role="line"
+         id="tspan2456">Grant Speaker Access?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="345.9451"
+       y="166.5042"
+       id="text2462"><tspan
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2460"
+         x="345.9451"
+         y="166.5042">Grant</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2464"
+       d="m 321.072,159.41659 v 11.64167"
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="295.92764"
+       y="166.5042"
+       id="text2468"><tspan
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2466"
+         x="295.92764"
+         y="166.5042">Cancel</tspan></text>
+    <rect
+       style="display:inline;fill:#444444;fill-opacity:1;stroke:#2e3333;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect2470"
+       width="78.052078"
+       height="9.260416"
+       x="282.18387"
+       y="129.38643"
+       rx="0.5291667"
+       ry="0.5291667" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,259.2249,41.006366)"
+       xml:space="preserve"
+       id="flowRoot2494"
+       style="font-style:normal;font-weight:bold;font-size:14.66666698px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-size:14.66666698px;line-height:120.00000477%"
+         id="flowRegion2474"><rect
+           id="rect2472"
+           width="302.3299"
+           height="189.75629"
+           x="82.413269"
+           y="281.53528"
+           style="font-size:14.66666698px;line-height:120.00000477%;text-align:center;text-anchor:middle;fill:#e5e5e5" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2480"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan2476">Application</flowSpan> wants to access the speakers, Granting access will allow <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2478">Application</flowSpan> to:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2482" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2484" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2486" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2488" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2492">Access to the speakers. can be changed at any time from the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2490">Privacy</flowSpan> settings.</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path2496"
+       d="M 270.93344,159.54899 H 370.6814"
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g6214"
+       inkscape:label="audio-speakers"
+       transform="matrix(0.26458334,0,0,0.26458334,241.82918,8.3561495)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         id="path5491-6"
+         d="m 162.0002,472 h 2.48437 l 2.96876,-3 0.54687,0.0156 v 12 l -0.4753,8.3e-4 L 164.48457,478 h -2.48437 z"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect6203-3"
+         width="16"
+         height="16"
+         x="161.0002"
+         y="467" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 168.9998,472 4e-4,-1.42201 3.3669,-3.35828 c 0.40429,-0.41126 1.06342,-0.34684 1.41232,0.0223 0.33201,0.35127 0.37475,0.98788 -0.0296,1.39225 l -3.35898,3.36561 z"
+         id="path9704"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         inkscape:connector-curvature="0"
+         id="path9706"
+         d="m 168.9998,477.93731 4e-4,1.42201 3.3669,3.35828 c 0.40429,0.41126 1.06342,0.34684 1.41232,-0.0223 0.33201,-0.35127 0.37475,-0.98788 -0.0296,-1.39225 l -3.35898,-3.36561 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 168.9998,474 v 2 l 6.0004,4e-5 c 0.7496,0 0.9989,-0.50118 0.9996,-1.00178 6.9e-4,-0.49942 -0.25,-0.99826 -1,-0.99826 z"
+         id="path9708"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccscc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="291.56052"
+       y="135.29979"
+       id="text2402"><tspan
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2400"
+         x="291.56052"
+         y="135.29979">Play audio and send alerts</tspan></text>
+    <path
+       style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 19.446888,-14.282463 h 94.985382 c 1.31921,0 2.38125,1.06204 2.38125,2.38125 v 77.787484 c 0,1.31922 -1.06204,2.381247 -2.38125,2.381247 H 19.446888 c -1.31922,0 -2.38125,-1.062027 -2.38125,-2.381247 v -77.787484 c 0,-1.31921 1.06203,-2.38125 2.38125,-2.38125 z"
+       id="path2663"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <text
+       id="text2667"
+       y="-1.7702727"
+       x="67.162804"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="-1.7702727"
+         x="67.162804"
+         sodipodi:role="line"
+         id="tspan2665">Allow Background Activity?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="91.945305"
+       y="63.84589"
+       id="text2671"><tspan
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2669"
+         x="91.945305"
+         y="63.84589">Grant</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2673"
+       d="M 67.071881,56.758277 V 68.399938"
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.927769"
+       y="63.84589"
+       id="text2677"><tspan
+         style="font-size:3.88055563px;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2675"
+         x="41.927769"
+         y="63.84589">Cancel</tspan></text>
+    <rect
+       style="display:inline;fill:#444444;fill-opacity:1;stroke:#2e3333;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect2679"
+       width="78.052078"
+       height="18.785416"
+       x="28.183867"
+       y="17.208658"
+       rx="0.5291667"
+       ry="0.5291667" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,5.2248142,-71.17696)"
+       xml:space="preserve"
+       id="flowRoot2707"
+       style="font-style:normal;font-weight:bold;font-size:14.66666698px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-size:14.66666698px;line-height:120.00000477%"
+         id="flowRegion2683"><rect
+           id="rect2681"
+           width="302.3299"
+           height="189.75629"
+           x="82.413269"
+           y="281.53528"
+           style="font-size:14.66666698px;line-height:120.00000477%;text-align:center;text-anchor:middle;fill:#e5e5e5" /></flowRegion><flowPara
+         id="flowPara2689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan2685">Application</flowSpan> wants permission to run in the background, this will allow <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2687">Application</flowSpan> to:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2691" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2693" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2695" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2697" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2699" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2701" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2705">Permission to run in the background can be changed at any time from the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2703">Privacy</flowSpan> settings.</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path2709"
+       d="M 16.933348,56.890677 H 116.68124"
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g4683"
+       inkscape:label="view-refresh"
+       transform="matrix(0.26458334,0,0,0.26458334,-33.07137,-117.33753)">
+      <rect
+         transform="rotate(-90)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect10837-5-8-4-4-2"
+         y="240"
+         x="-534"
+         height="16"
+         width="16" />
+      <path
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         d="m 6.71875,532 c -0.1918593,0.009 -0.3722275,0.0353 -0.5625,0.0625 -1.52218,0.21741 -2.97815,1.02304 -3.96875,2.34375 -1.98119,2.64144 -1.42267,6.42505 1.21875,8.40625 2.64147,1.98122 6.42504,1.42267 8.40625,-1.21875 C 11.935176,541.42211 12.001825,541.211 12,541 v -1 h -1 c -0.314154,-10e-4 -0.62517,0.15406 -0.8125,0.40625 -1.33265,1.77674 -3.81702,2.11387 -5.59375,0.78125 -1.77674,-1.33264 -2.1139,-3.81699 -0.78125,-5.59375 1.33265,-1.77674 3.817,-2.11389 5.59375,-0.78125 0.4294639,0.32212 0.769545,0.73295 1.03125,1.1875 H 9 c -0.55228,0 -1,0.44772 -1,1 v 1 h 6 v -5 -1 h -1 c -0.55229,0 -1,0.44772 -1,1 v 1.6875 c -0.382248,-0.57796 -0.84927,-1.08223 -1.40625,-1.5 C 9.43812,532.32073 8.0617648,531.93523 6.71875,532 Z"
+         transform="translate(240,-12)"
+         id="path4597"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.560558"
+       y="23.099934"
+       id="text2721"><tspan
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2719"
+         x="37.560558"
+         y="23.099934">Start automatically</tspan></text>
+    <text
+       id="text2733"
+       y="32.624962"
+       x="37.560558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="32.624962"
+         x="37.560558"
+         id="tspan2731"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332">Perform tasks in the background</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2735"
+       d="M 106.09789,26.728092 H 28.310432"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="display:inline;enable-background:new"
+       inkscape:label="system-run-old"
+       id="g42953"
+       transform="matrix(0.26458334,0,0,0.26458334,19.580716,-59.922949)">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect42957"
+         width="16"
+         height="16"
+         x="41.000198"
+         y="337" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 52.375,337.25 c -0.239942,0.43525 -0.467624,1.00577 -0.71875,1.4375 -0.09387,-0.007 -0.185709,-0.0313 -0.28125,-0.0313 -0.332255,0 -0.660088,0.0487 -0.96875,0.125 -0.305025,-0.3828 -0.630342,-0.89813 -0.9375,-1.28125 -0.284596,0.10504 -0.552268,0.22648 -0.8125,0.375 0.09593,0.48262 0.276896,1.07105 0.375,1.5625 -0.343004,0.24882 -0.626184,0.532 -0.875,0.875 -0.491453,-0.0981 -1.079882,-0.27907 -1.5625,-0.375 -0.148521,0.26023 -0.269963,0.5279 -0.375,0.8125 0.383118,0.30716 0.898446,0.63248 1.28125,0.9375 -0.07635,0.30866 -0.125,0.6365 -0.125,0.96875 0,0.0955 0.02466,0.18738 0.03125,0.28125 -0.431735,0.25113 -1.00225,0.47881 -1.4375,0.71875 0.05124,0.27476 0.128303,0.55374 0.21875,0.8125 0.491399,-0.01 1.099493,-0.0946 1.59375,-0.0937 0.187125,0.39176 0.420532,0.75381 0.71875,1.0625 -0.172042,0.46783 -0.448123,1.0086 -0.625,1.46875 0.212898,0.1757 0.449497,0.32623 0.6875,0.46875 0.369206,-0.32011 0.775422,-0.77147 1.15625,-1.09375 0.378045,0.17256 0.788621,0.26529 1.21875,0.3125 0.164542,0.47676 0.304284,1.08808 0.46875,1.5625 0.30154,-0.002 0.586801,-0.0141 0.875,-0.0625 0.08055,-0.49291 0.110368,-1.11855 0.1875,-1.625 0.410087,-0.11684 0.811342,-0.26698 1.15625,-0.5 0.424331,0.26446 0.898868,0.62889 1.3125,0.875 0.223737,-0.19067 0.43433,-0.40126 0.625,-0.625 -0.246108,-0.41363 -0.610541,-0.88817 -0.875,-1.3125 0.233016,-0.34491 0.383162,-0.74616 0.5,-1.15625 0.506449,-0.0771 1.132085,-0.10695 1.625,-0.1875 0.04835,-0.2882 0.06081,-0.57346 0.0625,-0.875 -0.474423,-0.16447 -1.085738,-0.30421 -1.5625,-0.46875 C 55.265292,341.78862 55.172555,341.37805 55,341 c 0.32228,-0.38083 0.773639,-0.78704 1.09375,-1.15625 -0.142521,-0.238 -0.293051,-0.4746 -0.46875,-0.6875 -0.460149,0.17688 -1.000924,0.45296 -1.46875,0.625 -0.308689,-0.29822 -0.670736,-0.53162 -1.0625,-0.71875 -8.87e-4,-0.49426 0.08396,-1.10235 0.09375,-1.59375 -0.258762,-0.0904 -0.537737,-0.16751 -0.8125,-0.21875 z m -1,3.40625 c 1.104569,0 2,0.89543 2,2 0,1.10457 -0.895431,2 -2,2 -1.104569,0 -2,-0.89543 -2,-2 0,-1.10457 0.895431,-2 2,-2 z"
+         id="path42961"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 64.6875,344.75 c -0.230139,0.0471 -0.443908,0.13096 -0.65625,0.21875 -0.01671,0.62433 0.08693,1.44177 -0.15625,1.65625 -0.238965,0.21077 -1.038358,0.0343 -1.65625,-0.0313 -0.131388,0.23649 -0.235259,0.48523 -0.3125,0.75 0.478093,0.39586 1.140508,0.83901 1.15625,1.15625 0.01594,0.32119 -0.626418,0.80489 -1.0625,1.25 0.103387,0.25783 0.250144,0.49354 0.40625,0.71875 0.608323,-0.12641 1.366392,-0.37354 1.625,-0.1875 0.263308,0.18942 0.265212,1.00535 0.34375,1.625 0.249548,0.075 0.512509,0.1045 0.78125,0.125 0.281352,-0.55462 0.567413,-1.3198 0.875,-1.40625 0.315752,-0.0887 0.963545,0.45813 1.5,0.78125 0.21871,-0.1516 0.412931,-0.33706 0.59375,-0.53125 -0.253838,-0.57232 -0.721084,-1.29192 -0.59375,-1.59375 0.127453,-0.30211 0.975404,-0.46963 1.5625,-0.6875 0.0044,-0.0735 0.03125,-0.14414 0.03125,-0.21875 0,-0.19137 -0.0344,-0.37899 -0.0625,-0.5625 -0.606097,-0.16082 -1.467207,-0.2413 -1.625,-0.53125 -0.156736,-0.28801 0.241786,-1.0614 0.4375,-1.65625 -0.201161,-0.17858 -0.419409,-0.33716 -0.65625,-0.46875 -0.500893,0.37513 -1.084329,0.99436 -1.40625,0.9375 -0.316887,-0.056 -0.662888,-0.81955 -1,-1.34375 -0.04019,0.007 -0.08527,-0.008 -0.125,0 z m 0.625,1.875 c 0.931981,0 1.6875,0.75552 1.6875,1.6875 0,0.93198 -0.755519,1.6875 -1.6875,1.6875 -0.931981,0 -1.6875,-0.75552 -1.6875,-1.6875 0,-0.93198 0.755519,-1.6875 1.6875,-1.6875 z"
+         transform="translate(-20)"
+         id="path42972" />
+    </g>
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path2891"
+       d="m 273.44698,-8.9908462 h 94.98545 c 1.31921,0 2.38125,1.06204 2.38125,2.38125 V 62.711224 c 0,1.319217 -1.06204,2.381247 -2.38125,2.381247 h -94.98545 c -1.31922,0 -2.38125,-1.06203 -2.38125,-2.381247 V -6.6095962 c 0,-1.31921 1.06203,-2.38125 2.38125,-2.38125 z"
+       style="display:inline;fill:#393f3f;fill-opacity:1;stroke:#1d2020;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="321.16254"
+       y="3.5213559"
+       id="text2895"><tspan
+         id="tspan2893"
+         sodipodi:role="line"
+         x="321.16254"
+         y="3.5213559"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;stroke-width:0.26458332">Set Desktop Background?</tspan></text>
+    <text
+       id="text2899"
+       y="60.670872"
+       x="345.9451"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="60.670872"
+         x="345.9451"
+         id="tspan2897"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Grant</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 321.072,53.583227 V 65.224891"
+       id="path2901"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text2905"
+       y="60.670872"
+       x="295.92764"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="60.670872"
+         x="295.92764"
+         id="tspan2903"
+         sodipodi:role="line"
+         style="font-size:3.88055563px;stroke-width:0.26458332">Cancel</tspan></text>
+    <rect
+       ry="0.5291667"
+       rx="0.5291667"
+       y="23.553104"
+       x="282.18387"
+       height="9.260416"
+       width="78.052078"
+       id="rect2907"
+       style="display:inline;fill:#444444;fill-opacity:1;stroke:#2e3333;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+    <flowRoot
+       style="font-style:normal;font-weight:bold;font-size:14.66666698px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2931"
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,259.2249,-64.826973)"><flowRegion
+         id="flowRegion2911"
+         style="font-size:14.66666698px;line-height:120.00000477%"><rect
+           style="font-size:14.66666698px;line-height:120.00000477%;text-align:center;text-anchor:middle;fill:#e5e5e5"
+           y="281.53528"
+           x="82.413269"
+           height="189.75629"
+           width="302.3299"
+           id="rect2909" /></flowRegion><flowPara
+         id="flowPara2917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"><flowSpan
+   id="flowSpan2913"
+   style="font-weight:bold">Application </flowSpan>wants permission to change the</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5"
+         id="flowPara2989">background, this will allow <flowSpan
+   style="font-weight:bold"
+   id="flowSpan2987">Application</flowSpan> to:</flowPara><flowPara
+         id="flowPara2919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5" /><flowPara
+         id="flowPara2929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#e5e5e5">Ability to set the background image can be changed at any time from the <flowSpan
+   id="flowSpan2927"
+   style="font-weight:bold">Privacy</flowSpan> settings.</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1d2020;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 270.93344,53.715627 H 370.6814"
+       id="path2933"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="291.56052"
+       y="29.449959"
+       id="text2863-3"><tspan
+         style="font-size:3.88055563px;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan2861-5"
+         x="291.56052"
+         y="29.449959">Change and set the background</tspan></text>
+    <g
+       id="g5330-6"
+       inkscape:label="preferences-desktop-wallpaper"
+       transform="matrix(0.26458334,0,0,0.26458334,262.46662,-150.41045)"
+       style="display:inline;fill:#ffffff;enable-background:new">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.02000002;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5297-2"
+         width="16"
+         height="16"
+         x="-99.000198"
+         y="667"
+         transform="scale(-1,1)" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         d="m 95.000202,668 c 1.662,0 3,1.338 3,3 v 6 c 0,1.662 -1.338,3 -3,3 h -8 c -1.662,0 -3,-1.338 -3,-3 v -6 c 0,-1.662 1.338,-3 3,-3 z m 0,2 h -8 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 z"
+         id="path5299-9" />
+      <path
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         d="m 91.000202,681 c -5,0 -5,1 -5,1 0,1 1,1 1,1 h 8 c 1,0 1,-1 1,-1 0,0 0,-1 -5,-1 z"
+         id="path5301-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscccs" />
+      <path
+         d="M 91.0002,670.99993 V 676 l -4,7e-5 V 677 h 8 v -6 z"
+         id="rect4262-0-2"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         d="m 90.0002,671 -3,4 h 3 z"
+         id="rect4262-6-8-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.000103;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="layout"
      style="display:inline"
-     transform="translate(0,-132.29166)">
-    <rect
-       transform="scale(-1)"
-       y="-362.61136"
-       x="-344.35532"
-       height="8.2020826"
-       width="12.435417"
-       id="rect2380"
-       style="opacity:1;fill:#c061cb;fill-opacity:1;stroke:#c061cb;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     transform="translate(0,89.958311)">
     <rect
        style="opacity:1;fill:#c061cb;fill-opacity:1;stroke:#c061cb;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2570"
