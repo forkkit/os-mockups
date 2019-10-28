@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="640"
-   height="720"
-   viewBox="0 0 640 720"
+   height="840"
+   viewBox="0 0 640 840"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -74,7 +74,7 @@
        x2="96"
        y2="261.53333"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(8,-96.00002)" />
+       gradientTransform="translate(8,-216.00002)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient938"
@@ -84,13 +84,13 @@
        y1="289.53333"
        x2="152"
        y2="289.53333"
-       gradientTransform="translate(0,-96.00002)" />
+       gradientTransform="translate(0,-216.00002)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient938"
        id="linearGradient948"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(10,-56.00002)"
+       gradientTransform="translate(10,-176.00002)"
        x1="164"
        y1="289.53333"
        x2="152"
@@ -100,7 +100,7 @@
        xlink:href="#linearGradient938"
        id="linearGradient952"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-12,-138.00002)"
+       gradientTransform="translate(-12,-258.00002)"
        x1="164"
        y1="289.53333"
        x2="152"
@@ -114,13 +114,13 @@
        y1="249.53331"
        x2="96"
        y2="261.53333"
-       gradientTransform="translate(8,95.999985)" />
+       gradientTransform="translate(8,-24.000015)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient938"
        id="linearGradient1010"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,95.999985)"
+       gradientTransform="translate(0,-24.000015)"
        x1="164"
        y1="289.53333"
        x2="152"
@@ -130,7 +130,7 @@
        xlink:href="#linearGradient938"
        id="linearGradient1012"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(10,135.99998)"
+       gradientTransform="translate(10,15.99998)"
        x1="164"
        y1="289.53333"
        x2="152"
@@ -140,7 +140,7 @@
        xlink:href="#linearGradient938"
        id="linearGradient1014"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-12,53.999985)"
+       gradientTransform="translate(-12,-66.000015)"
        x1="164"
        y1="289.53333"
        x2="152"
@@ -194,8 +194,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="164.84599"
-     inkscape:cy="316.58899"
+     inkscape:cx="444.84599"
+     inkscape:cy="335.308"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -236,21 +236,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,46.46669)">
+     transform="translate(0,166.46669)">
     <rect
        style="opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect824"
        width="180"
        height="144"
        x="32"
-       y="121.53329" />
+       y="1.533287" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10638-3"
        width="37"
        height="33"
        x="52.5"
-       y="217.03333"
+       y="97.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -262,7 +262,7 @@
        width="25"
        height="33"
        x="56.5"
-       y="177.03333"
+       y="57.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -272,12 +272,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="69.261322"
-       y="200.03197"
+       y="80.031967"
        id="text848"><tspan
          sodipodi:role="line"
          id="tspan846"
          x="69.261322"
-         y="200.03197"
+         y="80.031967"
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda">a</tspan></text>
     <rect
        inkscape:export-ydpi="90"
@@ -285,7 +285,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="177.03333"
+       y="57.033333"
        x="86.5"
        height="33"
        width="25"
@@ -293,12 +293,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text854"
-       y="200.03197"
+       y="80.031967"
        x="99.261322"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda"
-         y="200.03197"
+         y="80.031967"
          x="99.261322"
          id="tspan852"
          sodipodi:role="line">s</tspan></text>
@@ -308,7 +308,7 @@
        width="25"
        height="33"
        x="116.5"
-       y="177.03333"
+       y="57.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -318,12 +318,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="129.26132"
-       y="200.03197"
+       y="80.031967"
        id="text860"><tspan
          sodipodi:role="line"
          id="tspan858"
          x="129.26132"
-         y="200.03197"
+         y="80.031967"
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda">d</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -331,7 +331,7 @@
        width="25"
        height="33"
        x="94.5"
-       y="217.03333"
+       y="97.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -341,12 +341,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="107.26132"
-       y="240.03197"
+       y="120.03197"
        id="text866"><tspan
          sodipodi:role="line"
          id="tspan864"
          x="107.26132"
-         y="240.03197"
+         y="120.03197"
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda">z</tspan></text>
     <rect
        inkscape:export-ydpi="90"
@@ -354,7 +354,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="217.03333"
+       y="97.033333"
        x="124.5"
        height="33"
        width="25"
@@ -362,12 +362,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text872"
-       y="240.03197"
+       y="120.03197"
        x="137.26132"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda"
-         y="240.03197"
+         y="120.03197"
          x="137.26132"
          id="tspan870"
          sodipodi:role="line">x</tspan></text>
@@ -377,7 +377,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="177.03333"
+       y="57.033333"
        x="146.5"
        height="33"
        width="25"
@@ -389,7 +389,7 @@
        width="25"
        height="33"
        x="154.5"
-       y="217.03333"
+       y="97.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -401,7 +401,7 @@
        width="25"
        height="33"
        x="46.5"
-       y="137.03333"
+       y="17.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -413,7 +413,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="137.03333"
+       y="17.033333"
        x="76.5"
        height="33"
        width="25"
@@ -425,7 +425,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="137.03333"
+       y="17.033333"
        x="106.5"
        height="33"
        width="25"
@@ -437,14 +437,14 @@
        width="25"
        height="33"
        x="136.5"
-       y="137.03333"
+       y="17.033333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="121.53329"
+       y="1.533287"
        x="32"
        height="48"
        width="120"
@@ -456,9 +456,9 @@
        width="44"
        height="39.999985"
        x="152"
-       y="173.53333" />
+       y="53.533333" />
     <rect
-       y="213.53333"
+       y="93.533333"
        x="162"
        height="39.999985"
        width="44"
@@ -470,9 +470,9 @@
        width="44"
        height="39.999985"
        x="140"
-       y="131.53333" />
+       y="11.533333" />
     <rect
-       y="313.53333"
+       y="193.53333"
        x="32"
        height="144"
        width="180"
@@ -484,7 +484,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="409.03333"
+       y="289.03333"
        x="52.5"
        height="33"
        width="37"
@@ -496,7 +496,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="369.03333"
+       y="249.03333"
        x="56.5"
        height="33"
        width="25"
@@ -504,12 +504,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text962"
-       y="392.03198"
+       y="272.03198"
        x="69.261322"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda"
-         y="392.03198"
+         y="272.03198"
          x="69.261322"
          id="tspan960"
          sodipodi:role="line">A</tspan></text>
@@ -519,7 +519,7 @@
        width="25"
        height="33"
        x="86.5"
-       y="369.03333"
+       y="249.03333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -529,12 +529,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="99.261322"
-       y="392.03198"
+       y="272.03198"
        id="text968"><tspan
          sodipodi:role="line"
          id="tspan966"
          x="99.261322"
-         y="392.03198"
+         y="272.03198"
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda">S</tspan></text>
     <rect
        inkscape:export-ydpi="90"
@@ -542,7 +542,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="369.03333"
+       y="249.03333"
        x="116.5"
        height="33"
        width="25"
@@ -550,12 +550,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text974"
-       y="392.03198"
+       y="272.03198"
        x="129.26132"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda"
-         y="392.03198"
+         y="272.03198"
          x="129.26132"
          id="tspan972"
          sodipodi:role="line">D</tspan></text>
@@ -565,7 +565,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="409.03333"
+       y="289.03333"
        x="94.5"
        height="33"
        width="25"
@@ -573,12 +573,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text980"
-       y="432.03198"
+       y="312.03198"
        x="107.26132"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda"
-         y="432.03198"
+         y="312.03198"
          x="107.26132"
          id="tspan978"
          sodipodi:role="line">Z</tspan></text>
@@ -588,7 +588,7 @@
        width="25"
        height="33"
        x="124.5"
-       y="409.03333"
+       y="289.03333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -598,12 +598,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#deddda;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="137.26132"
-       y="432.03198"
+       y="312.03198"
        id="text986"><tspan
          sodipodi:role="line"
          id="tspan984"
          x="137.26132"
-         y="432.03198"
+         y="312.03198"
          style="font-size:18.66666603px;text-align:center;text-anchor:middle;fill:#deddda">X</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3d3846;fill-opacity:1;fill-rule:nonzero;stroke:#5e5c64;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -611,7 +611,7 @@
        width="25"
        height="33"
        x="146.5"
-       y="369.03333"
+       y="249.03333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -623,7 +623,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="409.03333"
+       y="289.03333"
        x="154.5"
        height="33"
        width="25"
@@ -635,7 +635,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="329.03333"
+       y="209.03333"
        x="46.5"
        height="33"
        width="25"
@@ -647,7 +647,7 @@
        width="25"
        height="33"
        x="76.5"
-       y="329.03333"
+       y="209.03333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -659,7 +659,7 @@
        width="25"
        height="33"
        x="106.5"
-       y="329.03333"
+       y="209.03333"
        rx="2.9999998"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -671,7 +671,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999998"
-       y="329.03333"
+       y="209.03333"
        x="136.5"
        height="33"
        width="25"
@@ -683,9 +683,9 @@
        width="120"
        height="48"
        x="32"
-       y="313.53333" />
+       y="193.53333" />
     <rect
-       y="365.53333"
+       y="245.53333"
        x="152"
        height="39.999985"
        width="44"
@@ -697,9 +697,9 @@
        width="44"
        height="39.999985"
        x="162"
-       y="405.53333" />
+       y="285.53333" />
     <rect
-       y="323.53333"
+       y="203.53333"
        x="140"
        height="39.999985"
        width="44"
@@ -709,7 +709,7 @@
        style="color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
        id="g2392"
        inkscape:label="keyboard input modifier shift caps lock uppercase"
-       transform="translate(23,-292.46669)">
+       transform="translate(23,-412.46669)">
       <title
          id="title2386">keyboard-caps-lock-wide-filled</title>
       <rect
@@ -728,7 +728,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:#deddda;fill-opacity:1;stroke:#deddda;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
     </g>
     <g
-       transform="translate(23,-100.4667)"
+       transform="translate(23,-220.4667)"
        inkscape:label="keyboard input modifier shift caps lock uppercase"
        id="g1034"
        style="color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new">
@@ -1008,144 +1008,188 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="35.320366"
-       y="22.533295"
+       y="-97.466705"
        id="text1121"><tspan
          sodipodi:role="line"
          id="tspan1119"
          x="35.320366"
-         y="22.533295"
+         y="-97.466705"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:32px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff">On-Screen Keyboard</tspan></text>
     <text
        id="text1125"
-       y="146.53329"
+       y="22.533287"
        x="255.32037"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="146.53329"
+         y="22.533287"
          x="255.32037"
          id="tspan1123"
-         sodipodi:role="line">Normal State</tspan></text>
+         sodipodi:role="line">Default State</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="255.32037"
-       y="338.53329"
+       y="218.53329"
        id="text1129"><tspan
          sodipodi:role="line"
          id="tspan1127"
          x="255.32037"
-         y="338.53329"
+         y="218.53329"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff">Pressed State (Shift)</tspan></text>
     <text
        id="text1133"
-       y="522.53333"
+       y="520.53333"
        x="255.32037"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="522.53333"
+         y="520.53333"
          x="255.32037"
          id="tspan1131"
-         sodipodi:role="line">Long Press State (Caps-Lock)</tspan></text>
+         sodipodi:role="line">Double-Tapped State (Caps-Lock)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="255.32037"
-       y="186.53329"
+       y="62.533287"
        id="text1137"><tspan
          sodipodi:role="line"
          id="tspan1135"
          x="255.32037"
-         y="186.53329"
+         y="62.533287"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff">Default state of the keyboard is lower case,</tspan><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="206.90149"
+         y="82.901489"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
          id="tspan1139">unshifted text.</tspan><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="227.2697"
+         y="103.26969"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
          id="tspan1178" /><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="243.2697"
+         y="119.26969"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         id="tspan1180">Key shows the Shift icon an is in a normal state.</tspan></text>
+         id="tspan1180">Key shows the Shift icon an is styled as an</tspan><tspan
+         sodipodi:role="line"
+         x="255.32037"
+         y="139.63789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
+         id="tspan1230">unpressed state.</tspan></text>
     <text
        id="text1145"
-       y="368.53329"
+       y="244.53329"
        x="255.32037"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1143"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="368.53329"
+         y="244.53329"
          x="255.32037"
          sodipodi:role="line">Single press of the shift key toggles the keys to</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="388.90149"
+         y="264.90149"
          x="255.32037"
          sodipodi:role="line"
          id="tspan1149">uppercase and that state is released when another </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="409.26968"
+         y="285.26968"
          x="255.32037"
          sodipodi:role="line"
          id="tspan1151">key is pressed.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="429.63791"
+         y="305.63791"
          x="255.32037"
          sodipodi:role="line"
          id="tspan1174" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         y="445.63791"
+         y="321.63791"
          x="255.32037"
          sodipodi:role="line"
-         id="tspan1176">Key is styled in a pressed state.</tspan></text>
+         id="tspan1176">Key is styled in a pressed state and returns to unpress</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
+         y="342.0061"
+         x="255.32037"
+         sodipodi:role="line"
+         id="tspan1228">after another key is typed.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="255.32037"
-       y="548.53333"
+       y="546.53333"
        id="text1159"><tspan
          id="tspan1157"
          sodipodi:role="line"
          x="255.32037"
-         y="548.53333"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff">Long press of the shift key activates Caps-Lock, </tspan><tspan
+         y="546.53333"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff">Double tapping the shift key activates Caps-Lock, </tspan><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="568.90155"
+         y="566.90155"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
-         id="tspan1165">which is de-activated by another long press.</tspan><tspan
+         id="tspan1165">which is de-activated by <tspan
+   style="font-weight:bold"
+   id="tspan1226">a single tap</tspan>.</tspan><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="589.26971"
+         y="587.26971"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
          id="tspan1167" /><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="605.26971"
+         y="603.26971"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
          id="tspan1169">Key shows caps-lock icon and is styled in a </tspan><tspan
          sodipodi:role="line"
          x="255.32037"
-         y="625.63794"
+         y="623.63794"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
          id="tspan1182">selected state to indicate said mode.</tspan></text>
     <text
        id="text1186"
-       y="82.533295"
+       y="-37.466705"
        x="35.320366"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#ffffff"
-         y="82.533295"
+         y="-37.466705"
          x="35.320366"
          id="tspan1184"
          sodipodi:role="line">Shift Behaviour</tspan></text>
+    <text
+       id="text1194"
+       y="382.53329"
+       x="255.32037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1000%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
+         y="382.53329"
+         x="255.32037"
+         id="tspan1192"
+         sodipodi:role="line">Press-and-Hold (Continuous Shift)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="255.32037"
+       y="412.53329"
+       id="text1206"><tspan
+         id="tspan1204"
+         sodipodi:role="line"
+         x="255.32037"
+         y="412.53329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff">Pressing and holding the key keeps the keyboard in,</tspan><tspan
+         sodipodi:role="line"
+         x="255.32037"
+         y="432.90149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
+         id="tspan1222">Shift state so multiple uppercase characters can </tspan><tspan
+         sodipodi:role="line"
+         x="255.32037"
+         y="453.26968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff"
+         id="tspan1224">be typed.</tspan></text>
   </g>
 </svg>
