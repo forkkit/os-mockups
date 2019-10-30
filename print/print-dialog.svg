@@ -35,8 +35,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="748.18679"
-     inkscape:cy="731.83379"
+     inkscape:cx="206.67283"
+     inkscape:cy="692.93899"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -5744,13 +5744,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="215.53067"
-       y="-308"
+       y="-315"
        id="text5622"><tspan
          sodipodi:role="line"
          id="tspan5620"
          x="215.53067"
-         y="-308"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1">Print</tspan></text>
+         y="-315"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1">Print Document</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
        d="m 44.5,-277.5 h 335 v 47 h -335 z"
@@ -7727,165 +7727,6 @@
        id="path4449"
        d="m 900.5,-337.50002 c 0,0 -8,0 -8,8.5 v 38.5 h 359 v -37 c 0,0 0,-10 -10,-10 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       id="text4453"
-       y="-308"
-       x="1075.5305"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1"
-         y="-308"
-         x="1075.5305"
-         id="tspan4451"
-         sodipodi:role="line">Print</tspan></text>
-    <g
-       transform="translate(1100,36)"
-       inkscape:label="square-button"
-       id="g4477"
-       style="display:inline;fill:#ebebeb;fill-opacity:1">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="rect4455"
-         width="16"
-         height="16"
-         x="48.995941"
-         y="-358.00009" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         ry="3"
-         rx="3"
-         y="-366.50012"
-         x="40.5"
-         height="33.000122"
-         width="33"
-         id="rect4457"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <g
-         style="display:inline;opacity:1;fill:#ebebeb;fill-opacity:1"
-         transform="translate(48.987142,-358.03192)"
-         id="g4475">
-        <g
-           inkscape:label="status"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4459"
-           style="display:inline;fill:#ebebeb;fill-opacity:1" />
-        <g
-           style="fill:#ebebeb;fill-opacity:1"
-           inkscape:label="devices"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4461" />
-        <g
-           style="fill:#ebebeb;fill-opacity:1"
-           inkscape:label="apps"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4463" />
-        <g
-           style="fill:#ebebeb;fill-opacity:1"
-           inkscape:label="actions"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4465" />
-        <g
-           style="fill:#ebebeb;fill-opacity:1"
-           inkscape:label="places"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4467" />
-        <g
-           style="fill:#ebebeb;fill-opacity:1"
-           inkscape:label="mimetypes"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4469" />
-        <g
-           inkscape:label="emblems"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4471"
-           style="display:inline;fill:#ebebeb;fill-opacity:1" />
-        <g
-           inkscape:label="categories"
-           transform="translate(-140.0002,-645.96875)"
-           id="g4473"
-           style="display:inline;fill:#ebebeb;fill-opacity:1" />
-      </g>
-    </g>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="3"
-       rx="2.9999998"
-       y="-330.50006"
-       x="1180.5"
-       height="33"
-       width="63"
-       id="rect4479"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#20568d;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="1211.489"
-       y="-309.22601"
-       id="text4483"><tspan
-         sodipodi:role="line"
-         id="tspan4481"
-         x="1211.489"
-         y="-309.22601">Print</tspan></text>
-    <path
-       sodipodi:nodetypes="sssssssss"
-       inkscape:connector-curvature="0"
-       id="path4485"
-       d="m 903.5,-330.50006 h 65 c 1.662,0 3,1.338 3,3 v 27.00012 c 0,1.662 -1.338,3 -3,3 h -65 c -1.662,0 -3,-1.338 -3,-3 v -27.00012 c 0,-1.662 1.338,-3 3,-3 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:17.5px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="935.052"
-       y="-309.22601"
-       id="text4489"><tspan
-         sodipodi:role="line"
-         id="tspan4487"
-         x="935.052"
-         y="-309.22601">Cancel</tspan></text>
-    <g
-       transform="translate(817,-1050.0001)"
-       inkscape:label="document-page-setup"
-       id="g4501"
-       style="enable-background:new">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path4491"
-         d="m 345,743 h -10 m 0,-11 v -2 h 7 l 3,3 v 5"
-         style="fill:none;fill-rule:evenodd;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         width="16"
-         height="16"
-         x="-744"
-         y="332"
-         id="rect4493"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         transform="rotate(-90)" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 335,735.5 v 4.5 h 7.5 z"
-         id="path4495"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <rect
-         style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
-         id="rect4497"
-         width="1"
-         height="1"
-         x="334"
-         y="742" />
-      <rect
-         y="742"
-         x="345"
-         height="1"
-         width="1"
-         id="rect4499"
-         style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1" />
-    </g>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 1251.5,-290.50002 h -359 V -198.5 h 359 z"
@@ -7964,5 +7805,16 @@
          x="1067.5947"
          y="-183.22601"
          style="text-align:center;text-anchor:middle">Infobar for when printer is low on toner</tspan></text>
+    <text
+       id="text4559"
+       y="-300"
+       x="215.53067"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#9a9996;fill-opacity:1;"
+         y="-300"
+         x="215.53067"
+         id="tspan4557"
+         sodipodi:role="line">16 pages</tspan></text>
   </g>
 </svg>
