@@ -17,7 +17,7 @@
    id="svg2910"
    inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="greeter-and-tour.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/os-mockups/greeter/greeter-and-tour.png"
+   inkscape:export-filename="greeter-and-tour.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -1093,8 +1093,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1606.9389"
-     inkscape:cy="1739.5966"
+     inkscape:cx="1795.8523"
+     inkscape:cy="1329.3134"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1155,7 +1155,7 @@
        id="rect2685"
        style="display:inline;fill:#f6f5f4;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.29747304;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5541"
        width="256.37091"
        height="24.887529"
@@ -1203,7 +1203,7 @@
          y="337.75"
          x="618.46234"
          sodipodi:role="line"
-         id="tspan7704">Done</tspan></text>
+         id="tspan7704">Close</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1246,7 +1246,7 @@
        height="24.887529"
        width="256.37091"
        id="rect7749"
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;fill:#fafafa;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.29747304;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7753"
@@ -1262,7 +1262,7 @@
        height="24.887529"
        width="256.37091"
        id="rect7789"
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;fill:#fafafa;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.29747304;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7791"
@@ -1282,7 +1282,7 @@
          id="tspan7921"
          sodipodi:role="line">Initial Setup</tspan></text>
     <rect
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8008"
        width="256.37091"
        height="24.887529"
@@ -2870,7 +2870,7 @@
       </g>
     </g>
     <rect
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2832"
        width="256.37091"
        height="24.887529"
@@ -3105,7 +3105,7 @@
       </g>
     </g>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3182e4;fill-opacity:1;fill-rule:nonzero;stroke:#1c6bcb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect7674"
        width="23.547916"
        height="8.7312498"
@@ -4801,7 +4801,7 @@
          sodipodi:role="line"
          id="tspan9727">You can also view open windows, search and use workspaces.</tspan></text>
     <rect
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5029"
        width="256.37091"
        height="24.887529"
@@ -5056,7 +5056,7 @@
        height="24.887529"
        width="256.37091"
        id="rect5435"
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;fill:#fafafa;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.29747304;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5437"
@@ -5076,7 +5076,7 @@
          x="789.44452"
          sodipodi:role="line">View system information and settings</tspan></text>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3182e4;fill-opacity:1;fill-rule:nonzero;stroke:#1c6bcb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect7578"
        width="23.547916"
        height="8.7312498"
@@ -5132,7 +5132,7 @@
        height="8.7312498"
        width="23.547916"
        id="rect7646"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3182e4;fill-opacity:1;fill-rule:nonzero;stroke:#1c6bcb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5421,7 +5421,7 @@
          y="496.7045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332">The Help app contains information, tips and tricks.</tspan></text>
     <rect
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10177"
        width="256.37091"
        height="24.887529"
@@ -5448,7 +5448,7 @@
          y="19.925453"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332">In Activities, just start typing to search</tspan></text>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3182e4;fill-opacity:1;fill-rule:nonzero;stroke:#1c6bcb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10185"
        width="23.547916"
        height="8.7312498"
@@ -5922,7 +5922,7 @@
        height="24.887529"
        width="256.37091"
        id="rect10505"
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#dedbd8;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2749356;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;fill:#fafafa;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.29747304;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10507"
@@ -5952,7 +5952,7 @@
        height="8.7312498"
        width="23.547916"
        id="rect10513"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3182e4;fill-opacity:1;fill-rule:nonzero;stroke:#1c6bcb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5963,7 +5963,7 @@
          sodipodi:role="line"
          x="1189.9644"
          y="104.91673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#fafafa;stroke-width:0.26458332">Done</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#fafafa;stroke-width:0.26458332">Next</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:#b4b4b4;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10519"
@@ -6840,5 +6840,16 @@
          x="1075.415"
          y="104.91672"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;stroke-width:0.26458332">Software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="504.00867"
+       y="-127.9166"
+       id="text15220"><tspan
+         id="tspan15218"
+         sodipodi:role="line"
+         x="504.00867"
+         y="-127.9166"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;stroke-width:0.26458332">Welcome Tour</tspan></text>
   </g>
 </svg>
