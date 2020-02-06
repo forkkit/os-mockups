@@ -14,7 +14,7 @@
    id="svg5562"
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="username-entry.svg"
+   sodipodi:docname="username-based-login.svg"
    inkscape:export-filename="../username-based-login.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="507.51757"
-     inkscape:cy="855.88286"
+     inkscape:zoom="1"
+     inkscape:cx="560.84687"
+     inkscape:cy="624.1538"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +139,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara3796">2. The machine is configured to always show the username screen instead of the username grid (aka &quot;anonymous mode&quot;)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara3788"></flowPara><flowPara
+         id="flowPara3788" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara3790">In the second case, the back button wouldn't be displayed.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:135.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
@@ -214,31 +214,6 @@
        id="circle4052"
        style="opacity:0.92099998;fill:#241f31;fill-opacity:0.98823529;stroke:#5e5c64;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="65.5" />
-    <g
-       style="display:inline;stroke-width:0.16666667"
-       transform="matrix(6,0,0,6,3368.9983,501.36249)"
-       inkscape:label="avatar-default"
-       id="g4060">
-      <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.16666667;marker:none"
-         id="rect4054"
-         width="16"
-         height="16"
-         x="41.000198"
-         y="336.33331" />
-      <path
-         sodipodi:nodetypes="csccsssscc"
-         inkscape:connector-curvature="0"
-         id="path4056"
-         d="m 51.55489,344.42707 c -0.70541,0.62353 -1.53918,0.90625 -2.55469,0.90625 -1.01551,0 -1.85318,-0.29053 -2.55859,-0.91406 -1.10938,0.36328 -2.43603,1.28775 -2.4375,2.90234 l -0.0039,3.01172 c -7.2e-4,0.554 0.446,1.00002 1,1.00002 h 8 c 0.554,0 1,-0.44602 1,-1.00002 v -3 c 0,-1.38672 -1.10231,-2.5558 -2.44531,-2.90625 z"
-         style="fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.16666667" />
-      <circle
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#77767b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;marker:none;enable-background:accumulate"
-         id="circle4058"
-         cx="49.000198"
-         cy="341.33328"
-         r="3" />
-    </g>
     <rect
        ry="3.9999998"
        rx="4"
@@ -391,31 +366,6 @@
        cx="4142.9995"
        id="circle4157"
        style="opacity:0.92099998;fill:#241f31;fill-opacity:0.98823529;stroke:#5e5c64;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       style="display:inline;stroke-width:0.16666667"
-       transform="matrix(6,0,0,6,3848.9983,-233.63751)"
-       inkscape:label="avatar-default"
-       id="g4165">
-      <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.16666667;marker:none"
-         id="rect4159"
-         width="16"
-         height="16"
-         x="41.000198"
-         y="336.33331" />
-      <path
-         sodipodi:nodetypes="csccsssscc"
-         inkscape:connector-curvature="0"
-         id="path4161"
-         d="m 51.55489,344.42707 c -0.70541,0.62353 -1.53918,0.90625 -2.55469,0.90625 -1.01551,0 -1.85318,-0.29053 -2.55859,-0.91406 -1.10938,0.36328 -2.43603,1.28775 -2.4375,2.90234 l -0.0039,3.01172 c -7.2e-4,0.554 0.446,1.00002 1,1.00002 h 8 c 0.554,0 1,-0.44602 1,-1.00002 v -3 c 0,-1.38672 -1.10231,-2.5558 -2.44531,-2.90625 z"
-         style="fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.16666667" />
-      <circle
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#77767b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;marker:none;enable-background:accumulate"
-         id="circle4163"
-         cx="49.000198"
-         cy="341.33328"
-         r="3" />
-    </g>
     <rect
        ry="3.9999998"
        rx="4"
@@ -1247,6 +1197,44 @@
          width="31.999998"
          id="rect4502"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#241f31;fill-opacity:0.98823529;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </g>
+    <g
+       style="stroke-width:0.25;enable-background:new"
+       inkscape:label="avatar-default"
+       transform="matrix(4,0,0,4,3902.9995,1212.3624)"
+       id="g4903">
+      <path
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#77767b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46153742;marker:none;enable-background:accumulate"
+         d="m 60,150 c -1.656854,0 -3,1.34315 -3,3 0,1.65685 1.343146,3 3,3 1.656854,0 3,-1.34315 3,-3 0,-1.65685 -1.343146,-3 -3,-3 z m -1.5,7 c -2.493,0 -4.5,2.007 -4.5,4.5 v 0.5 c 0,1 1,1 1,1 h 10 c 0,0 1,0 1,-1 v -0.5 c 0,-2.493 -2.007,-4.5 -4.5,-4.5 z"
+         id="path4899"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssccccccss" />
+      <rect
+         y="148"
+         x="52"
+         height="16"
+         width="16"
+         id="rect4901"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.25;marker:none" />
+    </g>
+    <g
+       id="g4930"
+       transform="matrix(4,0,0,4,3422.9995,1947.3625)"
+       inkscape:label="avatar-default"
+       style="stroke-width:0.25;enable-background:new">
+      <path
+         sodipodi:nodetypes="ssssssccccccss"
+         inkscape:connector-curvature="0"
+         id="path4926"
+         d="m 60,150 c -1.656854,0 -3,1.34315 -3,3 0,1.65685 1.343146,3 3,3 1.656854,0 3,-1.34315 3,-3 0,-1.65685 -1.343146,-3 -3,-3 z m -1.5,7 c -2.493,0 -4.5,2.007 -4.5,4.5 v 0.5 c 0,1 1,1 1,1 h 10 c 0,0 1,0 1,-1 v -0.5 c 0,-2.493 -2.007,-4.5 -4.5,-4.5 z"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#77767b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46153742;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.25;marker:none"
+         id="rect4928"
+         width="16"
+         height="16"
+         x="52"
+         y="148" />
     </g>
   </g>
 </svg>
