@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="740"
+   height="879.99994"
+   viewBox="0 0 195.79166 232.83331"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="default-avatars.svg"
+   inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)"
+   inkscape:export-filename="/home/tobias/Design/os-mockups/default-avatars/avatars.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2355"
+       inkscape:collect="always">
+      <stop
+         id="stop2351"
+         offset="0"
+         style="stop-color:#6e6d71;stop-opacity:1" />
+      <stop
+         id="stop2353"
+         offset="1"
+         style="stop-color:#c0bfbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2349"
+       inkscape:collect="always">
+      <stop
+         id="stop2345"
+         offset="0"
+         style="stop-color:#865d3c;stop-opacity:1" />
+      <stop
+         id="stop2347"
+         offset="1"
+         style="stop-color:#cdab8f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2343"
+       inkscape:collect="always">
+      <stop
+         id="stop2339"
+         offset="0"
+         style="stop-color:#8a3ea3;stop-opacity:1" />
+      <stop
+         id="stop2341"
+         offset="1"
+         style="stop-color:#dc8add;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2337"
+       inkscape:collect="always">
+      <stop
+         id="stop2333"
+         offset="0"
+         style="stop-color:#d91a23;stop-opacity:1" />
+      <stop
+         id="stop2335"
+         offset="1"
+         style="stop-color:#f67365;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2331"
+       inkscape:collect="always">
+      <stop
+         id="stop2327"
+         offset="0"
+         style="stop-color:#ed6f00;stop-opacity:1" />
+      <stop
+         id="stop2329"
+         offset="1"
+         style="stop-color:#ffbe6f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2325"
+       inkscape:collect="always">
+      <stop
+         id="stop2321"
+         offset="0"
+         style="stop-color:#e5a50a;stop-opacity:1" />
+      <stop
+         id="stop2323"
+         offset="1"
+         style="stop-color:#f8e45c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2319"
+       inkscape:collect="always">
+      <stop
+         id="stop2315"
+         offset="0"
+         style="stop-color:#29ae71;stop-opacity:1" />
+      <stop
+         id="stop2317"
+         offset="1"
+         style="stop-color:#8de6ae;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2313"
+       inkscape:collect="always">
+      <stop
+         id="stop2309"
+         offset="0"
+         style="stop-color:#337fdc;stop-opacity:1" />
+      <stop
+         id="stop2311"
+         offset="1"
+         style="stop-color:#99c1f1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2241">
+      <stop
+         style="stop-color:#6e6d71;stop-opacity:1"
+         offset="0"
+         id="stop2237" />
+      <stop
+         style="stop-color:#9f9e9b;stop-opacity:1"
+         offset="1"
+         id="stop2239" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2230">
+      <stop
+         style="stop-color:#865d3c;stop-opacity:1"
+         offset="0"
+         id="stop2226" />
+      <stop
+         style="stop-color:#be8a60;stop-opacity:1"
+         offset="1"
+         id="stop2228" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2222">
+      <stop
+         style="stop-color:#8a3ea3;stop-opacity:1"
+         offset="0"
+         id="stop2218" />
+      <stop
+         style="stop-color:#c66cd0;stop-opacity:1"
+         offset="1"
+         id="stop2220" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2214">
+      <stop
+         style="stop-color:#d91a23;stop-opacity:1"
+         offset="0"
+         id="stop2210" />
+      <stop
+         style="stop-color:#ed5158;stop-opacity:1"
+         offset="1"
+         id="stop2212" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2206">
+      <stop
+         style="stop-color:#ed6f00;stop-opacity:1"
+         offset="0"
+         id="stop2202" />
+      <stop
+         style="stop-color:#ffa244;stop-opacity:1"
+         offset="1"
+         id="stop2204" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2198">
+      <stop
+         style="stop-color:#e5a50a;stop-opacity:1;"
+         offset="0"
+         id="stop2194" />
+      <stop
+         style="stop-color:#eacf4d;stop-opacity:1"
+         offset="1"
+         id="stop2196" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2190">
+      <stop
+         style="stop-color:#29ae71;stop-opacity:1"
+         offset="0"
+         id="stop2186" />
+      <stop
+         style="stop-color:#5dd593;stop-opacity:1"
+         offset="1"
+         id="stop2188" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2178">
+      <stop
+         style="stop-color:#337fdc;stop-opacity:1"
+         offset="0"
+         id="stop2174" />
+      <stop
+         style="stop-color:#6ca2e3;stop-opacity:1"
+         offset="1"
+         id="stop2176" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-89">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-7"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3634">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle3636"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10581">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10579"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642-4">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644-5"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3634-5">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle3636-4"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11184"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11182"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642-7">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644-6"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-7">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-3"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3634-9">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle3636-6"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-89-0">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-7-5"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10607">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10605"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10611">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10609"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10615">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10613"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10619">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle10617"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10623">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10621"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-89-44">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-7-4"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642-4-5-2-9">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644-5-6-2-8"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3634-5-5-9-9">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle3636-4-3-4-0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642-21-6">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644-7-1"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5385">
+      <rect
+         y="361.22122"
+         x="231.47894"
+         height="215.09584"
+         width="203.72749"
+         id="rect5387"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.264583;stroke-opacity:1"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-76">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-31"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3634-75">
+      <circle
+         r="22.445496"
+         cy="348.8515"
+         cx="437.80481"
+         id="circle3636-96"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3642-21">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3644-7"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath414">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle412"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath418">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle416"
+         cx="437.80481"
+         cy="394.00705"
+         r="22.577789" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-5-6">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-6-4"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-89-0-7">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-7-5-4"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2178"
+       id="linearGradient2180"
+       x1="176.51492"
+       y1="-444.09799"
+       x2="187.09827"
+       y2="-444.09799"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-134.58385,184.05045)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2190"
+       id="linearGradient2192"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2198"
+       id="linearGradient2200"
+       x1="438.8063"
+       y1="208.26492"
+       x2="449.38965"
+       y2="208.26492"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2206"
+       id="linearGradient2208"
+       x1="438.8063"
+       y1="221.49409"
+       x2="449.38965"
+       y2="221.49409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2214"
+       id="linearGradient2216"
+       x1="438.8063"
+       y1="234.7233"
+       x2="449.38965"
+       y2="234.7233"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2222"
+       id="linearGradient2224"
+       x1="438.8063"
+       y1="247.95245"
+       x2="449.38965"
+       y2="247.95245"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2230"
+       id="linearGradient2232"
+       x1="438.8063"
+       y1="261.18158"
+       x2="449.38965"
+       y2="261.18158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2241"
+       id="linearGradient2243"
+       x1="438.8063"
+       y1="274.41071"
+       x2="449.38965"
+       y2="274.41071"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-396.87523,-441.85412)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2331"
+       id="linearGradient2293"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="221.49409"
+       x2="449.38965"
+       y2="221.49409"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2325"
+       id="linearGradient2295"
+       gradientUnits="userSpaceOnUse"
+       x1="438.80624"
+       y1="206.86861"
+       x2="449.38965"
+       y2="206.86861"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2343"
+       id="linearGradient2297"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="247.95245"
+       x2="449.38965"
+       y2="247.95245"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2313"
+       id="linearGradient2299"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-272.16701,178.75879)"
+       x1="176.51492"
+       y1="-444.09799"
+       x2="187.09827"
+       y2="-444.09799" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2355"
+       id="linearGradient2301"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="274.41071"
+       x2="449.38965"
+       y2="274.41071"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2303"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2337"
+       id="linearGradient2305"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="234.7233"
+       x2="449.38965"
+       y2="234.7233"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2349"
+       id="linearGradient2307"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="261.18158"
+       x2="449.38965"
+       y2="261.18158"
+       gradientTransform="translate(-534.45841,-447.14578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2331"
+       id="linearGradient2508"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="221.49409"
+       x2="449.38965"
+       y2="221.49409" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2325"
+       id="linearGradient2510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.80624"
+       y1="206.86861"
+       x2="449.38965"
+       y2="206.86861" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2343"
+       id="linearGradient2512"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="247.95245"
+       x2="449.38965"
+       y2="247.95245" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2313"
+       id="linearGradient2514"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-150.45883,184.05045)"
+       x1="176.51492"
+       y1="-444.09799"
+       x2="187.09827"
+       y2="-444.09799" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2355"
+       id="linearGradient2516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="274.41071"
+       x2="449.38965"
+       y2="274.41071" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2518"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2337"
+       id="linearGradient2520"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="234.7233"
+       x2="449.38965"
+       y2="234.7233" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2349"
+       id="linearGradient2522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-412.75023,-441.85412)"
+       x1="438.8063"
+       y1="261.18158"
+       x2="449.38965"
+       y2="261.18158" />
+    <linearGradient
+       gradientTransform="translate(-595.57674,-444.49967)"
+       y2="195.03577"
+       x2="449.38965"
+       y1="195.03577"
+       x1="438.8063"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2303-3"
+       xlink:href="#linearGradient2319"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2303-3-3"
+       gradientUnits="userSpaceOnUse"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577"
+       gradientTransform="matrix(0.59996907,0,0,0.59996907,-420.04072,-377.85647)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2574"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39996908,0,0,0.39996908,-332.27948,-346.52252)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39996908,0,0,0.39996908,-292.59203,-312.12673)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2584"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59996907,0,0,0.59996907,-380.35327,-343.46068)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient2586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-555.88929,-410.10388)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient1256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6,0,0,1.6,-858.86073,-545.64643)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2319"
+       id="linearGradient1299"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6,0,0,1.6,-925.00648,-545.64643)"
+       x1="438.8063"
+       y1="195.03577"
+       x2="449.38965"
+       y2="195.03577" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2313"
+       id="linearGradient1333"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-272.16701,292.52948)"
+       x1="176.51492"
+       y1="-444.09799"
+       x2="187.09827"
+       y2="-444.09799" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="516.41885"
+     inkscape:cy="126.05689"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2402"
+       originx="15.875"
+       originy="31.749987" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Tavolo 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(286.50592,-13.895771)">
+    <g
+       id="g2591"
+       transform="translate(-34.39583,105.83332)">
+      <rect
+         y="-220.35982"
+         x="-117.08302"
+         height="10.583333"
+         width="10.583333"
+         id="rect2576"
+         style="opacity:1;fill:url(#linearGradient2586);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         rx="5.2916665"
+         ry="5.2916665"
+         transform="rotate(-90)" />
+      <rect
+         transform="rotate(-90)"
+         ry="3.1748362"
+         rx="3.1748362"
+         style="opacity:1;fill:url(#linearGradient2584);fill-opacity:1;stroke:none;stroke-width:0.158742;stroke-opacity:1"
+         id="rect2578"
+         width="6.3496723"
+         height="6.3496723"
+         x="-117.08309"
+         y="-229.62009" />
+      <rect
+         y="-236.23489"
+         x="-117.08309"
+         height="4.233006"
+         width="4.233006"
+         id="rect2580"
+         style="opacity:1;fill:url(#linearGradient2582);fill-opacity:1;stroke:none;stroke-width:0.105825;stroke-opacity:1"
+         rx="2.116503"
+         ry="2.116503"
+         transform="rotate(-90)" />
+    </g>
+    <rect
+       y="-254.75558"
+       x="-156.77048"
+       height="10.583333"
+       width="10.583333"
+       id="rect2249-5"
+       style="opacity:1;fill:url(#linearGradient2303-3);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       ry="3.1748362"
+       rx="3.1748362"
+       style="opacity:1;fill:url(#linearGradient2303-3-3);fill-opacity:1;stroke:none;stroke-width:0.158742;stroke-opacity:1"
+       id="rect2249-5-2"
+       width="6.3496723"
+       height="6.3496723"
+       x="-156.77055"
+       y="-264.0159" />
+    <rect
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3865"
+       width="4.2333331"
+       height="4.2333331"
+       x="-66.90168"
+       y="-48.546272"
+       rx="2.1166666"
+       ry="2.1166666" />
+    <rect
+       y="-54.896278"
+       x="-51.026623"
+       height="10.583333"
+       width="10.583333"
+       id="rect3867"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       y="-50.662914"
+       x="-60.287056"
+       height="6.3499994"
+       width="6.3499994"
+       id="rect3871"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="3.1749997"
+       ry="3.1749997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-45.92033"
+       y="-48.281502"
+       id="text3875"><tspan
+         sodipodi:role="line"
+         id="tspan3873"
+         x="-45.735123"
+         y="-48.281502"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text3879"
+       y="-46.464092"
+       x="-57.034344"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-46.464092"
+         x="-57.034344"
+         id="tspan3877"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-64.707245"
+       y="-45.635799"
+       id="text3883"><tspan
+         sodipodi:role="line"
+         id="tspan3881"
+         x="-64.707245"
+         y="-45.635799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">AJ</tspan></text>
+    <rect
+       ry="2.1166666"
+       rx="2.1166666"
+       y="-75.0047"
+       x="-32.505722"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect3885"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3887"
+       width="10.583333"
+       height="10.583333"
+       x="-16.630657"
+       y="-81.354706" />
+    <rect
+       ry="3.1749997"
+       rx="3.1749997"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3889"
+       width="6.3499994"
+       height="6.3499994"
+       x="-25.891088"
+       y="-77.121338" />
+    <text
+       id="text3893"
+       y="-74.475243"
+       x="-11.339266"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-74.475243"
+         x="-11.339266"
+         id="tspan3891"
+         sodipodi:role="line">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-22.716351"
+       y="-72.658554"
+       id="text3897"><tspan
+         sodipodi:role="line"
+         id="tspan3895"
+         x="-22.716351"
+         y="-72.658554"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">K</tspan></text>
+    <text
+       id="text3901"
+       y="-72.094238"
+       x="-30.389299"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         y="-72.094238"
+         x="-30.389299"
+         id="tspan3899"
+         sodipodi:role="line">K</tspan></text>
+    <rect
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3903"
+       width="4.2333331"
+       height="4.2333331"
+       x="-32.505722"
+       y="-48.546272"
+       rx="2.1166666"
+       ry="2.1166666" />
+    <rect
+       y="-54.896278"
+       x="-16.630657"
+       height="10.583333"
+       width="10.583333"
+       id="rect3905"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       y="-50.662914"
+       x="-25.891088"
+       height="6.3499994"
+       width="6.3499994"
+       id="rect3907"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="3.1749997"
+       ry="3.1749997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-11.339266"
+       y="-48.016838"
+       id="text3911"><tspan
+         sodipodi:role="line"
+         id="tspan3909"
+         x="-11.339266"
+         y="-48.016838"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">J</tspan></text>
+    <text
+       id="text3915"
+       y="-46.2001"
+       x="-22.716351"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-46.2001"
+         x="-22.716351"
+         id="tspan3913"
+         sodipodi:role="line">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-30.389299"
+       y="-45.635799"
+       id="text3919"><tspan
+         sodipodi:role="line"
+         id="tspan3917"
+         x="-30.389299"
+         y="-45.635799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">J</tspan></text>
+    <rect
+       ry="2.1166666"
+       rx="2.1166666"
+       y="-61.775478"
+       x="-66.90168"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect3921"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3923"
+       width="10.583333"
+       height="10.583333"
+       x="-51.026623"
+       y="-68.125481" />
+    <rect
+       ry="3.1749997"
+       rx="3.1749997"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3925"
+       width="6.3499994"
+       height="6.3499994"
+       x="-60.287056"
+       y="-63.89212" />
+    <text
+       id="text3929"
+       y="-61.510738"
+       x="-45.92033"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-61.510738"
+         x="-45.735123"
+         id="tspan3927"
+         sodipodi:role="line">MM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-57.198559"
+       y="-59.693291"
+       id="text3933"><tspan
+         sodipodi:role="line"
+         id="tspan3931"
+         x="-57.198559"
+         y="-59.693291"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">MM</tspan></text>
+    <text
+       id="text3937"
+       y="-58.865021"
+       x="-64.884346"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         y="-58.865021"
+         x="-64.884346"
+         id="tspan3935"
+         sodipodi:role="line">MM</tspan></text>
+    <rect
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3939"
+       width="4.2333331"
+       height="4.2333331"
+       x="-66.90168"
+       y="-75.0047"
+       rx="2.1166666"
+       ry="2.1166666" />
+    <rect
+       y="-81.354706"
+       x="-51.026623"
+       height="10.583333"
+       width="10.583333"
+       id="rect3941"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       y="-77.121338"
+       x="-60.287056"
+       height="6.3499994"
+       width="6.3499994"
+       id="rect3943"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="3.1749997"
+       ry="3.1749997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-45.92033"
+       y="-74.739914"
+       id="text3947"><tspan
+         sodipodi:role="line"
+         id="tspan3945"
+         x="-45.735123"
+         y="-74.739914"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">JI</tspan></text>
+    <text
+       id="text3951"
+       y="-72.922508"
+       x="-57.198559"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-72.922508"
+         x="-57.198559"
+         id="tspan3949"
+         sodipodi:role="line">JI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-64.884346"
+       y="-72.094238"
+       id="text3955"><tspan
+         sodipodi:role="line"
+         id="tspan3953"
+         x="-64.884346"
+         y="-72.094238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">JI</tspan></text>
+    <rect
+       ry="2.1166666"
+       rx="2.1166666"
+       y="-61.775478"
+       x="-32.505722"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect3957"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3959"
+       width="10.583333"
+       height="10.583333"
+       x="-16.630657"
+       y="-68.125481" />
+    <rect
+       ry="3.1749997"
+       rx="3.1749997"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3961"
+       width="6.3499994"
+       height="6.3499994"
+       x="-25.891088"
+       y="-63.89212" />
+    <text
+       id="text3965"
+       y="-61.245998"
+       x="-11.339266"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-61.245998"
+         x="-11.339266"
+         id="tspan3963"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-22.716351"
+       y="-59.429291"
+       id="text3969"><tspan
+         sodipodi:role="line"
+         id="tspan3967"
+         x="-22.716351"
+         y="-59.429291"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">M</tspan></text>
+    <text
+       id="text3973"
+       y="-58.865021"
+       x="-30.389299"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         y="-58.865021"
+         x="-30.389299"
+         id="tspan3971"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="195.30032"
+       y="-54.631313"
+       id="text4443" />
+    <rect
+       y="-92.202385"
+       x="-185.96417"
+       height="10.583333"
+       width="10.583333"
+       id="rect4829"
+       style="opacity:1;fill:#eb790a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect4831"
+       width="10.583333"
+       height="10.583333"
+       x="-212.42245"
+       y="-92.202385" />
+    <rect
+       y="-92.202385"
+       x="-252.11"
+       height="10.583333"
+       width="10.583333"
+       id="rect4833"
+       style="opacity:1;fill:#7951c0;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#e33d22;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect4835"
+       width="10.583333"
+       height="10.583333"
+       x="-172.73505"
+       y="-92.202385" />
+    <rect
+       y="-92.202385"
+       x="-265.33923"
+       height="10.583333"
+       width="10.583333"
+       id="rect4837"
+       style="opacity:1;fill:#ce4dcd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#75b82d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect4841"
+       width="10.583333"
+       height="10.583333"
+       x="-199.19328"
+       y="-92.202385" />
+    <rect
+       y="-92.202385"
+       x="-238.88083"
+       height="10.583333"
+       width="10.583333"
+       id="rect4843"
+       style="opacity:1;fill:#4e63c9;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#42a0f3;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect4845"
+       width="10.583333"
+       height="10.583333"
+       x="-225.65164"
+       y="-92.202385" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#e7dafb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-246.71146"
+       y="-85.486252"
+       id="text4849"><tspan
+         sodipodi:role="line"
+         id="tspan4847"
+         x="-246.52625"
+         y="-85.486252"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#e7dafb;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text4853"
+       y="-85.486252"
+       x="-233.48227"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cfd7f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cfd7f8;fill-opacity:1;stroke-width:0.264583"
+         y="-85.486252"
+         x="-233.29706"
+         id="tspan4851"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d6eafc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-220.25308"
+       y="-85.486252"
+       id="text4857"><tspan
+         sodipodi:role="line"
+         id="tspan4855"
+         x="-220.06787"
+         y="-85.486252"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d6eafc;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text4861"
+       y="-85.486252"
+       x="-207.02391"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-85.486252"
+         x="-206.8387"
+         id="tspan4859"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#dcf7bf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-193.79474"
+       y="-85.486252"
+       id="text4865"><tspan
+         sodipodi:role="line"
+         id="tspan4863"
+         x="-193.60953"
+         y="-85.486252"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#dcf7bf;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#feebda;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-180.56567"
+       y="-85.486252"
+       id="text4873"><tspan
+         sodipodi:role="line"
+         id="tspan4871"
+         x="-180.38046"
+         y="-85.486252"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#feebda;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text4877"
+       y="-85.486252"
+       x="-259.94064"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#fbe0fb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#fbe0fb;fill-opacity:1;stroke-width:0.264583"
+         y="-85.486252"
+         x="-259.75543"
+         id="tspan4875"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#fbdbd3;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-167.33653"
+       y="-85.486252"
+       id="text4881"><tspan
+         sodipodi:role="line"
+         id="tspan4879"
+         x="-167.15132"
+         y="-85.486252"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#fbdbd3;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect4883"
+       width="10.583333"
+       height="10.583333"
+       x="-159.50591"
+       y="-92.202385" />
+    <text
+       id="text4887"
+       y="-85.486252"
+       x="-154.10739"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#dbdbdb;fill-opacity:1;stroke-width:0.264583"
+         y="-85.486252"
+         x="-153.92218"
+         id="tspan4885"
+         sodipodi:role="line">AJ</tspan></text>
+    <rect
+       y="-81.354706"
+       x="7.181942"
+       height="10.583333"
+       width="10.583333"
+       id="rect5138"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.473322"
+       y="-74.475243"
+       id="text5142"><tspan
+         sodipodi:role="line"
+         id="tspan5140"
+         x="12.473322"
+         y="-74.475243"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">A</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5144"
+       width="10.583333"
+       height="10.583333"
+       x="7.181942"
+       y="-68.125481" />
+    <text
+       id="text5148"
+       y="-61.245998"
+       x="12.473322"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-61.245998"
+         x="12.473322"
+         id="tspan5146"
+         sodipodi:role="line">C</tspan></text>
+    <rect
+       y="-54.896278"
+       x="7.181942"
+       height="10.583333"
+       width="10.583333"
+       id="rect5150"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.473322"
+       y="-48.016838"
+       id="text5154"><tspan
+         sodipodi:role="line"
+         id="tspan5152"
+         x="12.473322"
+         y="-48.016838"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">F</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5162"
+       width="10.583333"
+       height="10.583333"
+       x="20.411156"
+       y="-81.354706" />
+    <text
+       id="text5166"
+       y="-74.475243"
+       x="25.702541"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-74.475243"
+         x="25.702541"
+         id="tspan5164"
+         sodipodi:role="line">E</tspan></text>
+    <rect
+       y="-68.125481"
+       x="20.411156"
+       height="10.583333"
+       width="10.583333"
+       id="rect5168"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.702541"
+       y="-61.245998"
+       id="text5172"><tspan
+         sodipodi:role="line"
+         id="tspan5170"
+         x="25.702541"
+         y="-61.245998"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">D</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5174"
+       width="10.583333"
+       height="10.583333"
+       x="20.411156"
+       y="-54.896278" />
+    <text
+       id="text5178"
+       y="-48.016838"
+       x="25.702541"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-48.016838"
+         x="25.702541"
+         id="tspan5176"
+         sodipodi:role="line">G</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5180"
+       width="10.583333"
+       height="10.583333"
+       x="33.640381"
+       y="-81.354706" />
+    <text
+       id="text5184"
+       y="-74.475243"
+       x="38.931763"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-74.475243"
+         x="38.931763"
+         id="tspan5182"
+         sodipodi:role="line">Q</tspan></text>
+    <rect
+       y="-68.125481"
+       x="33.640381"
+       height="10.583333"
+       width="10.583333"
+       id="rect5186"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.931763"
+       y="-61.245998"
+       id="text5190"><tspan
+         sodipodi:role="line"
+         id="tspan5188"
+         x="38.931763"
+         y="-61.245998"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">P</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5192"
+       width="10.583333"
+       height="10.583333"
+       x="33.640381"
+       y="-54.896278" />
+    <text
+       id="text5196"
+       y="-48.016838"
+       x="38.931763"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-48.016838"
+         x="38.931763"
+         id="tspan5194"
+         sodipodi:role="line">X</tspan></text>
+    <rect
+       y="-81.354706"
+       x="46.869598"
+       height="10.583333"
+       width="10.583333"
+       id="rect5198"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.16098"
+       y="-74.475243"
+       id="text5202"><tspan
+         sodipodi:role="line"
+         id="tspan5200"
+         x="52.16098"
+         y="-74.475243"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">L</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5204"
+       width="10.583333"
+       height="10.583333"
+       x="46.869598"
+       y="-68.125481" />
+    <text
+       id="text5208"
+       y="-61.245998"
+       x="52.16098"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-61.245998"
+         x="52.16098"
+         id="tspan5206"
+         sodipodi:role="line">S</tspan></text>
+    <rect
+       y="-54.896278"
+       x="46.869598"
+       height="10.583333"
+       width="10.583333"
+       id="rect5210"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.16098"
+       y="-48.016838"
+       id="text5214"><tspan
+         sodipodi:role="line"
+         id="tspan5212"
+         x="52.16098"
+         y="-48.016838"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">Z</tspan></text>
+    <rect
+       ry="2.1166666"
+       rx="2.1166666"
+       y="-22.087786"
+       x="-66.90168"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect5216"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5218"
+       width="10.583333"
+       height="10.583333"
+       x="-51.026623"
+       y="-28.437834" />
+    <rect
+       ry="3.1749997"
+       rx="3.1749997"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5220"
+       width="6.3499994"
+       height="6.3499994"
+       x="-60.287056"
+       y="-24.20443" />
+    <text
+       id="text5224"
+       y="-21.823015"
+       x="-45.92033"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-21.823015"
+         x="-45.735123"
+         id="tspan5222"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-57.034344"
+       y="-20.005604"
+       id="text5228"><tspan
+         sodipodi:role="line"
+         id="tspan5226"
+         x="-57.034344"
+         y="-20.005604"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text5232"
+       y="-19.177334"
+       x="-64.707245"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         y="-19.177334"
+         x="-64.707245"
+         id="tspan5230"
+         sodipodi:role="line">AJ</tspan></text>
+    <rect
+       ry="2.1166666"
+       rx="2.1166666"
+       y="-22.087786"
+       x="-32.505722"
+       height="4.2333331"
+       width="4.2333331"
+       id="rect5234"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5236"
+       width="10.583333"
+       height="10.583333"
+       x="-16.630657"
+       y="-28.437834" />
+    <rect
+       ry="3.1749997"
+       rx="3.1749997"
+       style="opacity:1;fill:#46bd9e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5238"
+       width="6.3499994"
+       height="6.3499994"
+       x="-25.891088"
+       y="-24.20443" />
+    <text
+       id="text5242"
+       y="-21.558336"
+       x="-11.339266"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583"
+         y="-21.558336"
+         x="-11.339266"
+         id="tspan5240"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#d4f8ef;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-22.716351"
+       y="-19.741642"
+       id="text5246"><tspan
+         sodipodi:role="line"
+         id="tspan5244"
+         x="-22.716351"
+         y="-19.741642"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#d4f8ef;fill-opacity:1;stroke-width:0.264583">C</tspan></text>
+    <text
+       id="text5250"
+       y="-19.177334"
+       x="-30.389299"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         y="-19.177334"
+         x="-30.389299"
+         id="tspan5248"
+         sodipodi:role="line">C</tspan></text>
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#986a44;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2042"
+       width="10.583333"
+       height="10.583333"
+       x="-185.96417"
+       y="-68.389732" />
+    <rect
+       y="-68.389732"
+       x="-212.42245"
+       height="10.583333"
+       width="10.583333"
+       id="rect2044"
+       style="opacity:1;fill:#e01b24;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#2ec27e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2046"
+       width="10.583333"
+       height="10.583333"
+       x="-252.11"
+       y="-68.389732" />
+    <rect
+       y="-68.389732"
+       x="-172.73505"
+       height="10.583333"
+       width="10.583333"
+       id="rect2048"
+       style="opacity:1;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2050"
+       width="10.583333"
+       height="10.583333"
+       x="-265.33923"
+       y="-68.389732" />
+    <rect
+       y="-68.389732"
+       x="-199.19328"
+       height="10.583333"
+       width="10.583333"
+       id="rect2052"
+       style="opacity:1;fill:#9141ac;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:#e5a50a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2054"
+       width="10.583333"
+       height="10.583333"
+       x="-238.88083"
+       y="-68.389732" />
+    <rect
+       y="-68.389732"
+       x="-225.65164"
+       height="10.583333"
+       width="10.583333"
+       id="rect2056"
+       style="opacity:1;fill:#f17100;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       id="text2060"
+       y="-61.673573"
+       x="-246.71146"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#bdf0c8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#bdf0c8;fill-opacity:1;stroke-width:0.264583"
+         y="-61.673573"
+         x="-246.52625"
+         id="tspan2058"
+         sodipodi:role="line">FG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6e6ae;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-233.48227"
+       y="-61.673573"
+       id="text2064"><tspan
+         sodipodi:role="line"
+         id="tspan2062"
+         x="-233.29706"
+         y="-61.673573"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6e6ae;fill-opacity:1;stroke-width:0.264583">MM</tspan></text>
+    <text
+       id="text2068"
+       y="-61.673573"
+       x="-220.25308"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ffcf95;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ffcf95;fill-opacity:1;stroke-width:0.264583"
+         y="-61.673573"
+         x="-220.06787"
+         id="tspan2066"
+         sodipodi:role="line">TB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6bdb7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-207.02391"
+       y="-61.673573"
+       id="text2072"><tspan
+         sodipodi:role="line"
+         id="tspan2070"
+         x="-206.8387"
+         y="-61.673573"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6bdb7;fill-opacity:1;stroke-width:0.264583">AD</tspan></text>
+    <text
+       id="text2076"
+       y="-61.673573"
+       x="-193.79474"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#dcb0dd;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#dcb0dd;fill-opacity:1;stroke-width:0.264583"
+         y="-61.673573"
+         x="-193.60953"
+         id="tspan2074"
+         sodipodi:role="line">JS</tspan></text>
+    <text
+       id="text2080"
+       y="-61.673573"
+       x="-180.56567"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ddc8b7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ddc8b7;fill-opacity:1;stroke-width:0.264583"
+         y="-61.673573"
+         x="-180.38046"
+         id="tspan2078"
+         sodipodi:role="line">KS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#bfd6f1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-259.94064"
+       y="-61.673573"
+       id="text2084"><tspan
+         sodipodi:role="line"
+         id="tspan2082"
+         x="-259.75543"
+         y="-61.673573"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#bfd6f1;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text2088"
+       y="-61.673573"
+       x="-167.33653"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#c9c8c5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#c9c8c5;fill-opacity:1;stroke-width:0.264583"
+         y="-61.673573"
+         x="-167.15132"
+         id="tspan2086"
+         sodipodi:role="line">LL</tspan></text>
+    <rect
+       y="-185.96417"
+       x="41.931282"
+       height="10.583333"
+       width="10.583333"
+       id="rect2126"
+       style="opacity:1;fill:url(#linearGradient2232);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2216);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2128"
+       width="10.583333"
+       height="10.583333"
+       x="41.931282"
+       y="-212.42245"
+       transform="rotate(-90)" />
+    <rect
+       y="-252.11"
+       x="41.931282"
+       height="10.583333"
+       width="10.583333"
+       id="rect2130"
+       style="opacity:1;fill:url(#linearGradient2192);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2243);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2132"
+       width="10.583333"
+       height="10.583333"
+       x="41.931282"
+       y="-172.73505"
+       transform="rotate(-90)" />
+    <rect
+       y="-265.33923"
+       x="41.931282"
+       height="10.583333"
+       width="10.583333"
+       id="rect2134"
+       style="opacity:1;fill:url(#linearGradient2180);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2224);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2136"
+       width="10.583333"
+       height="10.583333"
+       x="41.931282"
+       y="-199.19328"
+       transform="rotate(-90)" />
+    <rect
+       y="-238.88083"
+       x="41.931282"
+       height="10.583333"
+       width="10.583333"
+       id="rect2138"
+       style="opacity:1;fill:url(#linearGradient2200);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2208);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2140"
+       width="10.583333"
+       height="10.583333"
+       x="41.931282"
+       y="-225.65164"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#bdf0c8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-246.71146"
+       y="-45.798496"
+       id="text2144"><tspan
+         sodipodi:role="line"
+         id="tspan2142"
+         x="-246.52625"
+         y="-45.798496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#bdf0c8;fill-opacity:1;stroke-width:0.264583">FG</tspan></text>
+    <text
+       id="text2148"
+       y="-45.798496"
+       x="-233.48227"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6eabf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6eabf;fill-opacity:1;stroke-width:0.264583"
+         y="-45.798496"
+         x="-233.29706"
+         id="tspan2146"
+         sodipodi:role="line">MM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ffd9ab;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-220.25308"
+       y="-45.798496"
+       id="text2152"><tspan
+         sodipodi:role="line"
+         id="tspan2150"
+         x="-220.06787"
+         y="-45.798496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ffd9ab;fill-opacity:1;stroke-width:0.264583">TB</tspan></text>
+    <text
+       id="text2156"
+       y="-45.798496"
+       x="-207.02391"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6bdb7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6bdb7;fill-opacity:1;stroke-width:0.264583"
+         y="-45.798496"
+         x="-206.8387"
+         id="tspan2154"
+         sodipodi:role="line">AD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#dcb0dd;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-193.79474"
+       y="-45.798496"
+       id="text2160"><tspan
+         sodipodi:role="line"
+         id="tspan2158"
+         x="-193.60953"
+         y="-45.798496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#dcb0dd;fill-opacity:1;stroke-width:0.264583">JS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ddc8b7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-180.56567"
+       y="-45.798496"
+       id="text2164"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="-180.38046"
+         y="-45.798496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ddc8b7;fill-opacity:1;stroke-width:0.264583">KS</tspan></text>
+    <text
+       id="text2168"
+       y="-45.798496"
+       x="-259.94064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#bfd6f1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#bfd6f1;fill-opacity:1;stroke-width:0.264583"
+         y="-45.798496"
+         x="-259.75543"
+         id="tspan2166"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#c9c8c5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-167.33653"
+       y="-45.798496"
+       id="text2172"><tspan
+         sodipodi:role="line"
+         id="tspan2170"
+         x="-167.15132"
+         y="-45.798496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#c9c8c5;fill-opacity:1;stroke-width:0.264583">LL</tspan></text>
+    <rect
+       transform="rotate(-90)"
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2307);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2245"
+       width="10.583333"
+       height="10.583333"
+       x="-95.652145"
+       y="-191.25583" />
+    <rect
+       transform="rotate(-90)"
+       y="-217.71411"
+       x="-95.652145"
+       height="10.583333"
+       width="10.583333"
+       id="rect2247"
+       style="opacity:1;fill:url(#linearGradient2305);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       transform="rotate(-90)"
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2303);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2249"
+       width="10.583333"
+       height="10.583333"
+       x="-95.652145"
+       y="-257.40167" />
+    <rect
+       transform="rotate(-90)"
+       y="-178.0267"
+       x="-95.652145"
+       height="10.583333"
+       width="10.583333"
+       id="rect2251"
+       style="opacity:1;fill:url(#linearGradient2301);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       transform="rotate(-90)"
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2299);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2253"
+       width="10.583333"
+       height="10.583333"
+       x="-95.652145"
+       y="-270.63092" />
+    <rect
+       transform="rotate(-90)"
+       y="-204.48494"
+       x="-95.652145"
+       height="10.583333"
+       width="10.583333"
+       id="rect2255"
+       style="opacity:1;fill:url(#linearGradient2297);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <rect
+       transform="rotate(-90)"
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2295);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2257"
+       width="10.583333"
+       height="10.583333"
+       x="-95.652145"
+       y="-244.17249" />
+    <rect
+       transform="rotate(-90)"
+       y="-230.9433"
+       x="-95.652145"
+       height="10.583333"
+       width="10.583333"
+       id="rect2259"
+       style="opacity:1;fill:url(#linearGradient2293);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <text
+       id="text2263"
+       y="91.78492"
+       x="-252.00311"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583"
+         y="91.78492"
+         x="-251.8179"
+         id="tspan2261"
+         sodipodi:role="line">FG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f9f4e1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-238.77393"
+       y="91.78492"
+       id="text2267"><tspan
+         sodipodi:role="line"
+         id="tspan2265"
+         x="-238.58871"
+         y="91.78492"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f9f4e1;fill-opacity:1;stroke-width:0.264583">MM</tspan></text>
+    <text
+       id="text2271"
+       y="91.78492"
+       x="-225.54474"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ffe5c5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ffe5c5;fill-opacity:1;stroke-width:0.264583"
+         y="91.78492"
+         x="-225.35953"
+         id="tspan2269"
+         sodipodi:role="line">TB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6c8c4;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-212.31557"
+       y="91.78492"
+       id="text2275"><tspan
+         sodipodi:role="line"
+         id="tspan2273"
+         x="-212.13036"
+         y="91.78492"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6c8c4;fill-opacity:1;stroke-width:0.264583">AD</tspan></text>
+    <text
+       id="text2279"
+       y="91.78492"
+       x="-199.0864"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#e7c2e8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#e7c2e8;fill-opacity:1;stroke-width:0.264583"
+         y="91.78492"
+         x="-198.90118"
+         id="tspan2277"
+         sodipodi:role="line">JS</tspan></text>
+    <text
+       id="text2283"
+       y="91.78492"
+       x="-185.85733"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#e5d6ca;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#e5d6ca;fill-opacity:1;stroke-width:0.264583"
+         y="91.78492"
+         x="-185.67212"
+         id="tspan2281"
+         sodipodi:role="line">KS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cfe1f5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-265.23233"
+       y="91.78492"
+       id="text2287"><tspan
+         sodipodi:role="line"
+         id="tspan2285"
+         x="-265.04712"
+         y="91.78492"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cfe1f5;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text2291"
+       y="91.78492"
+       x="-172.62819"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d8d7d3;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d8d7d3;fill-opacity:1;stroke-width:0.264583"
+         y="91.78492"
+         x="-172.44298"
+         id="tspan2289"
+         sodipodi:role="line">LL</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,44.337573)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1136"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1138"><rect
+           y="-56.460339"
+           x="87.681236"
+           height="138.59293"
+           width="571.34229"
+           id="rect1140" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:32px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold'"
+         id="flowPara1142">Default User Avatars</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1150"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:35%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,65.504239)"><flowRegion
+         style="fill:#2e3436"
+         id="flowRegion1146"><rect
+           style="fill:#2e3436"
+           id="rect1144"
+           width="571.34229"
+           height="138.59293"
+           x="87.681236"
+           y="-56.460339" /></flowRegion><flowPara
+         id="flowPara1148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">The avatars are generated with the initials of the user's name.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1381" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1385">There are 8 different color variants, which consist of a vertical gradient along the entire height and a matching tinted foreground color.</flowPara></flowRoot>
+    <path
+       id="path2395"
+       fill="#2e3436"
+       overflow="visible"
+       color="#bebebe"
+       style="stroke-width:0.264583;marker:none"
+       d="m -303.07746,-37.14399 a 0.79375,0.79375 0 1 0 0,1.5875 0.79375,0.79375 0 0 0 0,-1.5875 z m -0.39688,1.85209 a 1.1879791,1.1879791 0 0 0 -1.19062,1.190623 v 0.13229 c 0,0.264589 0.26458,0.264589 0.26458,0.264589 h 2.64583 c 0,0 0.26459,0 0.26459,-0.264589 v -0.13229 a 1.1879791,1.1879791 0 0 0 -1.19063,-1.190623 z"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="-270.63074"
+       x="-156.77055"
+       height="4.233006"
+       width="4.233006"
+       id="rect2572"
+       style="opacity:1;fill:url(#linearGradient2574);fill-opacity:1;stroke:none;stroke-width:0.105825;stroke-opacity:1"
+       rx="2.116503"
+       ry="2.116503"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-249.64929"
+       y="153.06656"
+       id="text2432"><tspan
+         sodipodi:role="line"
+         id="tspan2430"
+         x="-249.46408"
+         y="153.06656"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       id="text2436"
+       y="154.61937"
+       x="-260.76331"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="154.61937"
+         x="-260.76331"
+         id="tspan2434"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-268.44016"
+       y="155.44765"
+       id="text2440"><tspan
+         sodipodi:role="line"
+         id="tspan2438"
+         x="-268.44016"
+         y="155.44765"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.11667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-249.46407"
+       y="219.21234"
+       id="text2450"><tspan
+         sodipodi:role="line"
+         id="tspan2448"
+         x="-249.46407"
+         y="219.21234"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:4.58611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583">C</tspan></text>
+    <text
+       id="text2454"
+       y="221.02904"
+       x="-260.84116"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.52778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="221.02904"
+         x="-260.84116"
+         id="tspan2452"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-268.51413"
+       y="221.59335"
+       id="text2458"><tspan
+         sodipodi:role="line"
+         id="tspan2456"
+         x="-268.51413"
+         y="221.59335"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.46944px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">C</tspan></text>
+    <rect
+       y="-185.96417"
+       x="26.056202"
+       height="10.583333"
+       width="10.583333"
+       id="rect2460"
+       style="opacity:1;fill:url(#linearGradient2522);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2520);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2462"
+       width="10.583333"
+       height="10.583333"
+       x="26.056202"
+       y="-212.42245"
+       transform="rotate(-90)" />
+    <rect
+       y="-252.11"
+       x="26.056202"
+       height="10.583333"
+       width="10.583333"
+       id="rect2464"
+       style="opacity:1;fill:url(#linearGradient2518);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2516);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2466"
+       width="10.583333"
+       height="10.583333"
+       x="26.056202"
+       y="-172.73505"
+       transform="rotate(-90)" />
+    <rect
+       y="-265.33923"
+       x="26.056202"
+       height="10.583333"
+       width="10.583333"
+       id="rect2468"
+       style="opacity:1;fill:url(#linearGradient2514);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2512);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2470"
+       width="10.583333"
+       height="10.583333"
+       x="26.056202"
+       y="-199.19328"
+       transform="rotate(-90)" />
+    <rect
+       y="-238.88083"
+       x="26.056202"
+       height="10.583333"
+       width="10.583333"
+       id="rect2472"
+       style="opacity:1;fill:url(#linearGradient2510);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <rect
+       ry="5.2916665"
+       rx="5.2916665"
+       style="opacity:1;fill:url(#linearGradient2508);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2474"
+       width="10.583333"
+       height="10.583333"
+       x="26.056202"
+       y="-225.65164"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-246.71146"
+       y="-29.923428"
+       id="text2478"><tspan
+         sodipodi:role="line"
+         id="tspan2476"
+         x="-246.52625"
+         y="-29.923428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583">FG</tspan></text>
+    <text
+       id="text2482"
+       y="-29.923428"
+       x="-233.48227"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f9f4e1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f9f4e1;fill-opacity:1;stroke-width:0.264583"
+         y="-29.923428"
+         x="-233.29706"
+         id="tspan2480"
+         sodipodi:role="line">MM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#ffe5c5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-220.25308"
+       y="-29.923428"
+       id="text2486"><tspan
+         sodipodi:role="line"
+         id="tspan2484"
+         x="-220.06787"
+         y="-29.923428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#ffe5c5;fill-opacity:1;stroke-width:0.264583">TB</tspan></text>
+    <text
+       id="text2490"
+       y="-29.923428"
+       x="-207.02391"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#f6c8c4;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#f6c8c4;fill-opacity:1;stroke-width:0.264583"
+         y="-29.923428"
+         x="-206.8387"
+         id="tspan2488"
+         sodipodi:role="line">AD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#e7c2e8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-193.79474"
+       y="-29.923428"
+       id="text2494"><tspan
+         sodipodi:role="line"
+         id="tspan2492"
+         x="-193.60953"
+         y="-29.923428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#e7c2e8;fill-opacity:1;stroke-width:0.264583">JS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#e5d6ca;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-180.56567"
+       y="-29.923428"
+       id="text2498"><tspan
+         sodipodi:role="line"
+         id="tspan2496"
+         x="-180.38046"
+         y="-29.923428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#e5d6ca;fill-opacity:1;stroke-width:0.264583">KS</tspan></text>
+    <text
+       id="text2502"
+       y="-29.923428"
+       x="-259.94064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cfe1f5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cfe1f5;fill-opacity:1;stroke-width:0.264583"
+         y="-29.923428"
+         x="-259.75543"
+         id="tspan2500"
+         sodipodi:role="line">AJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#d8d7d3;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-167.33653"
+       y="-29.923428"
+       id="text2506"><tspan
+         sodipodi:role="line"
+         id="tspan2504"
+         x="-167.15132"
+         y="-29.923428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#d8d7d3;fill-opacity:1;stroke-width:0.264583">LL</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,123.71254)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:60%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot2599"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2595"
+         style="line-height:60%;fill:#2e3436"><rect
+           y="-56.460339"
+           x="87.681236"
+           height="138.59293"
+           width="571.34229"
+           id="rect2593"
+           style="line-height:60.00000238%;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:60%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara2597">Multiple Names</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2607"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:35%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,134.29586)"><flowRegion
+         style="fill:#2e3436"
+         id="flowRegion2603"><rect
+           style="fill:#2e3436;stroke-width:1;"
+           id="rect2601"
+           width="571.34229"
+           height="138.59293"
+           x="87.681236"
+           y="-56.460339" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1248">If there are more than two names we use</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara2615">the initials of the first two.</flowPara></flowRoot>
+    <rect
+       transform="rotate(-90)"
+       ry="8.4666662"
+       rx="8.4666662"
+       style="opacity:1;fill:url(#linearGradient1256);fill-opacity:1;stroke:none;stroke-width:0.423332;stroke-opacity:1"
+       id="rect1250"
+       width="16.933332"
+       height="16.933332"
+       x="-156.77072"
+       y="-242.05592" />
+    <text
+       id="text1254"
+       y="150.47575"
+       x="-233.77432"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583"
+         y="150.47575"
+         x="-233.58911"
+         id="tspan1252"
+         sodipodi:role="line">AJ</tspan></text>
+    <rect
+       y="-242.05592"
+       x="-222.91643"
+       height="16.933332"
+       width="16.933332"
+       id="rect1293"
+       style="opacity:1;fill:url(#linearGradient1299);fill-opacity:1;stroke:none;stroke-width:0.423332;stroke-opacity:1"
+       rx="8.4666662"
+       ry="8.4666662"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;word-spacing:0px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-233.77432"
+       y="216.62146"
+       id="text1297"><tspan
+         sodipodi:role="line"
+         id="tspan1295"
+         x="-233.58911"
+         y="216.62146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0.370417px;text-anchor:middle;fill:#cbf7d5;fill-opacity:1;stroke-width:0.264583">C</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1307"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:60%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,189.85829)"><flowRegion
+         style="line-height:60%;fill:#2e3436"
+         id="flowRegion1303"><rect
+           style="line-height:60.00000238%;fill:#2e3436"
+           id="rect1301"
+           width="571.34229"
+           height="138.59293"
+           x="87.681236"
+           y="-56.460339" /></flowRegion><flowPara
+         id="flowPara1305"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:60%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Only One Name</flowPara></flowRoot>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-296.78236,200.44161)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:35%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot1317"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1311"
+         style="fill:#2e3436"><rect
+           y="-56.460339"
+           x="87.681236"
+           height="138.59293"
+           width="571.34229"
+           id="rect1309"
+           style="fill:#2e3436;stroke-width:1;" /></flowRegion><flowPara
+         id="flowPara1315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">If there's only one name we only use one letter.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1389">In this case the font size can be a bit larger at small</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1391">sizes.</flowPara></flowRoot>
+    <rect
+       y="-156.86023"
+       x="-95.652145"
+       height="10.583333"
+       width="10.583333"
+       id="rect1327"
+       style="opacity:1;fill:url(#linearGradient1333);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       rx="5.2916665"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -151.56856,88.640668 a 0.79375,0.79375 0 1 0 0,1.5875 0.79375,0.79375 0 0 0 0,-1.5875 z m -0.39688,1.85209 a 1.1879791,1.1879791 0 0 0 -1.19062,1.190623 v 0.13229 c 0,0.26459 0.26458,0.26459 0.26458,0.26459 h 2.64583 c 0,0 0.26459,0 0.26459,-0.26459 v -0.13229 a 1.1879791,1.1879791 0 0 0 -1.19063,-1.190623 z"
+       style="fill:#cfe1f5;fill-opacity:1;stroke-width:0.264583;marker:none"
+       color="#bebebe"
+       overflow="visible"
+       fill="#2e3436"
+       id="path2395-3" />
+    <flowRoot
+       transform="matrix(0.26458332,0,0,0.26458332,-165.5071,99.639357)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:35%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot2607-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2603-7"
+         style="fill:#2e3436"><rect
+           y="-56.460339"
+           x="87.681236"
+           height="138.59293"
+           width="571.34229"
+           id="rect2601-5"
+           style="fill:#2e3436;stroke-width:1;" /></flowRegion><flowPara
+         id="flowPara2615-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">If there's no name we use</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1379">a symbolic icon instead</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1403"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:35%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-238.5741,150.17084)"><flowRegion
+         style="fill:#2e3436"
+         id="flowRegion1395"><rect
+           style="fill:#2e3436;stroke-width:1;"
+           id="rect1393"
+           width="571.34229"
+           height="138.59293"
+           x="87.681236"
+           y="-56.460339" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1414">At smaller sizes the text is pure white, larger compared to the</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1418">overall circle size, and ultra bold.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1420" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1422">At larger sizes (&gt;40px) the text is tinted, smaller compared to</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara1424">the overall circle size, and bold.</flowPara></flowRoot>
+  </g>
+</svg>
