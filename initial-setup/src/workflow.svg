@@ -17,7 +17,7 @@
    id="svg4915"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="workflow.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/os-mockups/initial-setup/workflow-postinstall.png"
+   inkscape:export-filename="/home/jimmac/SparkleShare/os-mockups/initial-setup/workflow.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -309,9 +309,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-1.1441796"
-     inkscape:cy="3800.0379"
+     inkscape:zoom="1"
+     inkscape:cx="1796.3016"
+     inkscape:cy="1538.3158"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2365,7 +2365,7 @@
          sodipodi:role="line"
          style="font-size:3.88055563px;line-height:1.25;stroke-width:0.26458332">Data Migration</tspan></text>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#deddda;fill-opacity:1;fill-rule:nonzero;stroke:#9a9996;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate;font-variant-east_asian:normal;vector-effect:none"
        id="rect8108"
        width="23.547916"
        height="8.7312498"
@@ -2378,7 +2378,7 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#c0bfbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
        x="612.86859"
        y="168.41081"
        id="text8112"
@@ -2389,7 +2389,7 @@
          id="tspan8110"
          x="612.86859"
          y="168.41081"
-         style="font-weight:normal;font-size:3.88055563px;line-height:1.25;fill:#c0bfbc;stroke-width:0.26458332">Next</tspan></text>
+         style="font-weight:normal;font-size:3.88055563px;line-height:1.25;fill:#919191;stroke-width:0.26458332;font-style:normal;font-variant:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">Next</tspan></text>
     <g
        transform="matrix(0.26458333,0,0,0.26458333,427.90726,101.17315)"
        style="display:inline"
