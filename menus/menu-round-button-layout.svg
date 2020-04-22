@@ -33,7 +33,7 @@
      inkscape:cx="140.56856"
      inkscape:cy="581.03052"
      inkscape:document-units="px"
-     inkscape:current-layer="g1346"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showborder="true"
@@ -1222,6 +1222,16 @@
        style="fill:none;stroke:#87b6ef;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 49.741666,139.57293 v 5.29167"
        id="path1370"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5829"
+       d="M 25.796876,282.44797 V 121.05208"
+       style="fill:none;stroke:#99c1f1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.52916666000000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#99c1f1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.52916666000000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 100.1448,282.44797 V 121.05208"
+       id="path5831"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
