@@ -105,7 +105,7 @@ mail_3.states.hover = {
 };
 
 mail_3.states.previous_actions = {
-  y: 446 + 27
+  y: 446 + 32
 };
 
 mail_3_Dots = new Layer({
